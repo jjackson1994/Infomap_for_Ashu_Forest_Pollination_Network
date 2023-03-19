@@ -14,4 +14,5 @@ ggalluvial
 sudo apt-get build-dep libcurl4-gnutls-dev
 sudo apt-get install libcurl4-gnutls-dev
 sudo apt-get install -y libcurl4-gnutls-dev
+sudo apt-get install libxml2-dev
 ````
