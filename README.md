@@ -1,3 +1,4 @@
+![forest.jpg](images/forest.jpg)
 # Infomap for Ashu Forest Pollination Network
 ---
 ### Data :Kyoto University Forest of Ashu -  Kato et al. (1990)
