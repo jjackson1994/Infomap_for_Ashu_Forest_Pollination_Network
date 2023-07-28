@@ -1,0 +1,142 @@
+#N nodes = 43, N features = 26
+
+*Vertices 69
+564"Agelastica_coerulea_" 
+732"Andrena__akitsushimae_" 
+735"Andrena__hikosana_" 
+742"Andrena__halictoides_" 
+541"Anoploderomorpha_excavata_" 
+409"ANTHOMYIIDAE28_" 
+412"ANTHOMYIIDAE31_" 
+415"ANTHOMYIIDAE38_" 
+765"Apis_cerana_" 
+766"Apis_mellifera_" 
+760"Bombus__hypocrita_hypocrita_" 
+762"Bombus__diversus_diversus_" 
+764"Bombus__honshuensis_" 
+755"Ceratina_megastigmata_" 
+226"CHIRONOMIDAE5_" 
+394"CLUSIIDAE1_" 
+395"CLUSIIDAE2_" 
+143"DELTOCEPHALIDAE4_" 
+481"Ectinohoplia_obducta_" 
+257"EMPIDIDAE27_" 
+262"EMPIDIDAE32_" 
+517"Epuraea_sp._" 
+303"Eristalis_cerealis_" 
+122"Eurystylus_coelestialium_" 
+477"Eusphalerum_parallelum_" 
+497"Gamepenthes_versipellis_" 
+703"Hylaeus_globula_" 
+548"Idiostrangalia_contracta_" 
+706"Lasioglossum__sp.2_" 
+714"Lasioglossum__transpositum_" 
+715"Lasioglossum__apristum_" 
+721"Lasioglossum__sp.3_" 
+552"Leptura_ochraceofasciata_" 
+278"LONCHOPTERIDAE1_" 
+312"Melanostoma_scalare_" 
+130"MIRIDAE3_" 
+529"Mordellistena_sp._" 
+519"NITIDULIDAE6_" 
+553"Parastrangalis_nymphula_" 
+240"Philopota_nigroaenea_" 
+507"Podabrus_temporalis_" 
+577"Syreta_adamsi_" 
+538"Xanthochroa_luteipennis_" 
+0"thunbergii" 
+1"macrophylla" 
+2"paniculata" 
+3"alatus" 
+4"hortensis" 
+5"aemula" 
+6"trichocarpa" 
+7"javanica" 
+8"crenata" 
+9"platanifolium" 
+10"japonicum" 
+11"kagamontanum" 
+12"textori" 
+13"lineariloba" 
+14"vaginata" 
+15"verecunda" 
+16"pallida" 
+17"salicina" 
+18"gracilistyla" 
+19"plicatum" 
+20"incisa" 
+21"pubescens" 
+22"dioicus" 
+23"hirta" 
+24"chinensis" 
+25"Grayana" 
+
+*Bipartite 43
+564 0 6
+732 1 11
+732 2 9
+735 3 8
+742 4 11
+541 1 9
+409 5 12
+412 3 6
+415 5 106
+765 2 9
+765 6 34
+765 7 6
+766 8 11
+760 1 13
+760 2 6
+760 4 6
+762 9 7
+762 10 6
+762 11 29
+762 12 8
+762 4 6
+764 11 19
+764 6 17
+755 13 13
+755 14 12
+755 15 9
+226 16 6
+394 5 6
+394 3 43
+395 5 8
+143 5 36
+481 8 6
+257 5 8
+262 5 7
+517 17 6
+517 18 12
+303 0 13
+303 19 6
+122 7 6
+477 20 19
+477 18 15
+497 2 7
+703 21 20
+703 7 7
+703 19 6
+548 22 6
+706 3 8
+714 8 9
+714 1 13
+715 8 9
+715 3 10
+715 23 13
+715 2 10
+715 24 8
+721 1 6
+552 1 9
+278 5 14
+312 5 19
+130 6 20
+529 24 7
+529 19 9
+519 2 6
+553 1 9
+240 4 14
+507 5 13
+507 25 7
+577 20 9
+538 2 8

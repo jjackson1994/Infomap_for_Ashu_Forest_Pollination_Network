@@ -1,0 +1,546 @@
+#N nodes = 175, N features = 49
+
+*Vertices 224
+564"Agelastica_coerulea_" 
+526"ALLECULIDAE1_" 
+725"Andrena__brevihirtiscopa_" 
+726"Andrena__ishiharai_" 
+728"Andrena__tsukubana_" 
+731"Andrena__omogensis_" 
+732"Andrena__akitsushimae_" 
+733"Andrena__dentata_" 
+735"Andrena__hikosana_" 
+737"Andrena__komachi_" 
+740"Andrena__opacifovea_opacifovea_" 
+741"Andrena__yamamotoi_" 
+742"Andrena__halictoides_" 
+541"Anoploderomorpha_excavata_" 
+400"ANTHOMYIIDAE12_" 
+402"ANTHOMYIIDAE16_" 
+405"ANTHOMYIIDAE21_" 
+407"ANTHOMYIIDAE25_" 
+409"ANTHOMYIIDAE28_" 
+411"ANTHOMYIIDAE3_" 
+412"ANTHOMYIIDAE31_" 
+413"ANTHOMYIIDAE34_" 
+415"ANTHOMYIIDAE38_" 
+416"ANTHOMYIIDAE4_" 
+424"ANTHOMYIIDAE50_" 
+426"ANTHOMYIIDAE7_" 
+523"Anthromacra_viriclissima_" 
+765"Apis_cerana_" 
+766"Apis_mellifera_" 
+504"Athemellus_insulsus_" 
+209"BIBIONIDAE1_" 
+480"Blitopertha_orientalis_" 
+760"Bombus__hypocrita_hypocrita_" 
+762"Bombus__diversus_diversus_" 
+763"Bombus__ardens_" 
+764"Bombus__honshuensis_" 
+237"Bombylius_major_" 
+462"CALLIPHORIDAE10_" 
+197"CECIDOMYIIDAE4_" 
+199"CECIDOMYIIDAE6_" 
+531"Cephaloon_pallensa_" 
+238"Cephenius_nitobei_" 
+239"Cephenius_sp._" 
+752"Ceratina_esakii_" 
+753"Ceratina_flavipes_" 
+754"Ceratina_japonica_" 
+755"Ceratina_megastigmata_" 
+229"CERATOPOGONIDAE1_" 
+693"Cerceris_carinalis_" 
+286"Cheilosia_omogensis_" 
+287"Cheilosia_sp.1_" 
+289"Cheilosia_sp.11_" 
+290"Cheilosia_sp.12_" 
+293"Cheilosia_sp.6_" 
+294"Cheilosia_sp.7_" 
+295"Cheilosia_sp.9_" 
+296"Cheilosia_sp.14_" 
+226"CHIRONOMIDAE5_" 
+228"CHIRONOMIDAE9_" 
+382"CHLOROPIDAE18_" 
+386"CHLOROPIDAE23_" 
+567"CHRYSOMELIDAE20_" 
+572"CHRYSOMELIDAE32_" 
+147"CIXIIDAE1_" 
+394"CLUSIIDAE1_" 
+395"CLUSIIDAE2_" 
+143"DELTOCEPHALIDAE4_" 
+545"Demonax_transilis_" 
+696"Ectemnius__radiatus_" 
+698"Ectemnuis_radiatus_" 
+481"Ectinohoplia_obducta_" 
+460"Ectophasia_sinensis_" 
+494"ELATERIDAE3_" 
+495"ELATERIDAE8_" 
+242"EMPIDIDAE10_" 
+243"EMPIDIDAE11_" 
+244"EMPIDIDAE13_" 
+246"EMPIDIDAE15_" 
+247"EMPIDIDAE16_" 
+249"EMPIDIDAE19_" 
+256"EMPIDIDAE25_" 
+257"EMPIDIDAE27_" 
+258"EMPIDIDAE28_" 
+261"EMPIDIDAE31_" 
+262"EMPIDIDAE32_" 
+266"EMPIDIDAE39_" 
+267"EMPIDIDAE4_" 
+269"EMPIDIDAE45_" 
+271"EMPIDIDAE6_" 
+272"EMPIDIDAE7_" 
+302"Episyrphus_balteatus_" 
+517"Epuraea_sp._" 
+303"Eristalis_cerealis_" 
+304"Eristalomya_tenax_" 
+122"Eurystylus_coelestialium_" 
+477"Eusphalerum_parallelum_" 
+680"Formica_japonica_" 
+497"Gamepenthes_versipellis_" 
+306"Helophilus_virgatus_" 
+703"Hylaeus_globula_" 
+630"ICHNEUMONIDAE1_" 
+548"Idiostrangalia_contracta_" 
+705"Lasioglossum__problematicum_" 
+706"Lasioglossum__sp.2_" 
+710"Lasioglossum__sexstrigatum_" 
+711"Lasioglossum__sp.25_" 
+714"Lasioglossum__transpositum_" 
+715"Lasioglossum__apristum_" 
+716"Lasioglossum__baleicum_" 
+719"Lasioglossum__occidens_" 
+720"Lasioglossum__proximatum_" 
+721"Lasioglossum__sp.3_" 
+682"Lasius_niger_" 
+358"LAUXANIIDAE5_" 
+359"LAUXANIIDAE9_" 
+552"Leptura_ochraceofasciata_" 
+573"Linoetis_coeruleipennis_" 
+596"Loderus_eversmanini_obscurus_" 
+278"LONCHOPTERIDAE1_" 
+505"Malthodes_sulcicollis_" 
+151"MECOPTERA2_" 
+154"MECOPTERA5_" 
+746"Megachile_remota_sakagamii_" 
+747"Megachile_tsurugensis_" 
+311"Megaspis_zonata_" 
+312"Melanostoma_scalare_" 
+499"Melanotus_annosus_" 
+124"MIRIDAE13_" 
+130"MIRIDAE3_" 
+528"Mordellina_sp._" 
+529"Mordellistena_sp._" 
+319"Neoascia_sp._" 
+519"NITIDULIDAE6_" 
+575"Nonartha_cyaneum_" 
+534"Oedemeronia_manicata_" 
+110"ORTHOPTERA1_" 
+748"Osmia_orientalis_" 
+749"Osmia_taurus_" 
+553"Parastrangalis_nymphula_" 
+485"Paratrichius_doentzi_" 
+175"Parnara_guttata_" 
+240"Philopota_nigroaenea_" 
+280"PHORIDAE1_" 
+557"Pidonia_signifera_" 
+322"Pipiza_familiaris_" 
+511"Plateros_sp._" 
+108"PLECOPTERA10_" 
+507"Podabrus_temporalis_" 
+488"Popillia_japonica_" 
+684"Pristomyrmex_punger_" 
+508"Prothemus_ciusianus_" 
+559"Pseudaosterna_misella_" 
+700"Rhopalum__latronum_" 
+399"SCATOPHAGIDAE1_" 
+561"Schwarzerium_quadricolle_" 
+201"SCIARIDAE11_" 
+202"SCIARIDAE12_" 
+327"Sphaerophoria_macrogaster_" 
+328"Sphaerophoria_menthastri_" 
+329"Sphegina_sp.1_" 
+577"Syreta_adamsi_" 
+333"Syrphus_vitripennis_" 
+600"Taxonus_fulvicornis_" 
+601"Tenthredinidae_sp.?1_" 
+602"Tenthredo_convagennata_" 
+603"Tenthredo_fukaii_" 
+509"Tremus_cyanipennis_" 
+578"Tricholochmaea_semifulva_" 
+157"TRICHOPTERA6_" 
+689"Vespa_xanthoptera_" 
+500"Vuilletus_viridissllis_" 
+537"Xanthochroa_deformis_" 
+538"Xanthochroa_luteipennis_" 
+539"Xanthochroa_waterhousei_" 
+768"LUSIIDAE1_" 
+0"thunbergii" 
+1"macrophylla" 
+2"salicina" 
+3"japonica" 
+4"pubescens" 
+5"crenata" 
+6"amurense" 
+7"paniculata" 
+8"alatus" 
+9"hirta" 
+10"chinensis" 
+11"vaginata" 
+12"multiflora" 
+13"hortensis" 
+14"aemula" 
+15"annuus" 
+16"dentata" 
+17"plicatum" 
+18"controversa" 
+19"pallida" 
+20"tomentella" 
+21"trichocarpa" 
+22"javanica" 
+23"repens" 
+24"verecunda" 
+25"platanifolium" 
+26"japonicum" 
+27"kagamontanum" 
+28"textori" 
+29"obtusifolium" 
+30"longituba" 
+31"bicolor" 
+32"lineariloba" 
+33"incisa" 
+34"kusanoana" 
+35"gracilistyla" 
+36"flaccida" 
+37"glehni" 
+38"nepalense" 
+39"griffithii" 
+40"Grayana" 
+41"rufinerve" 
+42"salicifolia" 
+43"senticosa" 
+44"brevipedunculata" 
+45"dioicus" 
+46"alternifolia" 
+47"clethroides" 
+48"villosa" 
+
+*Bipartite 175
+564 0 6
+564 1 2
+526 0 2
+725 2 2
+725 3 2
+726 4 3
+728 5 5
+731 6 3
+732 1 11
+732 7 9
+733 7 2
+735 5 2
+735 8 8
+735 9 3
+735 10 2
+737 11 2
+740 10 2
+741 5 3
+741 12 2
+742 13 11
+541 1 9
+400 14 2
+400 4 3
+402 4 2
+405 8 4
+407 4 2
+407 15 2
+409 14 12
+409 9 2
+411 4 3
+412 8 6
+412 16 3
+412 17 2
+413 8 2
+415 14 106
+415 9 5
+416 14 2
+424 7 5
+426 14 2
+523 10 2
+523 17 3
+523 13 3
+523 18 5
+765 5 2
+765 19 4
+765 20 3
+765 7 9
+765 21 34
+765 22 6
+765 23 2
+766 5 11
+766 1 3
+766 21 2
+504 1 3
+209 2 2
+480 15 4
+760 19 3
+760 5 4
+760 1 13
+760 7 6
+760 22 5
+760 24 2
+760 13 6
+762 25 7
+762 26 6
+762 27 29
+762 5 2
+762 20 2
+762 1 3
+762 28 8
+762 29 2
+762 30 2
+762 13 6
+763 20 2
+763 3 2
+763 13 3
+764 27 19
+764 31 2
+764 29 4
+764 21 17
+237 32 4
+237 33 2
+237 34 2
+462 14 2
+197 14 2
+199 35 5
+531 8 2
+238 21 2
+239 21 3
+752 24 2
+753 15 3
+754 19 3
+754 5 2
+754 21 2
+754 34 2
+754 13 2
+755 36 5
+755 37 2
+755 27 2
+755 32 13
+755 19 3
+755 38 4
+755 39 2
+755 0 2
+755 21 4
+755 34 3
+755 11 12
+755 24 9
+755 18 2
+229 35 3
+693 0 4
+286 4 3
+286 6 2
+287 14 2
+289 32 2
+290 40 2
+293 0 2
+294 14 3
+295 36 2
+296 36 2
+226 19 6
+228 19 2
+382 5 2
+386 14 2
+567 0 2
+572 33 2
+147 14 2
+147 17 2
+394 14 6
+394 8 43
+394 1 2
+394 16 3
+394 17 4
+394 18 2
+395 14 8
+143 14 36
+545 18 2
+696 0 2
+698 0 2
+481 5 6
+460 4 2
+494 1 2
+495 1 2
+242 9 2
+243 14 3
+244 14 3
+246 14 4
+247 14 2
+249 13 3
+256 14 3
+257 14 8
+258 14 2
+261 41 5
+261 14 2
+262 14 7
+266 14 2
+266 5 2
+267 35 2
+269 14 2
+271 14 2
+272 14 3
+302 8 2
+302 1 3
+517 5 2
+517 42 4
+517 2 6
+517 35 12
+303 37 2
+303 0 2
+303 5 2
+303 27 2
+303 5 2
+303 7 4
+303 43 3
+303 0 13
+303 2 4
+303 22 3
+303 17 6
+303 13 2
+303 18 2
+304 16 3
+122 44 2
+122 7 2
+122 22 6
+477 33 19
+477 2 2
+477 35 15
+680 0 2
+680 5 2
+680 7 2
+497 0 4
+497 7 7
+306 37 2
+306 0 2
+703 44 2
+703 4 20
+703 3 2
+703 22 7
+703 17 6
+630 21 3
+548 45 6
+548 1 4
+705 14 2
+705 19 2
+706 8 8
+706 9 3
+710 4 2
+711 1 4
+714 46 4
+714 5 9
+714 9 3
+714 1 13
+714 17 2
+715 14 2
+715 5 9
+715 8 10
+715 9 13
+715 1 2
+715 7 10
+715 10 8
+715 17 2
+715 18 5
+716 1 2
+719 7 3
+719 16 3
+719 47 2
+719 21 2
+720 14 2
+720 13 2
+720 18 2
+721 1 6
+682 14 2
+682 7 4
+682 24 2
+358 47 2
+359 14 4
+552 1 9
+573 13 3
+596 32 2
+278 14 14
+505 14 2
+151 14 3
+151 8 4
+151 10 2
+154 14 5
+746 31 3
+747 22 2
+311 0 2
+312 14 19
+312 8 5
+312 9 2
+499 8 2
+124 1 2
+130 21 20
+528 35 3
+529 14 4
+529 5 3
+529 7 2
+529 10 7
+529 17 9
+529 18 2
+319 2 3
+519 7 6
+575 48 3
+534 17 3
+534 18 2
+110 3 2
+748 32 2
+749 11 2
+553 45 2
+553 5 2
+553 1 9
+553 7 3
+485 7 5
+175 7 2
+240 13 14
+280 0 4
+557 8 3
+557 13 3
+322 14 2
+511 7 2
+108 14 2
+507 14 13
+507 40 7
+507 10 2
+507 17 4
+488 5 2
+684 7 2
+508 14 2
+559 0 2
+700 4 4
+700 0 3
+399 8 2
+561 7 2
+201 14 2
+202 14 2
+327 5 3
+328 5 2
+328 16 3
+328 47 3
+329 0 2
+577 33 9
+333 8 3
+600 21 2
+601 40 2
+602 13 2
+603 2 2
+509 17 2
+578 33 3
+157 9 2
+689 21 3
+689 17 2
+500 18 2
+537 7 2
+538 7 8
+539 7 2
+768 5 3
