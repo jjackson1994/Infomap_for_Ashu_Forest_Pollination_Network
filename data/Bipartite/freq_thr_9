@@ -1,0 +1,88 @@
+#N nodes = 28, N features = 17
+
+*Vertices 45
+732"Andrena  akitsushimae " 
+742"Andrena  halictoides " 
+541"Anoploderomorpha excavata " 
+409"ANTHOMYIIDAE28 " 
+415"ANTHOMYIIDAE38 " 
+765"Apis cerana " 
+766"Apis mellifera " 
+760"Bombus  hypocrita hypocrita " 
+762"Bombus  diversus diversus " 
+764"Bombus  honshuensis " 
+755"Ceratina megastigmata " 
+394"CLUSIIDAE1 " 
+143"DELTOCEPHALIDAE4 " 
+517"Epuraea sp. " 
+303"Eristalis cerealis " 
+477"Eusphalerum parallelum " 
+703"Hylaeus globula " 
+714"Lasioglossum  transpositum " 
+715"Lasioglossum  apristum " 
+552"Leptura ochraceofasciata " 
+278"LONCHOPTERIDAE1 " 
+312"Melanostoma scalare " 
+130"MIRIDAE3 " 
+529"Mordellistena sp. " 
+553"Parastrangalis nymphula " 
+240"Philopota nigroaenea " 
+507"Podabrus temporalis " 
+577"Syreta adamsi " 
+0"macrophylla" 
+1"paniculata" 
+2"hortensis" 
+3"aemula" 
+4"trichocarpa" 
+5"crenata" 
+6"kagamontanum" 
+7"lineariloba" 
+8"vaginata" 
+9"verecunda" 
+10"alatus" 
+11"gracilistyla" 
+12"thunbergii" 
+13"incisa" 
+14"pubescens" 
+15"hirta" 
+16"plicatum" 
+
+*Bipartite 28
+732 0 11
+732 1 9
+742 2 11
+541 0 9
+409 3 12
+415 3 106
+765 1 9
+765 4 34
+766 5 11
+760 0 13
+762 6 29
+764 6 19
+764 4 17
+755 7 13
+755 8 12
+755 9 9
+394 10 43
+143 3 36
+517 11 12
+303 12 13
+477 13 19
+477 11 15
+703 14 20
+714 5 9
+714 0 13
+715 5 9
+715 10 10
+715 15 13
+715 1 10
+552 0 9
+278 3 14
+312 3 19
+130 4 20
+529 16 9
+553 0 9
+240 2 14
+507 3 13
+577 13 9

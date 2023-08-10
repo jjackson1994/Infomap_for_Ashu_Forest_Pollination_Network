@@ -1,0 +1,205 @@
+#N nodes = 61, N features = 34
+
+*Vertices 95
+564"Agelastica coerulea " 
+728"Andrena  tsukubana " 
+732"Andrena  akitsushimae " 
+735"Andrena  hikosana " 
+742"Andrena  halictoides " 
+541"Anoploderomorpha excavata " 
+405"ANTHOMYIIDAE21 " 
+409"ANTHOMYIIDAE28 " 
+412"ANTHOMYIIDAE31 " 
+415"ANTHOMYIIDAE38 " 
+424"ANTHOMYIIDAE50 " 
+523"Anthromacra viriclissima " 
+765"Apis cerana " 
+766"Apis mellifera " 
+480"Blitopertha orientalis " 
+760"Bombus  hypocrita hypocrita " 
+762"Bombus  diversus diversus " 
+764"Bombus  honshuensis " 
+237"Bombylius major " 
+199"CECIDOMYIIDAE6 " 
+755"Ceratina megastigmata " 
+693"Cerceris carinalis " 
+226"CHIRONOMIDAE5 " 
+394"CLUSIIDAE1 " 
+395"CLUSIIDAE2 " 
+143"DELTOCEPHALIDAE4 " 
+481"Ectinohoplia obducta " 
+246"EMPIDIDAE15 " 
+257"EMPIDIDAE27 " 
+261"EMPIDIDAE31 " 
+262"EMPIDIDAE32 " 
+517"Epuraea sp. " 
+303"Eristalis cerealis " 
+122"Eurystylus coelestialium " 
+477"Eusphalerum parallelum " 
+497"Gamepenthes versipellis " 
+703"Hylaeus globula " 
+548"Idiostrangalia contracta " 
+706"Lasioglossum  sp.2 " 
+711"Lasioglossum  sp.25 " 
+714"Lasioglossum  transpositum " 
+715"Lasioglossum  apristum " 
+721"Lasioglossum  sp.3 " 
+682"Lasius niger " 
+359"LAUXANIIDAE9 " 
+552"Leptura ochraceofasciata " 
+278"LONCHOPTERIDAE1 " 
+151"MECOPTERA2 " 
+154"MECOPTERA5 " 
+312"Melanostoma scalare " 
+130"MIRIDAE3 " 
+529"Mordellistena sp. " 
+519"NITIDULIDAE6 " 
+553"Parastrangalis nymphula " 
+485"Paratrichius doentzi " 
+240"Philopota nigroaenea " 
+280"PHORIDAE1 " 
+507"Podabrus temporalis " 
+700"Rhopalum  latronum " 
+577"Syreta adamsi " 
+538"Xanthochroa luteipennis " 
+0"thunbergii" 
+1"crenata" 
+2"macrophylla" 
+3"paniculata" 
+4"alatus" 
+5"hortensis" 
+6"aemula" 
+7"hirta" 
+8"controversa" 
+9"pallida" 
+10"trichocarpa" 
+11"javanica" 
+12"annuus" 
+13"platanifolium" 
+14"japonicum" 
+15"kagamontanum" 
+16"textori" 
+17"obtusifolium" 
+18"lineariloba" 
+19"gracilistyla" 
+20"flaccida" 
+21"nepalense" 
+22"vaginata" 
+23"verecunda" 
+24"plicatum" 
+25"rufinerve" 
+26"salicifolia" 
+27"salicina" 
+28"incisa" 
+29"pubescens" 
+30"dioicus" 
+31"alternifolia" 
+32"chinensis" 
+33"Grayana" 
+
+*Bipartite 61
+564 0 6
+728 1 5
+732 2 11
+732 3 9
+735 4 8
+742 5 11
+541 2 9
+405 4 4
+409 6 12
+412 4 6
+415 6 106
+415 7 5
+424 3 5
+523 8 5
+765 9 4
+765 3 9
+765 10 34
+765 11 6
+766 1 11
+480 12 4
+760 1 4
+760 2 13
+760 3 6
+760 11 5
+760 5 6
+762 13 7
+762 14 6
+762 15 29
+762 16 8
+762 5 6
+764 15 19
+764 17 4
+764 10 17
+237 18 4
+199 19 5
+755 20 5
+755 18 13
+755 21 4
+755 10 4
+755 22 12
+755 23 9
+693 0 4
+226 9 6
+394 6 6
+394 4 43
+394 24 4
+395 6 8
+143 6 36
+481 1 6
+246 6 4
+257 6 8
+261 25 5
+262 6 7
+517 26 4
+517 27 6
+517 19 12
+303 3 4
+303 0 13
+303 27 4
+303 24 6
+122 11 6
+477 28 19
+477 19 15
+497 0 4
+497 3 7
+703 29 20
+703 11 7
+703 24 6
+548 30 6
+548 2 4
+706 4 8
+711 2 4
+714 31 4
+714 1 9
+714 2 13
+715 1 9
+715 4 10
+715 7 13
+715 3 10
+715 32 8
+715 8 5
+721 2 6
+682 3 4
+359 6 4
+552 2 9
+278 6 14
+151 4 4
+154 6 5
+312 6 19
+312 4 5
+130 10 20
+529 6 4
+529 32 7
+529 24 9
+519 3 6
+553 2 9
+485 3 5
+240 5 14
+280 0 4
+507 6 13
+507 33 7
+507 24 4
+700 29 4
+577 28 9
+538 3 8

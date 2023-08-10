@@ -1,0 +1,305 @@
+#N nodes = 96, N features = 42
+
+*Vertices 138
+564"Agelastica coerulea " 
+726"Andrena  ishiharai " 
+728"Andrena  tsukubana " 
+731"Andrena  omogensis " 
+732"Andrena  akitsushimae " 
+735"Andrena  hikosana " 
+741"Andrena  yamamotoi " 
+742"Andrena  halictoides " 
+541"Anoploderomorpha excavata " 
+400"ANTHOMYIIDAE12 " 
+405"ANTHOMYIIDAE21 " 
+409"ANTHOMYIIDAE28 " 
+411"ANTHOMYIIDAE3 " 
+412"ANTHOMYIIDAE31 " 
+415"ANTHOMYIIDAE38 " 
+424"ANTHOMYIIDAE50 " 
+523"Anthromacra viriclissima " 
+765"Apis cerana " 
+766"Apis mellifera " 
+504"Athemellus insulsus " 
+480"Blitopertha orientalis " 
+760"Bombus  hypocrita hypocrita " 
+762"Bombus  diversus diversus " 
+763"Bombus  ardens " 
+764"Bombus  honshuensis " 
+237"Bombylius major " 
+199"CECIDOMYIIDAE6 " 
+239"Cephenius sp. " 
+753"Ceratina flavipes " 
+754"Ceratina japonica " 
+755"Ceratina megastigmata " 
+229"CERATOPOGONIDAE1 " 
+693"Cerceris carinalis " 
+286"Cheilosia omogensis " 
+294"Cheilosia sp.7 " 
+226"CHIRONOMIDAE5 " 
+394"CLUSIIDAE1 " 
+395"CLUSIIDAE2 " 
+143"DELTOCEPHALIDAE4 " 
+481"Ectinohoplia obducta " 
+243"EMPIDIDAE11 " 
+244"EMPIDIDAE13 " 
+246"EMPIDIDAE15 " 
+249"EMPIDIDAE19 " 
+256"EMPIDIDAE25 " 
+257"EMPIDIDAE27 " 
+261"EMPIDIDAE31 " 
+262"EMPIDIDAE32 " 
+272"EMPIDIDAE7 " 
+302"Episyrphus balteatus " 
+517"Epuraea sp. " 
+303"Eristalis cerealis " 
+304"Eristalomya tenax " 
+122"Eurystylus coelestialium " 
+477"Eusphalerum parallelum " 
+497"Gamepenthes versipellis " 
+703"Hylaeus globula " 
+630"ICHNEUMONIDAE1 " 
+548"Idiostrangalia contracta " 
+706"Lasioglossum  sp.2 " 
+711"Lasioglossum  sp.25 " 
+714"Lasioglossum  transpositum " 
+715"Lasioglossum  apristum " 
+719"Lasioglossum  occidens " 
+721"Lasioglossum  sp.3 " 
+682"Lasius niger " 
+359"LAUXANIIDAE9 " 
+552"Leptura ochraceofasciata " 
+573"Linoetis coeruleipennis " 
+278"LONCHOPTERIDAE1 " 
+151"MECOPTERA2 " 
+154"MECOPTERA5 " 
+746"Megachile remota sakagamii " 
+312"Melanostoma scalare " 
+130"MIRIDAE3 " 
+528"Mordellina sp. " 
+529"Mordellistena sp. " 
+319"Neoascia sp. " 
+519"NITIDULIDAE6 " 
+575"Nonartha cyaneum " 
+534"Oedemeronia manicata " 
+553"Parastrangalis nymphula " 
+485"Paratrichius doentzi " 
+240"Philopota nigroaenea " 
+280"PHORIDAE1 " 
+557"Pidonia signifera " 
+507"Podabrus temporalis " 
+700"Rhopalum  latronum " 
+327"Sphaerophoria macrogaster " 
+328"Sphaerophoria menthastri " 
+577"Syreta adamsi " 
+333"Syrphus vitripennis " 
+578"Tricholochmaea semifulva " 
+689"Vespa xanthoptera " 
+538"Xanthochroa luteipennis " 
+768"LUSIIDAE1 " 
+0"thunbergii" 
+1"pubescens" 
+2"crenata" 
+3"amurense" 
+4"macrophylla" 
+5"paniculata" 
+6"alatus" 
+7"hirta" 
+8"hortensis" 
+9"aemula" 
+10"dentata" 
+11"plicatum" 
+12"controversa" 
+13"pallida" 
+14"tomentella" 
+15"trichocarpa" 
+16"javanica" 
+17"annuus" 
+18"platanifolium" 
+19"japonicum" 
+20"kagamontanum" 
+21"textori" 
+22"obtusifolium" 
+23"lineariloba" 
+24"gracilistyla" 
+25"flaccida" 
+26"nepalense" 
+27"kusanoana" 
+28"vaginata" 
+29"verecunda" 
+30"rufinerve" 
+31"salicifolia" 
+32"salicina" 
+33"senticosa" 
+34"incisa" 
+35"dioicus" 
+36"alternifolia" 
+37"chinensis" 
+38"bicolor" 
+39"villosa" 
+40"Grayana" 
+41"clethroides" 
+
+*Bipartite 96
+564 0 6
+726 1 3
+728 2 5
+731 3 3
+732 4 11
+732 5 9
+735 6 8
+735 7 3
+741 2 3
+742 8 11
+541 4 9
+400 1 3
+405 6 4
+409 9 12
+411 1 3
+412 6 6
+412 10 3
+415 9 106
+415 7 5
+424 5 5
+523 11 3
+523 8 3
+523 12 5
+765 13 4
+765 14 3
+765 5 9
+765 15 34
+765 16 6
+766 2 11
+766 4 3
+504 4 3
+480 17 4
+760 13 3
+760 2 4
+760 4 13
+760 5 6
+760 16 5
+760 8 6
+762 18 7
+762 19 6
+762 20 29
+762 4 3
+762 21 8
+762 8 6
+763 8 3
+764 20 19
+764 22 4
+764 15 17
+237 23 4
+199 24 5
+239 15 3
+753 17 3
+754 13 3
+755 25 5
+755 23 13
+755 13 3
+755 26 4
+755 15 4
+755 27 3
+755 28 12
+755 29 9
+229 24 3
+693 0 4
+286 1 3
+294 9 3
+226 13 6
+394 9 6
+394 6 43
+394 10 3
+394 11 4
+395 9 8
+143 9 36
+481 2 6
+243 9 3
+244 9 3
+246 9 4
+249 8 3
+256 9 3
+257 9 8
+261 30 5
+262 9 7
+272 9 3
+302 4 3
+517 31 4
+517 32 6
+517 24 12
+303 5 4
+303 33 3
+303 0 13
+303 32 4
+303 16 3
+303 11 6
+304 10 3
+122 16 6
+477 34 19
+477 24 15
+497 0 4
+497 5 7
+703 1 20
+703 16 7
+703 11 6
+630 15 3
+548 35 6
+548 4 4
+706 6 8
+706 7 3
+711 4 4
+714 36 4
+714 2 9
+714 7 3
+714 4 13
+715 2 9
+715 6 10
+715 7 13
+715 5 10
+715 37 8
+715 12 5
+719 5 3
+719 10 3
+721 4 6
+682 5 4
+359 9 4
+552 4 9
+573 8 3
+278 9 14
+151 9 3
+151 6 4
+154 9 5
+746 38 3
+312 9 19
+312 6 5
+130 15 20
+528 24 3
+529 9 4
+529 2 3
+529 37 7
+529 11 9
+319 32 3
+519 5 6
+575 39 3
+534 11 3
+553 4 9
+553 5 3
+485 5 5
+240 8 14
+280 0 4
+557 6 3
+557 8 3
+507 9 13
+507 40 7
+507 11 4
+700 1 4
+700 0 3
+327 2 3
+328 10 3
+328 41 3
+577 34 9
+333 6 3
+578 34 3
+689 15 3
+538 5 8
+768 2 3

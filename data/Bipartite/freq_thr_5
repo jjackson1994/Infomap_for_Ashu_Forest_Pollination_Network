@@ -1,0 +1,164 @@
+#N nodes = 50, N features = 29
+
+*Vertices 79
+564"Agelastica coerulea " 
+728"Andrena  tsukubana " 
+732"Andrena  akitsushimae " 
+735"Andrena  hikosana " 
+742"Andrena  halictoides " 
+541"Anoploderomorpha excavata " 
+409"ANTHOMYIIDAE28 " 
+412"ANTHOMYIIDAE31 " 
+415"ANTHOMYIIDAE38 " 
+424"ANTHOMYIIDAE50 " 
+523"Anthromacra viriclissima " 
+765"Apis cerana " 
+766"Apis mellifera " 
+760"Bombus  hypocrita hypocrita " 
+762"Bombus  diversus diversus " 
+764"Bombus  honshuensis " 
+199"CECIDOMYIIDAE6 " 
+755"Ceratina megastigmata " 
+226"CHIRONOMIDAE5 " 
+394"CLUSIIDAE1 " 
+395"CLUSIIDAE2 " 
+143"DELTOCEPHALIDAE4 " 
+481"Ectinohoplia obducta " 
+257"EMPIDIDAE27 " 
+261"EMPIDIDAE31 " 
+262"EMPIDIDAE32 " 
+517"Epuraea sp. " 
+303"Eristalis cerealis " 
+122"Eurystylus coelestialium " 
+477"Eusphalerum parallelum " 
+497"Gamepenthes versipellis " 
+703"Hylaeus globula " 
+548"Idiostrangalia contracta " 
+706"Lasioglossum  sp.2 " 
+714"Lasioglossum  transpositum " 
+715"Lasioglossum  apristum " 
+721"Lasioglossum  sp.3 " 
+552"Leptura ochraceofasciata " 
+278"LONCHOPTERIDAE1 " 
+154"MECOPTERA5 " 
+312"Melanostoma scalare " 
+130"MIRIDAE3 " 
+529"Mordellistena sp. " 
+519"NITIDULIDAE6 " 
+553"Parastrangalis nymphula " 
+485"Paratrichius doentzi " 
+240"Philopota nigroaenea " 
+507"Podabrus temporalis " 
+577"Syreta adamsi " 
+538"Xanthochroa luteipennis " 
+0"thunbergii" 
+1"crenata" 
+2"macrophylla" 
+3"paniculata" 
+4"alatus" 
+5"hortensis" 
+6"aemula" 
+7"hirta" 
+8"controversa" 
+9"trichocarpa" 
+10"javanica" 
+11"platanifolium" 
+12"japonicum" 
+13"kagamontanum" 
+14"textori" 
+15"gracilistyla" 
+16"flaccida" 
+17"lineariloba" 
+18"vaginata" 
+19"verecunda" 
+20"pallida" 
+21"rufinerve" 
+22"salicina" 
+23"plicatum" 
+24"incisa" 
+25"pubescens" 
+26"dioicus" 
+27"chinensis" 
+28"Grayana" 
+
+*Bipartite 50
+564 0 6
+728 1 5
+732 2 11
+732 3 9
+735 4 8
+742 5 11
+541 2 9
+409 6 12
+412 4 6
+415 6 106
+415 7 5
+424 3 5
+523 8 5
+765 3 9
+765 9 34
+765 10 6
+766 1 11
+760 2 13
+760 3 6
+760 10 5
+760 5 6
+762 11 7
+762 12 6
+762 13 29
+762 14 8
+762 5 6
+764 13 19
+764 9 17
+199 15 5
+755 16 5
+755 17 13
+755 18 12
+755 19 9
+226 20 6
+394 6 6
+394 4 43
+395 6 8
+143 6 36
+481 1 6
+257 6 8
+261 21 5
+262 6 7
+517 22 6
+517 15 12
+303 0 13
+303 23 6
+122 10 6
+477 24 19
+477 15 15
+497 3 7
+703 25 20
+703 10 7
+703 23 6
+548 26 6
+706 4 8
+714 1 9
+714 2 13
+715 1 9
+715 4 10
+715 7 13
+715 3 10
+715 27 8
+715 8 5
+721 2 6
+552 2 9
+278 6 14
+154 6 5
+312 6 19
+312 4 5
+130 9 20
+529 27 7
+529 23 9
+519 3 6
+553 2 9
+485 3 5
+240 5 14
+507 6 13
+507 28 7
+577 24 9
+538 3 8
