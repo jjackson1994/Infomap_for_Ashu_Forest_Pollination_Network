@@ -1,71 +1,70 @@
-#N nodes = 23, N features = 15
-
-*Vertices 38
-1639 "Andrena  akitsushimae " 
-1649 "Andrena  halictoides " 
-1316 "ANTHOMYIIDAE28 " 
-1322 "ANTHOMYIIDAE38 " 
-1672 "Apis cerana " 
-1673 "Apis mellifera " 
-1667 "Bombus  hypocrita hypocrita " 
-1669 "Bombus  diversus diversus " 
-1671 "Bombus  honshuensis " 
-1662 "Ceratina megastigmata " 
-1301 "CLUSIIDAE1 " 
-1050 "DELTOCEPHALIDAE4 " 
-1424 "Epuraea sp. " 
-1210 "Eristalis cerealis " 
-1384 "Eusphalerum parallelum " 
-1610 "Hylaeus globula " 
-1621 "Lasioglossum  transpositum " 
-1622 "Lasioglossum  apristum " 
-1185 "LONCHOPTERIDAE1 " 
-1219 "Melanostoma scalare " 
-1037 "MIRIDAE3 " 
-1147 "Philopota nigroaenea " 
-1414 "Podabrus temporalis " 
-0 "macrophylla" 
-1 "hortensis" 
-2 "aemula" 
-3 "trichocarpa" 
-4 "crenata" 
-5 "kagamontanum" 
-6 "lineariloba" 
-7 "vaginata" 
-8 "alatus" 
-9 "gracilistyla" 
-10 "thunbergii" 
-11 "incisa" 
-12 "pubescens" 
-13 "hirta" 
-14 "paniculata" 
-
-*Bipartite 23
-1639 0 11
-1649 1 11
-1316 2 12
-1322 2 106
-1672 3 34
-1673 4 11
-1667 0 13
-1669 5 29
-1671 5 19
-1671 3 17
-1662 6 13
-1662 7 12
-1301 8 43
-1050 2 36
-1424 9 12
-1210 10 13
-1384 11 19
-1384 9 15
-1610 12 20
-1621 0 13
-1622 8 10
-1622 13 13
-1622 14 10
-1185 2 14
-1219 2 19
-1037 3 20
-1147 1 14
-1414 2 13
+# 16 main nodes and 23 feature nodes 
+*Vertices 39
+10 "pubescens"
+12 "aemula"
+22 "crenata"
+24 "kagamontanum"
+27 "lineariloba"
+34 "alatus"
+39 "hirta"
+40 "macrophylla"
+41 "paniculata"
+55 "thunbergii"
+61 "incisa"
+64 "trichocarpa"
+67 "trichocarpa"
+73 "gracilistyla"
+88 "vaginata"
+90 "hortensis"
+1023 "Andrena (Hoplandera) akitsushimae (And. : Hym. )"
+1033 "Andrena (Stenomelissa) halictoides (And. : Hym. )"
+1048 "ANTHOMYIIDAE28 (Ant. : Dip. )"
+1054 "ANTHOMYIIDAE38 (Ant. : Dip. )"
+1069 "Apis cerana (Api. : Hym. )"
+1070 "Apis mellifera (Api. : Hym. )"
+1101 "Bombus (Bombus) hypocrita hypocrita (Api. : Hym. )"
+1103 "Bombus (Diversobombus) diversus diversus (Api. : Hym. )"
+1105 "Bombus (Thoracobombus) honshuensis (Api. : Hym. )"
+1155 "Ceratina megastigmata (Ant. : Hym. )"
+1207 "CLUSIIDAE1 (Clu. : Dip. )"
+1233 "DELTOCEPHALIDAE4 (Del. : Hem. )"
+1304 "Epuraea sp. (Nit. : Col. )"
+1305 "Eristalis cerealis (Syr. : Dip. )"
+1313 "Eusphalerum parallelum (Sta. : Col. )"
+1333 "Hylaeus globula (Col. : Hym. )"
+1387 "Lasioglossum (El.) transpositum (Hal. : Hym. )"
+1388 "Lasioglossum (Et.) apristum (Hal. : Hym. )"
+1417 "LONCHOPTERIDAE1 (Lon. : Dip. )"
+1431 "Melanostoma scalare (Syr. : Dip. )"
+1450 "MIRIDAE3 (Mir. : Hem. )"
+1504 "Philopota nigroaenea (Acr. : Dip. )"
+1520 "Podabrus temporalis (Can. : Col. )"
+*Bipartite 1023
+40 1023 11
+90 1033 11
+12 1048 12
+12 1054 106
+64 1069 34
+22 1070 11
+40 1101 13
+24 1103 29
+24 1105 19
+64 1105 17
+27 1155 13
+88 1155 12
+34 1207 43
+12 1233 36
+73 1304 12
+55 1305 13
+61 1313 19
+73 1313 15
+10 1333 20
+40 1387 13
+34 1388 10
+39 1388 13
+41 1388 10
+12 1417 14
+12 1431 19
+67 1450 20
+90 1504 14
+12 1520 13

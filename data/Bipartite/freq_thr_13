@@ -1,55 +1,54 @@
-#N nodes = 18, N features = 12
-
-*Vertices 30
-1322 "ANTHOMYIIDAE38 " 
-1672 "Apis cerana " 
-1667 "Bombus  hypocrita hypocrita " 
-1669 "Bombus  diversus diversus " 
-1671 "Bombus  honshuensis " 
-1662 "Ceratina megastigmata " 
-1301 "CLUSIIDAE1 " 
-1050 "DELTOCEPHALIDAE4 " 
-1210 "Eristalis cerealis " 
-1384 "Eusphalerum parallelum " 
-1610 "Hylaeus globula " 
-1621 "Lasioglossum  transpositum " 
-1622 "Lasioglossum  apristum " 
-1185 "LONCHOPTERIDAE1 " 
-1219 "Melanostoma scalare " 
-1037 "MIRIDAE3 " 
-1147 "Philopota nigroaenea " 
-1414 "Podabrus temporalis " 
-0 "aemula" 
-1 "trichocarpa" 
-2 "macrophylla" 
-3 "kagamontanum" 
-4 "lineariloba" 
-5 "alatus" 
-6 "thunbergii" 
-7 "incisa" 
-8 "gracilistyla" 
-9 "pubescens" 
-10 "hirta" 
-11 "hortensis" 
-
-*Bipartite 18
-1322 0 106
-1672 1 34
-1667 2 13
-1669 3 29
-1671 3 19
-1671 1 17
-1662 4 13
-1301 5 43
-1050 0 36
-1210 6 13
-1384 7 19
-1384 8 15
-1610 9 20
-1621 2 13
-1622 10 13
-1185 0 14
-1219 0 19
-1037 1 20
-1147 11 14
-1414 0 13
+# 13 main nodes and 18 feature nodes 
+*Vertices 31
+10 "pubescens"
+12 "aemula"
+24 "kagamontanum"
+27 "lineariloba"
+34 "alatus"
+39 "hirta"
+40 "macrophylla"
+55 "thunbergii"
+61 "incisa"
+64 "trichocarpa"
+67 "trichocarpa"
+73 "gracilistyla"
+90 "hortensis"
+1054 "ANTHOMYIIDAE38 (Ant. : Dip. )"
+1069 "Apis cerana (Api. : Hym. )"
+1101 "Bombus (Bombus) hypocrita hypocrita (Api. : Hym. )"
+1103 "Bombus (Diversobombus) diversus diversus (Api. : Hym. )"
+1105 "Bombus (Thoracobombus) honshuensis (Api. : Hym. )"
+1155 "Ceratina megastigmata (Ant. : Hym. )"
+1207 "CLUSIIDAE1 (Clu. : Dip. )"
+1233 "DELTOCEPHALIDAE4 (Del. : Hem. )"
+1305 "Eristalis cerealis (Syr. : Dip. )"
+1313 "Eusphalerum parallelum (Sta. : Col. )"
+1333 "Hylaeus globula (Col. : Hym. )"
+1387 "Lasioglossum (El.) transpositum (Hal. : Hym. )"
+1388 "Lasioglossum (Et.) apristum (Hal. : Hym. )"
+1417 "LONCHOPTERIDAE1 (Lon. : Dip. )"
+1431 "Melanostoma scalare (Syr. : Dip. )"
+1450 "MIRIDAE3 (Mir. : Hem. )"
+1504 "Philopota nigroaenea (Acr. : Dip. )"
+1520 "Podabrus temporalis (Can. : Col. )"
+*Bipartite 1054
+12 1054 106
+64 1069 34
+40 1101 13
+24 1103 29
+24 1105 19
+64 1105 17
+27 1155 13
+34 1207 43
+12 1233 36
+55 1305 13
+61 1313 19
+73 1313 15
+10 1333 20
+40 1387 13
+39 1388 13
+12 1417 14
+12 1431 19
+67 1450 20
+90 1504 14
+12 1520 13
