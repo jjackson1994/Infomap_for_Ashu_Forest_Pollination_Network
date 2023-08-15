@@ -1,13 +1,13 @@
 # 8 main nodes and 10 feature nodes 
 *Vertices 18
-10 "pubescens"
-12 "aemula"
-24 "kagamontanum"
-34 "alatus"
-61 "incisa"
-64 "trichocarpa"
-67 "trichocarpa"
-73 "gracilistyla"
+9 "pubescens"
+11 "aemula"
+23 "kagamontanum"
+33 "alatus"
+60 "incisa"
+63 "trichocarpa"
+66 "trichocarpa"
+72 "gracilistyla"
 1054 "ANTHOMYIIDAE38 (Ant. : Dip. )"
 1069 "Apis cerana (Api. : Hym. )"
 1103 "Bombus (Diversobombus) diversus diversus (Api. : Hym. )"
@@ -19,15 +19,15 @@
 1431 "Melanostoma scalare (Syr. : Dip. )"
 1450 "MIRIDAE3 (Mir. : Hem. )"
 *Bipartite 1054
-12 1054 106
-64 1069 34
-24 1103 29
-24 1105 19
-64 1105 17
-34 1207 43
-12 1233 36
-61 1313 19
-73 1313 15
-10 1333 20
-12 1431 19
-67 1450 20
+11 1054 106
+63 1069 34
+23 1103 29
+23 1105 19
+63 1105 17
+33 1207 43
+11 1233 36
+60 1313 19
+72 1313 15
+9 1333 20
+11 1431 19
+66 1450 20

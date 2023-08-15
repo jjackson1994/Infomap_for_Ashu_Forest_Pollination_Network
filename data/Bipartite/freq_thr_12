@@ -1,19 +1,19 @@
 # 14 main nodes and 20 feature nodes 
 *Vertices 34
-10 "pubescens"
-12 "aemula"
-24 "kagamontanum"
-27 "lineariloba"
-34 "alatus"
-39 "hirta"
-40 "macrophylla"
-55 "thunbergii"
-61 "incisa"
-64 "trichocarpa"
-67 "trichocarpa"
-73 "gracilistyla"
-88 "vaginata"
-90 "hortensis"
+9 "pubescens"
+11 "aemula"
+23 "kagamontanum"
+26 "lineariloba"
+33 "alatus"
+38 "hirta"
+39 "macrophylla"
+54 "thunbergii"
+60 "incisa"
+63 "trichocarpa"
+66 "trichocarpa"
+72 "gracilistyla"
+87 "vaginata"
+89 "hortensis"
 1048 "ANTHOMYIIDAE28 (Ant. : Dip. )"
 1054 "ANTHOMYIIDAE38 (Ant. : Dip. )"
 1069 "Apis cerana (Api. : Hym. )"
@@ -35,26 +35,26 @@
 1504 "Philopota nigroaenea (Acr. : Dip. )"
 1520 "Podabrus temporalis (Can. : Col. )"
 *Bipartite 1048
-12 1048 12
-12 1054 106
-64 1069 34
-40 1101 13
-24 1103 29
-24 1105 19
-64 1105 17
-27 1155 13
-88 1155 12
-34 1207 43
-12 1233 36
-73 1304 12
-55 1305 13
-61 1313 19
-73 1313 15
-10 1333 20
-40 1387 13
-39 1388 13
-12 1417 14
-12 1431 19
-67 1450 20
-90 1504 14
-12 1520 13
+11 1048 12
+11 1054 106
+63 1069 34
+39 1101 13
+23 1103 29
+23 1105 19
+63 1105 17
+26 1155 13
+87 1155 12
+33 1207 43
+11 1233 36
+72 1304 12
+54 1305 13
+60 1313 19
+72 1313 15
+9 1333 20
+39 1387 13
+38 1388 13
+11 1417 14
+11 1431 19
+66 1450 20
+89 1504 14
+11 1520 13
