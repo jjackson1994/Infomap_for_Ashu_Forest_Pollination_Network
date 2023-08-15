@@ -1,71 +1,71 @@
 #N nodes = 23, N features = 15
 
 *Vertices 38
-732"Andrena  akitsushimae " 
-742"Andrena  halictoides " 
-409"ANTHOMYIIDAE28 " 
-415"ANTHOMYIIDAE38 " 
-765"Apis cerana " 
-766"Apis mellifera " 
-760"Bombus  hypocrita hypocrita " 
-762"Bombus  diversus diversus " 
-764"Bombus  honshuensis " 
-755"Ceratina megastigmata " 
-394"CLUSIIDAE1 " 
-143"DELTOCEPHALIDAE4 " 
-517"Epuraea sp. " 
-303"Eristalis cerealis " 
-477"Eusphalerum parallelum " 
-703"Hylaeus globula " 
-714"Lasioglossum  transpositum " 
-715"Lasioglossum  apristum " 
-278"LONCHOPTERIDAE1 " 
-312"Melanostoma scalare " 
-130"MIRIDAE3 " 
-240"Philopota nigroaenea " 
-507"Podabrus temporalis " 
-0"macrophylla" 
-1"hortensis" 
-2"aemula" 
-3"trichocarpa" 
-4"crenata" 
-5"kagamontanum" 
-6"lineariloba" 
-7"vaginata" 
-8"alatus" 
-9"gracilistyla" 
-10"thunbergii" 
-11"incisa" 
-12"pubescens" 
-13"hirta" 
-14"paniculata" 
+1639 "Andrena  akitsushimae " 
+1649 "Andrena  halictoides " 
+1316 "ANTHOMYIIDAE28 " 
+1322 "ANTHOMYIIDAE38 " 
+1672 "Apis cerana " 
+1673 "Apis mellifera " 
+1667 "Bombus  hypocrita hypocrita " 
+1669 "Bombus  diversus diversus " 
+1671 "Bombus  honshuensis " 
+1662 "Ceratina megastigmata " 
+1301 "CLUSIIDAE1 " 
+1050 "DELTOCEPHALIDAE4 " 
+1424 "Epuraea sp. " 
+1210 "Eristalis cerealis " 
+1384 "Eusphalerum parallelum " 
+1610 "Hylaeus globula " 
+1621 "Lasioglossum  transpositum " 
+1622 "Lasioglossum  apristum " 
+1185 "LONCHOPTERIDAE1 " 
+1219 "Melanostoma scalare " 
+1037 "MIRIDAE3 " 
+1147 "Philopota nigroaenea " 
+1414 "Podabrus temporalis " 
+0 "macrophylla" 
+1 "hortensis" 
+2 "aemula" 
+3 "trichocarpa" 
+4 "crenata" 
+5 "kagamontanum" 
+6 "lineariloba" 
+7 "vaginata" 
+8 "alatus" 
+9 "gracilistyla" 
+10 "thunbergii" 
+11 "incisa" 
+12 "pubescens" 
+13 "hirta" 
+14 "paniculata" 
 
 *Bipartite 23
-732 0 11
-742 1 11
-409 2 12
-415 2 106
-765 3 34
-766 4 11
-760 0 13
-762 5 29
-764 5 19
-764 3 17
-755 6 13
-755 7 12
-394 8 43
-143 2 36
-517 9 12
-303 10 13
-477 11 19
-477 9 15
-703 12 20
-714 0 13
-715 8 10
-715 13 13
-715 14 10
-278 2 14
-312 2 19
-130 3 20
-240 1 14
-507 2 13
+1639 0 11
+1649 1 11
+1316 2 12
+1322 2 106
+1672 3 34
+1673 4 11
+1667 0 13
+1669 5 29
+1671 5 19
+1671 3 17
+1662 6 13
+1662 7 12
+1301 8 43
+1050 2 36
+1424 9 12
+1210 10 13
+1384 11 19
+1384 9 15
+1610 12 20
+1621 0 13
+1622 8 10
+1622 13 13
+1622 14 10
+1185 2 14
+1219 2 19
+1037 3 20
+1147 1 14
+1414 2 13

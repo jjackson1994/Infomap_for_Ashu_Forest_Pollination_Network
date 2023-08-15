@@ -1,1971 +1,1971 @@
 #N nodes = 679, N features = 81
 
 *Vertices 760
-146"ACHILIDAE1 " 
-491"Acteniceromorphus nipponensis " 
-232"Actina jezoensis " 
-121"Adelphocoris triannulatus " 
-140"AGALLIIDAE1 " 
-564"Agelastica coerulea " 
-588"Aglaostigma neburosa " 
-365"AGROMYZIDAE1 " 
-366"AGROMYZIDAE5 " 
-526"ALLECULIDAE1 " 
-282"Allograpta javana " 
-692"Ammophila infesta " 
-540"Anaglyptus niponensis " 
-530"Anaspis funagata " 
-685"Ancistrocerus melanocerus " 
-724"Andrena  benefica " 
-725"Andrena  brevihirtiscopa " 
-726"Andrena  ishiharai " 
-727"Andrena  longitibialis " 
-728"Andrena  tsukubana " 
-729"Andrena  Knuthi " 
-730"Andrena  stellaria " 
-731"Andrena  omogensis " 
-732"Andrena  akitsushimae " 
-733"Andrena  dentata " 
-734"Andrena  miyamotoi " 
-735"Andrena  hikosana " 
-736"Andrena  kaguya " 
-737"Andrena  komachi " 
-738"Andrena  minutula " 
-739"Andrena  sublevigata " 
-740"Andrena  opacifovea opacifovea " 
-741"Andrena  yamamotoi " 
-742"Andrena  halictoides " 
-743"Andrena  haemorrhoa japonibia " 
-541"Anoploderomorpha excavata " 
-492"Anostinus daimio " 
-520"Antherophagus nigricornis " 
-120"ANTHOCORIDAE2 " 
-400"ANTHOMYIIDAE12 " 
-401"ANTHOMYIIDAE14 " 
-402"ANTHOMYIIDAE16 " 
-403"ANTHOMYIIDAE17 " 
-404"ANTHOMYIIDAE20 " 
-405"ANTHOMYIIDAE21 " 
-406"ANTHOMYIIDAE22 " 
-407"ANTHOMYIIDAE25 " 
-408"ANTHOMYIIDAE27 " 
-409"ANTHOMYIIDAE28 " 
-410"ANTHOMYIIDAE29 " 
-411"ANTHOMYIIDAE3 " 
-412"ANTHOMYIIDAE31 " 
-413"ANTHOMYIIDAE34 " 
-414"ANTHOMYIIDAE35 " 
-415"ANTHOMYIIDAE38 " 
-416"ANTHOMYIIDAE4 " 
-417"ANTHOMYIIDAE41 " 
-418"ANTHOMYIIDAE42 " 
-419"ANTHOMYIIDAE43 " 
-420"ANTHOMYIIDAE44 " 
-421"ANTHOMYIIDAE45 " 
-422"ANTHOMYIIDAE46 " 
-423"ANTHOMYIIDAE48 " 
-424"ANTHOMYIIDAE50 " 
-425"ANTHOMYIIDAE6 " 
-426"ANTHOMYIIDAE7 " 
-427"ANTHOMYIIDAE8 " 
-523"Anthromacra viriclissima " 
-582"APIONIDAE3 " 
-765"Apis cerana " 
-766"Apis mellifera " 
-580"Apoderus jekelii " 
-94"ARANEIDA17 " 
-95"ARANEIDA18 " 
-96"ARANEIDA19 " 
-97"ARANEIDA20 " 
-98"ARANEIDA21 " 
-99"ARANEIDA27 " 
-100"ARANEIDA28 " 
-101"ARANEIDA34 " 
-102"ARANEIDA36 " 
-103"ARANEIDA39 " 
-104"ARANEIDA41 " 
-105"ARANEIDA6 " 
-106"ARANEIDA8 " 
-605"Arge nigrinodosa " 
-606"Arge nipponensis " 
-607"Arge similis " 
-589"Asiemphytus albilabris " 
-590"Athalia japonica " 
-504"Athemellus insulsus " 
-675"AULACIDAE1 " 
-283"Baccha maculata " 
-284"Betasyrphus seraius " 
-542"Bhaphuma xenisca " 
-209"BIBIONIDAE1 " 
-210"BIBIONIDAE11 " 
-211"BIBIONIDAE4 " 
-212"BIBIONIDAE6 " 
-591"Birka carinifrons " 
-480"Blitopertha orientalis " 
-760"Bombus  hypocrita hypocrita " 
-761"Bombus  ignitus " 
-762"Bombus  diversus diversus " 
-763"Bombus  ardens " 
-764"Bombus  honshuensis " 
-237"Bombylius major " 
-609"BRACONIDAE1 " 
-610"BRACONIDAE13 " 
-611"BRACONIDAE15 " 
-612"BRACONIDAE16 " 
-613"BRACONIDAE17 " 
-614"BRACONIDAE18 " 
-615"BRACONIDAE2 " 
-616"BRACONIDAE20 " 
-617"BRACONIDAE25 " 
-618"BRACONIDAE26 " 
-619"BRACONIDAE27 " 
-620"BRACONIDAE28 " 
-621"BRACONIDAE29 " 
-622"BRACONIDAE31 " 
-623"BRACONIDAE36 " 
-624"BRACONIDAE38 " 
-625"BRACONIDAE40 " 
-626"BRACONIDAE41 " 
-627"BRACONIDAE44 " 
-628"BRACONIDAE45 " 
-629"BRACONIDAE5 " 
-581"Byctiscus puberulus " 
-513"Byturus affinis " 
-462"CALLIPHORIDAE10 " 
-463"CALLIPHORIDAE5 " 
-464"CALLIPHORIDAE6 " 
-465"CALLIPHORIDAE7 " 
-466"CALLIPHORIDAE8 " 
-679"Camponotus obscripes " 
-377"CANACEIDAE1 " 
-378"CANACEIDAE2 " 
-114"Carbula humerigera " 
-516"Carpophilus chalybeus " 
-510"Cautires bourgeoisi " 
-195"CECIDOMYIIDAE1 " 
-196"CECIDOMYIIDAE3 " 
-197"CECIDOMYIIDAE4 " 
-198"CECIDOMYIIDAE5 " 
-199"CECIDOMYIIDAE6 " 
-285"Cheilosia sp.8 " 
-178"Celastrina argiolus " 
-532"CEPHALOIDAE2 " 
-531"Cephaloon pallensa " 
-238"Cephenius nitobei " 
-239"Cephenius sp. " 
-752"Ceratina esakii " 
-753"Ceratina flavipes " 
-754"Ceratina japonica " 
-755"Ceratina megastigmata " 
-229"CERATOPOGONIDAE1 " 
-230"CERATOPOGONIDAE2 " 
-231"CERATOPOGONIDAE4 " 
-693"Cerceris carinalis " 
-694"Cerceris hortivaga " 
-135"CERCOPIDAE1 " 
-136"CERCOPIDAE2 " 
-744"Chalicodoma sculpturalis " 
-286"Cheilosia omogensis " 
-287"Cheilosia sp.1 " 
-288"Cheilosia sp.10 " 
-289"Cheilosia sp.11 " 
-290"Cheilosia sp.12 " 
-291"Cheilosia sp.4 " 
-292"Cheilosia sp.5 " 
-293"Cheilosia sp.6 " 
-294"Cheilosia sp.7 " 
-295"Cheilosia sp.9 " 
-296"Cheilosia sp.14 " 
-226"CHIRONOMIDAE5 " 
-227"CHIRONOMIDAE8 " 
-228"CHIRONOMIDAE9 " 
-543"Chlorophorus japonicus " 
-379"CHLOROPIDAE10 " 
-380"CHLOROPIDAE11 " 
-381"CHLOROPIDAE17 " 
-382"CHLOROPIDAE18 " 
-383"CHLOROPIDAE2 " 
-384"CHLOROPIDAE20 " 
-385"CHLOROPIDAE22 " 
-386"CHLOROPIDAE23 " 
-387"CHLOROPIDAE24 " 
-388"CHLOROPIDAE25 " 
-389"CHLOROPIDAE26 " 
-390"CHLOROPIDAE28 " 
-391"CHLOROPIDAE29 " 
-392"CHLOROPIDAE3 " 
-393"CHLOROPIDAE9 " 
-174"Choaspes benjaminii " 
-235"Choerades sp. " 
-565"CHRYSOMELIDAE14 " 
-566"CHRYSOMELIDAE17 " 
-567"CHRYSOMELIDAE20 " 
-568"CHRYSOMELIDAE22 " 
-569"CHRYSOMELIDAE24 " 
-570"CHRYSOMELIDAE26 " 
-571"CHRYSOMELIDAE31 " 
-572"CHRYSOMELIDAE32 " 
-297"Chrystogaster brevicornis " 
-147"CIXIIDAE1 " 
-148"CIXIIDAE2 " 
-394"CLUSIIDAE1 " 
-395"CLUSIIDAE2 " 
-396"CLUSIIDAE3 " 
-397"CLUSIIDAE4 " 
-398"CLUSIIDAE7 " 
-745"Coelioxys brevis " 
-475"Colpodes aurelius " 
-340"CONOPIDAE1 " 
-341"CONOPIDAE11 " 
-342"CONOPIDAE13 " 
-343"CONOPIDAE15 " 
-344"CONOPIDAE8 " 
-501"Coraebus rusticanus " 
-592"Corymbas nipponica " 
-544"Corymia succedanea " 
-695"Crabro sp. " 
-298"Criorhina japonica " 
-583"CURCULIONIDAE10 " 
-584"CURCULIONIDAE3 " 
-585"CURCULIONIDAE6 " 
-586"CURCULIONIDAE8 " 
-674"CYNIPIDAE1 " 
-299"Dasysyrphus bilineatus " 
-515"dasytes vulgaris " 
-141"DELTOCEPHALIDAE2 " 
-142"DELTOCEPHALIDAE3 " 
-143"DELTOCEPHALIDAE4 " 
-144"DELTOCEPHALIDAE5 " 
-545"Demonax transilis " 
-546"Dere thoracica " 
-512"Dermestes haemorrhoidalis " 
-676"DIAPRIIDAE1 " 
-370"DIASTATIDAE2 " 
-300"Didea fasciata " 
-547"Dinoptera minuta ticollis " 
-275"DOLICHOPODIDAE1 " 
-276"DOLICHOPODIDAE2 " 
-277"DOLICHOPODIDAE3 " 
-367"DROSOPHILIDAE11 " 
-368"DROSOPHILIDAE15 " 
-369"DROSOPHILIDAE19 " 
-696"Ectemnius  radiatus " 
-697"Ectemnius  rubicola " 
-698"Ectemnuis radiatus " 
-699"Ectemnuis rubicola nipponis " 
-481"Ectinohoplia obducta " 
-460"Ectophasia sinensis " 
-115"Elasmucha nipponica " 
-493"ELATERIDAE17 " 
-494"ELATERIDAE3 " 
-495"ELATERIDAE8 " 
-241"EMPIDIDAE1 " 
-242"EMPIDIDAE10 " 
-243"EMPIDIDAE11 " 
-244"EMPIDIDAE13 " 
-245"EMPIDIDAE14 " 
-246"EMPIDIDAE15 " 
-247"EMPIDIDAE16 " 
-248"EMPIDIDAE18 " 
-249"EMPIDIDAE19 " 
-250"EMPIDIDAE2 " 
-251"EMPIDIDAE20 " 
-252"EMPIDIDAE21 " 
-253"EMPIDIDAE22 " 
-254"EMPIDIDAE23 " 
-255"EMPIDIDAE24 " 
-256"EMPIDIDAE25 " 
-257"EMPIDIDAE27 " 
-258"EMPIDIDAE28 " 
-259"EMPIDIDAE29 " 
-260"EMPIDIDAE3 " 
-261"EMPIDIDAE31 " 
-262"EMPIDIDAE32 " 
-263"EMPIDIDAE33 " 
-264"EMPIDIDAE36 " 
-265"EMPIDIDAE38 " 
-266"EMPIDIDAE39 " 
-267"EMPIDIDAE4 " 
-268"EMPIDIDAE44 " 
-269"EMPIDIDAE45 " 
-270"EMPIDIDAE5 " 
-271"EMPIDIDAE6 " 
-272"EMPIDIDAE7 " 
-273"EMPIDIDAE8 " 
-274"EMPIDIDAE9 " 
-593"Empria quadrimaculata " 
-522"ENDOMYCHIDAE2 " 
-107"EPHEMEROPTERA1 " 
-371"EPHYDRIDAE14 " 
-372"EPHYDRIDAE19 " 
-373"EPHYDRIDAE2 " 
-374"EPHYDRIDAE28 " 
-375"EPHYDRIDAE4 " 
-376"EPHYDRIDAE5 " 
-301"Epistotophe shibakawae " 
-302"Episyrphus balteatus " 
-145"Epotiocerus flexuosus " 
-517"Epuraea sp. " 
-303"Eristalis cerealis " 
-304"Eristalomya tenax " 
-482"Eucetonia roelofsi " 
-666"EULOPHIDAE1 " 
-181"Eulype hastata " 
-686"Eumenes rubronotatus " 
-122"Eurystylus coelestialium " 
-672"EURYTOMIDAE1 " 
-477"Eusphalerum parallelum " 
-139"EVACANTHIDAE1 " 
-305"Ferdinandea cuprea " 
-594"Ferusa sp. " 
-673"FIGITIDAE1 " 
-680"Formica japonica " 
-681"Formica sp. " 
-496"Gamepenthes similis " 
-497"Gamepenthes versipellis " 
-498"Ganoxanthus pallidus " 
-167"GRACILLARIIDAE1 " 
-428"Graphomyia maculata " 
-461"Gymnosoma rotundatum " 
-521"Harmonia axyridis " 
-159"HELIOZELIDAE1 " 
-160"HELIOZELIDAE3 " 
-161"HELIOZELIDAE6 " 
-306"Helophilus virgatus " 
-595"Hemitaxonus japonicas " 
-702"Hylaeus floralis " 
-703"Hylaeus globula " 
-704"Hylaeus nippon " 
-630"ICHNEUMONIDAE1 " 
-631"ICHNEUMONIDAE105 " 
-632"ICHNEUMONIDAE109 " 
-633"ICHNEUMONIDAE111 " 
-634"ICHNEUMONIDAE114 " 
-635"ICHNEUMONIDAE115 " 
-636"ICHNEUMONIDAE116 " 
-637"ICHNEUMONIDAE118 " 
-638"ICHNEUMONIDAE120 " 
-639"ICHNEUMONIDAE122 " 
-640"ICHNEUMONIDAE123 " 
-641"ICHNEUMONIDAE18 " 
-642"ICHNEUMONIDAE30 " 
-643"ICHNEUMONIDAE33 " 
-644"ICHNEUMONIDAE37 " 
-645"ICHNEUMONIDAE38 " 
-646"ICHNEUMONIDAE4 " 
-647"ICHNEUMONIDAE40 " 
-648"ICHNEUMONIDAE44 " 
-649"ICHNEUMONIDAE48 " 
-650"ICHNEUMONIDAE49 " 
-651"ICHNEUMONIDAE51 " 
-652"ICHNEUMONIDAE53 " 
-653"ICHNEUMONIDAE55 " 
-654"ICHNEUMONIDAE64 " 
-655"ICHNEUMONIDAE65 " 
-656"ICHNEUMONIDAE73 " 
-657"ICHNEUMONIDAE74 " 
-658"ICHNEUMONIDAE76 " 
-659"ICHNEUMONIDAE82 " 
-660"ICHNEUMONIDAE85 " 
-661"ICHNEUMONIDAE87 " 
-662"ICHNEUMONIDAE88 " 
-663"ICHNEUMONIDAE91 " 
-664"ICHNEUMONIDAE94 " 
-665"ICHNEUMONIDAE96 " 
-548"Idiostrangalia contracta " 
-307"Imatisma abdominalis " 
-308"Imatisma dimorpha " 
-309"Imatisma sp. " 
-549"Japanostrangalia deutatipennis " 
-179"Japonica luter " 
-524"Lagria nigricollis " 
-705"Lasioglossum  problematicum " 
-706"Lasioglossum  sp.2 " 
-707"Lasioglossum  duplex " 
-708"Lasioglossum  sp.1 " 
-709"Lasioglossum  japonicum " 
-710"Lasioglossum  sexstrigatum " 
-711"Lasioglossum  sp.25 " 
-712"Lasioglossum  sp.5 " 
-713"Lasioglossum  taniolellum " 
-714"Lasioglossum  transpositum " 
-715"Lasioglossum  apristum " 
-716"Lasioglossum  baleicum " 
-717"Lasioglossum  exiliceps " 
-718"Lasioglossum  kansuense " 
-719"Lasioglossum  occidens " 
-720"Lasioglossum  proximatum " 
-721"Lasioglossum  sp.3 " 
-722"Lasioglossum  sp.6 " 
-682"Lasius niger " 
-350"LAUXANIIDAE10 " 
-351"LAUXANIIDAE11 " 
-352"LAUXANIIDAE12 " 
-353"LAUXANIIDAE13 " 
-354"LAUXANIIDAE14 " 
-355"LAUXANIIDAE15 " 
-356"LAUXANIIDAE16 " 
-357"LAUXANIIDAE2 " 
-358"LAUXANIIDAE5 " 
-359"LAUXANIIDAE9 " 
-550"Leptura aethiops " 
-551"Leptura arcuata " 
-552"Leptura ochraceofasciata " 
-573"Linoetis coeruleipennis " 
-596"Loderus eversmanini obscurus " 
-360"LONCHAEIDAE11 " 
-361"LONCHAEIDAE3 " 
-362"LONCHAEIDAE4 " 
-363"LONCHAEIDAE8 " 
-364"LONCHAEIDAE9 " 
-278"LONCHOPTERIDAE1 " 
-279"LONCHOPTERIDAE2 " 
-503"Lucidina accensa " 
-525"Macrolagria rufobrunnea " 
-505"Malthodes sulcicollis " 
-310"Mashumyia ferdinandi " 
-151"MECOPTERA2 " 
-152"MECOPTERA3 " 
-153"MECOPTERA4 " 
-154"MECOPTERA5 " 
-746"Megachile remota sakagamii " 
-747"Megachile tsurugensis " 
-478"Megalopaederus lewsi " 
-311"Megaspis zonata " 
-312"Melanostoma scalare " 
-499"Melanotus annosus " 
-313"Meluscaeva cinctella " 
-116"Menida scotti " 
-117"Menida violacea " 
-314"Metasyrphus corollae " 
-315"Metasyrphus nintens " 
-587"Metialina sp. " 
-506"Micadocantharis japonica " 
-316"Microdon auricomus " 
-317"Microdon simplex " 
-318"Milesia undulata " 
-123"MIRIDAE10 " 
-124"MIRIDAE13 " 
-125"MIRIDAE14 " 
-126"MIRIDAE15 " 
-127"MIRIDAE18 " 
-128"MIRIDAE20 " 
-129"MIRIDAE21 " 
-130"MIRIDAE3 " 
-131"MIRIDAE4 " 
-132"MIRIDAE7 " 
-133"MIRIDAE8 " 
-574"Monolepta pallidula " 
-528"Mordellina sp. " 
-529"Mordellistena sp. " 
-429"MUSCIDAE3 " 
-184"MYCETOPHILIDAE10 " 
-185"MYCETOPHILIDAE11 " 
-186"MYCETOPHILIDAE12 " 
-187"MYCETOPHILIDAE13 " 
-188"MYCETOPHILIDAE14 " 
-189"MYCETOPHILIDAE15 " 
-190"MYCETOPHILIDAE16 " 
-191"MYCETOPHILIDAE2 " 
-192"MYCETOPHILIDAE6 " 
-193"MYCETOPHILIDAE8 " 
-194"MYCETOPHILIDAE9 " 
-319"Neoascia sp. " 
-158"NEPTICULIDAE1 " 
-150"NEUROPTERA4 " 
-483"Nipponovalgus angusticollis " 
-518"NITIDULIDAE11 " 
-519"NITIDULIDAE6 " 
-756"Nomada galloisi " 
-757"Nomada ginran " 
-758"Nomada hakonensis " 
-759"Nomada pacifica " 
-575"Nonartha cyaneum " 
-119"Nysius sp. " 
-533"Oedemeronia lucidicollis " 
-534"Oedemeronia manicata " 
-535"Oncomerella venosa " 
-134"Onomaus lautus " 
-110"ORTHOPTERA1 " 
-111"ORTHOPTERA10 " 
-112"ORTHOPTERA3 " 
-113"ORTHOPTERA6 " 
-748"Osmia orientalis " 
-749"Osmia taurus " 
-484"Oxycetonia jucunda " 
-597"Pachyprotasis tanakai " 
-320"Paragus jozanus " 
-321"Paragus tibialis " 
-553"Parastrangalis nymphula " 
-683"Paratrechina flavipes " 
-485"Paratrichius doentzi " 
-486"Paratrichius septemdecimguttatus " 
-175"Parnara guttata " 
-176"Parnassius glacialis " 
-233"Pecticus tenebrifer " 
-476"Pelatines striatipennis " 
-118"Pentatoma japonica " 
-240"Philopota nigroaenea " 
-280"PHORIDAE1 " 
-487"Phyllopertha irregularis " 
-554"Pidonia aegrota " 
-555"Pidonia discoidalis " 
-556"Pidonia puziloi " 
-557"Pidonia signifera " 
-558"Pidonia yamato " 
-177"Pieris rapae " 
-322"Pipiza familiaris " 
-323"Pipiza inornata " 
-281"PIPUNCULIDAE3 " 
-511"Plateros sp. " 
-678"PLATYGASTERIDAE1 " 
-108"PLECOPTERA10 " 
-109"PLECOPTERA2 " 
-507"Podabrus temporalis " 
-488"Popillia japonica " 
-684"Pristomyrmex punger " 
-677"PROCTOTRUPIDAE1 " 
-508"Prothemus ciusianus " 
-559"Pseudaosterna misella " 
-182"Psychostrophia melanargia " 
-214"PSYCODIDAE1 " 
-149"PSYLLIDAE1 " 
-667"PTEROMALIDAE10 " 
-668"PTEROMALIDAE2 " 
-669"PTEROMALIDAE3 " 
-670"PTEROMALIDAE6 " 
-671"PTEROMALIDAE9 " 
-169"PYRALIDAE2 " 
-170"PYRALIDAE3 " 
-171"PYRALIDAE4 " 
-172"PYRALIDAE5 " 
-173"PYRALIDAE9 " 
-527"PYROCHROIDAE1 " 
-560"Pyrrhona laeticolor " 
-234"RHAGIONIDAE1 " 
-324"Rhingia laevigata " 
-700"Rhopalum  latronum " 
-467"SARCOPHAGIDAE11 " 
-468"SARCOPHAGIDAE13 " 
-469"SARCOPHAGIDAE19 " 
-470"SARCOPHAGIDAE21 " 
-471"SARCOPHAGIDAE23 " 
-472"SARCOPHAGIDAE26 " 
-473"SARCOPHAGIDAE4 " 
-474"SARCOPHAGIDAE5 " 
-399"SCATOPHAGIDAE1 " 
-213"SCATOPSIDAE1 " 
-561"Schwarzerium quadricolle " 
-200"SCIARIDAE10 " 
-201"SCIARIDAE11 " 
-202"SCIARIDAE12 " 
-203"SCIARIDAE13 " 
-204"SCIARIDAE2 " 
-205"SCIARIDAE3 " 
-206"SCIARIDAE4 " 
-207"SCIARIDAE7 " 
-208"SCIARIDAE9 " 
-489"Sericania fulgida " 
-490"Sericania fuscolineata " 
-325"Sericomyia japonica " 
-326"Sphegina sp.4 " 
-327"Sphaerophoria macrogaster " 
-328"Sphaerophoria menthastri " 
-723"Sphecodes sp.a " 
-329"Sphegina sp.1 " 
-330"Sphegina sp.2 " 
-331"Sphegina sp.3 " 
-701"Sphex maidli " 
-183"SPHINGIDAE3 " 
-562"Stenocorus caeruleipennis " 
-687"Stenodynerus tokyanus tokyanus " 
-576"Stenoluperus nipponensis " 
-563"Strangalomorpha tenuis " 
-598"Strogylogaster lineata " 
-599"Strombocerina koebelei " 
-688"Symmorphus cliens " 
-577"Syreta adamsi " 
-332"Syritta pipiens " 
-333"Syrphus vitripennis " 
-236"Tabanus iyoensis " 
-430"TACHINIDAE11 " 
-431"TACHINIDAE14 " 
-432"TACHINIDAE15 " 
-433"TACHINIDAE18 " 
-434"TACHINIDAE21 " 
-435"TACHINIDAE22 " 
-436"TACHINIDAE25 " 
-437"TACHINIDAE26 " 
-438"TACHINIDAE30 " 
-439"TACHINIDAE37 " 
-440"TACHINIDAE45 " 
-441"TACHINIDAE46 " 
-442"TACHINIDAE49 " 
-443"TACHINIDAE5 " 
-444"TACHINIDAE53 " 
-445"TACHINIDAE58 " 
-446"TACHINIDAE6 " 
-447"TACHINIDAE61 " 
-448"TACHINIDAE63 " 
-449"TACHINIDAE65 " 
-450"TACHINIDAE68 " 
-451"TACHINIDAE7 " 
-452"TACHINIDAE73 " 
-453"TACHINIDAE76 " 
-454"TACHINIDAE79 " 
-455"TACHINIDAE85 " 
-456"TACHINIDAE88 " 
-457"TACHINIDAE89 " 
-458"TACHINIDAE90 " 
-459"TACHINIDAE91 " 
-479"Tachinus sp. " 
-334"Takaomyia johannis " 
-335"Takaomyia sexmaculata " 
-600"Taxonus fulvicornis " 
-336"Temnostoma fumosa " 
-601"Tenthredinidae sp.?1 " 
-602"Tenthredo convagennata " 
-603"Tenthredo fukaii " 
-604"Tenthredo sp. " 
-345"TEPHRITIDAE1 " 
-346"TEPHRITIDAE12 " 
-347"TEPHRITIDAE3 " 
-348"TEPHRITIDAE7 " 
-349"TEPHRITIDAE9 " 
-750"Tetralonia mitsukurii " 
-751"Tetralonia nipponens " 
-138"TETTIGELLIDAE2 " 
-215"TIPULIDAE10 " 
-216"TIPULIDAE12 " 
-217"TIPULIDAE14 " 
-218"TIPULIDAE17 " 
-219"TIPULIDAE18 " 
-220"TIPULIDAE2 " 
-221"TIPULIDAE20 " 
-222"TIPULIDAE21 " 
-223"TIPULIDAE3 " 
-224"TIPULIDAE7 " 
-225"TIPULIDAE9 " 
-162"TISCHERIIDAE1 " 
-163"TISCHERIIDAE2 " 
-137"TOMASPIDIDAE1 " 
-164"TORTRICIDAE2 " 
-165"TORTRICIDAE3 " 
-166"TORTRICIDAE4 " 
-502"Trachys saundersi " 
-509"Tremus cyanipennis " 
-578"Tricholochmaea semifulva " 
-155"TRICHOPTERA11 " 
-156"TRICHOPTERA15 " 
-157"TRICHOPTERA6 " 
-180"Vanessa indica " 
-689"Vespa xanthoptera " 
-690"Vespula schrenckii " 
-691"Vespula vulgaris " 
-500"Vuilletus viridissllis " 
-536"Xanthochroa ainu " 
-537"Xanthochroa deformis " 
-538"Xanthochroa luteipennis " 
-539"Xanthochroa waterhousei " 
-514"Xerasia variegata " 
-337"Xylota coquilletti " 
-338"Xylota frontaris " 
-339"Xylota simplex " 
-608"Zaraea fasciata " 
-579"Zeugophora annulata " 
-168"ZYGAENIDAE1 " 
-767"Cheilosia sp.8 " 
-768"LUSIIDAE1 " 
-769"Lasioglossum  aff " 
-770"Camponotus sp. " 
-771"Andrena sp. " 
-772"Ceratina sp. " 
-0"macrophylla" 
-1"alatus" 
-2"aemula" 
-3"hirta" 
-4"thunbergii" 
-5"trichocarpa" 
-6"salicina" 
-7"alternifolia" 
-8"pallida" 
-9"javanica" 
-10"clethroides" 
-11"Grayana" 
-12"paniculata" 
-13"plicatum" 
-14"chinensis" 
-15"brevipedunculata" 
-16"japonica" 
-17"pubescens" 
-18"griffithii" 
-19"crenata" 
-20"dentata" 
-21"kusanoana" 
-22"vaginata" 
-23"amurense" 
-24"gracilistyla" 
-25"tenuicaulis" 
-26"lineariloba" 
-27"controversa" 
-28"multiflora" 
-29"hortensis" 
-30"annuus" 
-31"kagamontanum" 
-32"tomentella" 
-33"senticosa" 
-34"repens" 
-35"himalaicum" 
-36"podocarpum" 
-37"turbinata" 
-38"polymorpha" 
-39"delphiniifolia" 
-40"bicolor" 
-41"verecunda" 
-42"pilosa" 
-43"acerifolia" 
-44"platanifolium" 
-45"japonicum" 
-46"sessile" 
-47"noli-tangere" 
-48"textori" 
-49"obtusifolium" 
-50"macranthum" 
-51"longituba" 
-52"illecebrosus" 
-53"glabrescens" 
-54"divaricata" 
-55"incisa" 
-56"parvifolius" 
-57"micranthum" 
-58"communis" 
-59"nepalense" 
-60"asiatica" 
-61"palmatus" 
-62"nikoensis" 
-63"grandiflorum" 
-64"flaccida" 
-65"microphyllus" 
-66"glehni" 
-67"dioicus" 
-68"yomena" 
-69"grypoceras" 
-70"japonicus" 
-71"rufinerve" 
-72"sieboldianus" 
-73"aestiva" 
-74"salicifolia" 
-75"praecox" 
-76"divaricatum" 
-77"orientalis" 
-78"kousa" 
-79"filiforme" 
-80"villosa" 
+1053 "ACHILIDAE1 " 
+1398 "Acteniceromorphus nipponensis " 
+1139 "Actina jezoensis " 
+1028 "Adelphocoris triannulatus " 
+1047 "AGALLIIDAE1 " 
+1471 "Agelastica coerulea " 
+1495 "Aglaostigma neburosa " 
+1272 "AGROMYZIDAE1 " 
+1273 "AGROMYZIDAE5 " 
+1433 "ALLECULIDAE1 " 
+1189 "Allograpta javana " 
+1599 "Ammophila infesta " 
+1447 "Anaglyptus niponensis " 
+1437 "Anaspis funagata " 
+1592 "Ancistrocerus melanocerus " 
+1631 "Andrena  benefica " 
+1632 "Andrena  brevihirtiscopa " 
+1633 "Andrena  ishiharai " 
+1634 "Andrena  longitibialis " 
+1635 "Andrena  tsukubana " 
+1636 "Andrena  Knuthi " 
+1637 "Andrena  stellaria " 
+1638 "Andrena  omogensis " 
+1639 "Andrena  akitsushimae " 
+1640 "Andrena  dentata " 
+1641 "Andrena  miyamotoi " 
+1642 "Andrena  hikosana " 
+1643 "Andrena  kaguya " 
+1644 "Andrena  komachi " 
+1645 "Andrena  minutula " 
+1646 "Andrena  sublevigata " 
+1647 "Andrena  opacifovea opacifovea " 
+1648 "Andrena  yamamotoi " 
+1649 "Andrena  halictoides " 
+1650 "Andrena  haemorrhoa japonibia " 
+1448 "Anoploderomorpha excavata " 
+1399 "Anostinus daimio " 
+1427 "Antherophagus nigricornis " 
+1027 "ANTHOCORIDAE2 " 
+1307 "ANTHOMYIIDAE12 " 
+1308 "ANTHOMYIIDAE14 " 
+1309 "ANTHOMYIIDAE16 " 
+1310 "ANTHOMYIIDAE17 " 
+1311 "ANTHOMYIIDAE20 " 
+1312 "ANTHOMYIIDAE21 " 
+1313 "ANTHOMYIIDAE22 " 
+1314 "ANTHOMYIIDAE25 " 
+1315 "ANTHOMYIIDAE27 " 
+1316 "ANTHOMYIIDAE28 " 
+1317 "ANTHOMYIIDAE29 " 
+1318 "ANTHOMYIIDAE3 " 
+1319 "ANTHOMYIIDAE31 " 
+1320 "ANTHOMYIIDAE34 " 
+1321 "ANTHOMYIIDAE35 " 
+1322 "ANTHOMYIIDAE38 " 
+1323 "ANTHOMYIIDAE4 " 
+1324 "ANTHOMYIIDAE41 " 
+1325 "ANTHOMYIIDAE42 " 
+1326 "ANTHOMYIIDAE43 " 
+1327 "ANTHOMYIIDAE44 " 
+1328 "ANTHOMYIIDAE45 " 
+1329 "ANTHOMYIIDAE46 " 
+1330 "ANTHOMYIIDAE48 " 
+1331 "ANTHOMYIIDAE50 " 
+1332 "ANTHOMYIIDAE6 " 
+1333 "ANTHOMYIIDAE7 " 
+1334 "ANTHOMYIIDAE8 " 
+1430 "Anthromacra viriclissima " 
+1489 "APIONIDAE3 " 
+1672 "Apis cerana " 
+1673 "Apis mellifera " 
+1487 "Apoderus jekelii " 
+1001 "ARANEIDA17 " 
+1002 "ARANEIDA18 " 
+1003 "ARANEIDA19 " 
+1004 "ARANEIDA20 " 
+1005 "ARANEIDA21 " 
+1006 "ARANEIDA27 " 
+1007 "ARANEIDA28 " 
+1008 "ARANEIDA34 " 
+1009 "ARANEIDA36 " 
+1010 "ARANEIDA39 " 
+1011 "ARANEIDA41 " 
+1012 "ARANEIDA6 " 
+1013 "ARANEIDA8 " 
+1512 "Arge nigrinodosa " 
+1513 "Arge nipponensis " 
+1514 "Arge similis " 
+1496 "Asiemphytus albilabris " 
+1497 "Athalia japonica " 
+1411 "Athemellus insulsus " 
+1582 "AULACIDAE1 " 
+1190 "Baccha maculata " 
+1191 "Betasyrphus seraius " 
+1449 "Bhaphuma xenisca " 
+1116 "BIBIONIDAE1 " 
+1117 "BIBIONIDAE11 " 
+1118 "BIBIONIDAE4 " 
+1119 "BIBIONIDAE6 " 
+1498 "Birka carinifrons " 
+1387 "Blitopertha orientalis " 
+1667 "Bombus  hypocrita hypocrita " 
+1668 "Bombus  ignitus " 
+1669 "Bombus  diversus diversus " 
+1670 "Bombus  ardens " 
+1671 "Bombus  honshuensis " 
+1144 "Bombylius major " 
+1516 "BRACONIDAE1 " 
+1517 "BRACONIDAE13 " 
+1518 "BRACONIDAE15 " 
+1519 "BRACONIDAE16 " 
+1520 "BRACONIDAE17 " 
+1521 "BRACONIDAE18 " 
+1522 "BRACONIDAE2 " 
+1523 "BRACONIDAE20 " 
+1524 "BRACONIDAE25 " 
+1525 "BRACONIDAE26 " 
+1526 "BRACONIDAE27 " 
+1527 "BRACONIDAE28 " 
+1528 "BRACONIDAE29 " 
+1529 "BRACONIDAE31 " 
+1530 "BRACONIDAE36 " 
+1531 "BRACONIDAE38 " 
+1532 "BRACONIDAE40 " 
+1533 "BRACONIDAE41 " 
+1534 "BRACONIDAE44 " 
+1535 "BRACONIDAE45 " 
+1536 "BRACONIDAE5 " 
+1488 "Byctiscus puberulus " 
+1420 "Byturus affinis " 
+1369 "CALLIPHORIDAE10 " 
+1370 "CALLIPHORIDAE5 " 
+1371 "CALLIPHORIDAE6 " 
+1372 "CALLIPHORIDAE7 " 
+1373 "CALLIPHORIDAE8 " 
+1586 "Camponotus obscripes " 
+1284 "CANACEIDAE1 " 
+1285 "CANACEIDAE2 " 
+1021 "Carbula humerigera " 
+1423 "Carpophilus chalybeus " 
+1417 "Cautires bourgeoisi " 
+1102 "CECIDOMYIIDAE1 " 
+1103 "CECIDOMYIIDAE3 " 
+1104 "CECIDOMYIIDAE4 " 
+1105 "CECIDOMYIIDAE5 " 
+1106 "CECIDOMYIIDAE6 " 
+1192 "Cheilosia sp.8 " 
+1085 "Celastrina argiolus " 
+1439 "CEPHALOIDAE2 " 
+1438 "Cephaloon pallensa " 
+1145 "Cephenius nitobei " 
+1146 "Cephenius sp. " 
+1659 "Ceratina esakii " 
+1660 "Ceratina flavipes " 
+1661 "Ceratina japonica " 
+1662 "Ceratina megastigmata " 
+1136 "CERATOPOGONIDAE1 " 
+1137 "CERATOPOGONIDAE2 " 
+1138 "CERATOPOGONIDAE4 " 
+1600 "Cerceris carinalis " 
+1601 "Cerceris hortivaga " 
+1042 "CERCOPIDAE1 " 
+1043 "CERCOPIDAE2 " 
+1651 "Chalicodoma sculpturalis " 
+1193 "Cheilosia omogensis " 
+1194 "Cheilosia sp.1 " 
+1195 "Cheilosia sp.10 " 
+1196 "Cheilosia sp.11 " 
+1197 "Cheilosia sp.12 " 
+1198 "Cheilosia sp.4 " 
+1199 "Cheilosia sp.5 " 
+1200 "Cheilosia sp.6 " 
+1201 "Cheilosia sp.7 " 
+1202 "Cheilosia sp.9 " 
+1203 "Cheilosia sp.14 " 
+1133 "CHIRONOMIDAE5 " 
+1134 "CHIRONOMIDAE8 " 
+1135 "CHIRONOMIDAE9 " 
+1450 "Chlorophorus japonicus " 
+1286 "CHLOROPIDAE10 " 
+1287 "CHLOROPIDAE11 " 
+1288 "CHLOROPIDAE17 " 
+1289 "CHLOROPIDAE18 " 
+1290 "CHLOROPIDAE2 " 
+1291 "CHLOROPIDAE20 " 
+1292 "CHLOROPIDAE22 " 
+1293 "CHLOROPIDAE23 " 
+1294 "CHLOROPIDAE24 " 
+1295 "CHLOROPIDAE25 " 
+1296 "CHLOROPIDAE26 " 
+1297 "CHLOROPIDAE28 " 
+1298 "CHLOROPIDAE29 " 
+1299 "CHLOROPIDAE3 " 
+1300 "CHLOROPIDAE9 " 
+1081 "Choaspes benjaminii " 
+1142 "Choerades sp. " 
+1472 "CHRYSOMELIDAE14 " 
+1473 "CHRYSOMELIDAE17 " 
+1474 "CHRYSOMELIDAE20 " 
+1475 "CHRYSOMELIDAE22 " 
+1476 "CHRYSOMELIDAE24 " 
+1477 "CHRYSOMELIDAE26 " 
+1478 "CHRYSOMELIDAE31 " 
+1479 "CHRYSOMELIDAE32 " 
+1204 "Chrystogaster brevicornis " 
+1054 "CIXIIDAE1 " 
+1055 "CIXIIDAE2 " 
+1301 "CLUSIIDAE1 " 
+1302 "CLUSIIDAE2 " 
+1303 "CLUSIIDAE3 " 
+1304 "CLUSIIDAE4 " 
+1305 "CLUSIIDAE7 " 
+1652 "Coelioxys brevis " 
+1382 "Colpodes aurelius " 
+1247 "CONOPIDAE1 " 
+1248 "CONOPIDAE11 " 
+1249 "CONOPIDAE13 " 
+1250 "CONOPIDAE15 " 
+1251 "CONOPIDAE8 " 
+1408 "Coraebus rusticanus " 
+1499 "Corymbas nipponica " 
+1451 "Corymia succedanea " 
+1602 "Crabro sp. " 
+1205 "Criorhina japonica " 
+1490 "CURCULIONIDAE10 " 
+1491 "CURCULIONIDAE3 " 
+1492 "CURCULIONIDAE6 " 
+1493 "CURCULIONIDAE8 " 
+1581 "CYNIPIDAE1 " 
+1206 "Dasysyrphus bilineatus " 
+1422 "dasytes vulgaris " 
+1048 "DELTOCEPHALIDAE2 " 
+1049 "DELTOCEPHALIDAE3 " 
+1050 "DELTOCEPHALIDAE4 " 
+1051 "DELTOCEPHALIDAE5 " 
+1452 "Demonax transilis " 
+1453 "Dere thoracica " 
+1419 "Dermestes haemorrhoidalis " 
+1583 "DIAPRIIDAE1 " 
+1277 "DIASTATIDAE2 " 
+1207 "Didea fasciata " 
+1454 "Dinoptera minuta ticollis " 
+1182 "DOLICHOPODIDAE1 " 
+1183 "DOLICHOPODIDAE2 " 
+1184 "DOLICHOPODIDAE3 " 
+1274 "DROSOPHILIDAE11 " 
+1275 "DROSOPHILIDAE15 " 
+1276 "DROSOPHILIDAE19 " 
+1603 "Ectemnius  radiatus " 
+1604 "Ectemnius  rubicola " 
+1605 "Ectemnuis radiatus " 
+1606 "Ectemnuis rubicola nipponis " 
+1388 "Ectinohoplia obducta " 
+1367 "Ectophasia sinensis " 
+1022 "Elasmucha nipponica " 
+1400 "ELATERIDAE17 " 
+1401 "ELATERIDAE3 " 
+1402 "ELATERIDAE8 " 
+1148 "EMPIDIDAE1 " 
+1149 "EMPIDIDAE10 " 
+1150 "EMPIDIDAE11 " 
+1151 "EMPIDIDAE13 " 
+1152 "EMPIDIDAE14 " 
+1153 "EMPIDIDAE15 " 
+1154 "EMPIDIDAE16 " 
+1155 "EMPIDIDAE18 " 
+1156 "EMPIDIDAE19 " 
+1157 "EMPIDIDAE2 " 
+1158 "EMPIDIDAE20 " 
+1159 "EMPIDIDAE21 " 
+1160 "EMPIDIDAE22 " 
+1161 "EMPIDIDAE23 " 
+1162 "EMPIDIDAE24 " 
+1163 "EMPIDIDAE25 " 
+1164 "EMPIDIDAE27 " 
+1165 "EMPIDIDAE28 " 
+1166 "EMPIDIDAE29 " 
+1167 "EMPIDIDAE3 " 
+1168 "EMPIDIDAE31 " 
+1169 "EMPIDIDAE32 " 
+1170 "EMPIDIDAE33 " 
+1171 "EMPIDIDAE36 " 
+1172 "EMPIDIDAE38 " 
+1173 "EMPIDIDAE39 " 
+1174 "EMPIDIDAE4 " 
+1175 "EMPIDIDAE44 " 
+1176 "EMPIDIDAE45 " 
+1177 "EMPIDIDAE5 " 
+1178 "EMPIDIDAE6 " 
+1179 "EMPIDIDAE7 " 
+1180 "EMPIDIDAE8 " 
+1181 "EMPIDIDAE9 " 
+1500 "Empria quadrimaculata " 
+1429 "ENDOMYCHIDAE2 " 
+1014 "EPHEMEROPTERA1 " 
+1278 "EPHYDRIDAE14 " 
+1279 "EPHYDRIDAE19 " 
+1280 "EPHYDRIDAE2 " 
+1281 "EPHYDRIDAE28 " 
+1282 "EPHYDRIDAE4 " 
+1283 "EPHYDRIDAE5 " 
+1208 "Epistotophe shibakawae " 
+1209 "Episyrphus balteatus " 
+1052 "Epotiocerus flexuosus " 
+1424 "Epuraea sp. " 
+1210 "Eristalis cerealis " 
+1211 "Eristalomya tenax " 
+1389 "Eucetonia roelofsi " 
+1573 "EULOPHIDAE1 " 
+1088 "Eulype hastata " 
+1593 "Eumenes rubronotatus " 
+1029 "Eurystylus coelestialium " 
+1579 "EURYTOMIDAE1 " 
+1384 "Eusphalerum parallelum " 
+1046 "EVACANTHIDAE1 " 
+1212 "Ferdinandea cuprea " 
+1501 "Ferusa sp. " 
+1580 "FIGITIDAE1 " 
+1587 "Formica japonica " 
+1588 "Formica sp. " 
+1403 "Gamepenthes similis " 
+1404 "Gamepenthes versipellis " 
+1405 "Ganoxanthus pallidus " 
+1074 "GRACILLARIIDAE1 " 
+1335 "Graphomyia maculata " 
+1368 "Gymnosoma rotundatum " 
+1428 "Harmonia axyridis " 
+1066 "HELIOZELIDAE1 " 
+1067 "HELIOZELIDAE3 " 
+1068 "HELIOZELIDAE6 " 
+1213 "Helophilus virgatus " 
+1502 "Hemitaxonus japonicas " 
+1609 "Hylaeus floralis " 
+1610 "Hylaeus globula " 
+1611 "Hylaeus nippon " 
+1537 "ICHNEUMONIDAE1 " 
+1538 "ICHNEUMONIDAE105 " 
+1539 "ICHNEUMONIDAE109 " 
+1540 "ICHNEUMONIDAE111 " 
+1541 "ICHNEUMONIDAE114 " 
+1542 "ICHNEUMONIDAE115 " 
+1543 "ICHNEUMONIDAE116 " 
+1544 "ICHNEUMONIDAE118 " 
+1545 "ICHNEUMONIDAE120 " 
+1546 "ICHNEUMONIDAE122 " 
+1547 "ICHNEUMONIDAE123 " 
+1548 "ICHNEUMONIDAE18 " 
+1549 "ICHNEUMONIDAE30 " 
+1550 "ICHNEUMONIDAE33 " 
+1551 "ICHNEUMONIDAE37 " 
+1552 "ICHNEUMONIDAE38 " 
+1553 "ICHNEUMONIDAE4 " 
+1554 "ICHNEUMONIDAE40 " 
+1555 "ICHNEUMONIDAE44 " 
+1556 "ICHNEUMONIDAE48 " 
+1557 "ICHNEUMONIDAE49 " 
+1558 "ICHNEUMONIDAE51 " 
+1559 "ICHNEUMONIDAE53 " 
+1560 "ICHNEUMONIDAE55 " 
+1561 "ICHNEUMONIDAE64 " 
+1562 "ICHNEUMONIDAE65 " 
+1563 "ICHNEUMONIDAE73 " 
+1564 "ICHNEUMONIDAE74 " 
+1565 "ICHNEUMONIDAE76 " 
+1566 "ICHNEUMONIDAE82 " 
+1567 "ICHNEUMONIDAE85 " 
+1568 "ICHNEUMONIDAE87 " 
+1569 "ICHNEUMONIDAE88 " 
+1570 "ICHNEUMONIDAE91 " 
+1571 "ICHNEUMONIDAE94 " 
+1572 "ICHNEUMONIDAE96 " 
+1455 "Idiostrangalia contracta " 
+1214 "Imatisma abdominalis " 
+1215 "Imatisma dimorpha " 
+1216 "Imatisma sp. " 
+1456 "Japanostrangalia deutatipennis " 
+1086 "Japonica luter " 
+1431 "Lagria nigricollis " 
+1612 "Lasioglossum  problematicum " 
+1613 "Lasioglossum  sp.2 " 
+1614 "Lasioglossum  duplex " 
+1615 "Lasioglossum  sp.1 " 
+1616 "Lasioglossum  japonicum " 
+1617 "Lasioglossum  sexstrigatum " 
+1618 "Lasioglossum  sp.25 " 
+1619 "Lasioglossum  sp.5 " 
+1620 "Lasioglossum  taniolellum " 
+1621 "Lasioglossum  transpositum " 
+1622 "Lasioglossum  apristum " 
+1623 "Lasioglossum  baleicum " 
+1624 "Lasioglossum  exiliceps " 
+1625 "Lasioglossum  kansuense " 
+1626 "Lasioglossum  occidens " 
+1627 "Lasioglossum  proximatum " 
+1628 "Lasioglossum  sp.3 " 
+1629 "Lasioglossum  sp.6 " 
+1589 "Lasius niger " 
+1257 "LAUXANIIDAE10 " 
+1258 "LAUXANIIDAE11 " 
+1259 "LAUXANIIDAE12 " 
+1260 "LAUXANIIDAE13 " 
+1261 "LAUXANIIDAE14 " 
+1262 "LAUXANIIDAE15 " 
+1263 "LAUXANIIDAE16 " 
+1264 "LAUXANIIDAE2 " 
+1265 "LAUXANIIDAE5 " 
+1266 "LAUXANIIDAE9 " 
+1457 "Leptura aethiops " 
+1458 "Leptura arcuata " 
+1459 "Leptura ochraceofasciata " 
+1480 "Linoetis coeruleipennis " 
+1503 "Loderus eversmanini obscurus " 
+1267 "LONCHAEIDAE11 " 
+1268 "LONCHAEIDAE3 " 
+1269 "LONCHAEIDAE4 " 
+1270 "LONCHAEIDAE8 " 
+1271 "LONCHAEIDAE9 " 
+1185 "LONCHOPTERIDAE1 " 
+1186 "LONCHOPTERIDAE2 " 
+1410 "Lucidina accensa " 
+1432 "Macrolagria rufobrunnea " 
+1412 "Malthodes sulcicollis " 
+1217 "Mashumyia ferdinandi " 
+1058 "MECOPTERA2 " 
+1059 "MECOPTERA3 " 
+1060 "MECOPTERA4 " 
+1061 "MECOPTERA5 " 
+1653 "Megachile remota sakagamii " 
+1654 "Megachile tsurugensis " 
+1385 "Megalopaederus lewsi " 
+1218 "Megaspis zonata " 
+1219 "Melanostoma scalare " 
+1406 "Melanotus annosus " 
+1220 "Meluscaeva cinctella " 
+1023 "Menida scotti " 
+1024 "Menida violacea " 
+1221 "Metasyrphus corollae " 
+1222 "Metasyrphus nintens " 
+1494 "Metialina sp. " 
+1413 "Micadocantharis japonica " 
+1223 "Microdon auricomus " 
+1224 "Microdon simplex " 
+1225 "Milesia undulata " 
+1030 "MIRIDAE10 " 
+1031 "MIRIDAE13 " 
+1032 "MIRIDAE14 " 
+1033 "MIRIDAE15 " 
+1034 "MIRIDAE18 " 
+1035 "MIRIDAE20 " 
+1036 "MIRIDAE21 " 
+1037 "MIRIDAE3 " 
+1038 "MIRIDAE4 " 
+1039 "MIRIDAE7 " 
+1040 "MIRIDAE8 " 
+1481 "Monolepta pallidula " 
+1435 "Mordellina sp. " 
+1436 "Mordellistena sp. " 
+1336 "MUSCIDAE3 " 
+1091 "MYCETOPHILIDAE10 " 
+1092 "MYCETOPHILIDAE11 " 
+1093 "MYCETOPHILIDAE12 " 
+1094 "MYCETOPHILIDAE13 " 
+1095 "MYCETOPHILIDAE14 " 
+1096 "MYCETOPHILIDAE15 " 
+1097 "MYCETOPHILIDAE16 " 
+1098 "MYCETOPHILIDAE2 " 
+1099 "MYCETOPHILIDAE6 " 
+1100 "MYCETOPHILIDAE8 " 
+1101 "MYCETOPHILIDAE9 " 
+1226 "Neoascia sp. " 
+1065 "NEPTICULIDAE1 " 
+1057 "NEUROPTERA4 " 
+1390 "Nipponovalgus angusticollis " 
+1425 "NITIDULIDAE11 " 
+1426 "NITIDULIDAE6 " 
+1663 "Nomada galloisi " 
+1664 "Nomada ginran " 
+1665 "Nomada hakonensis " 
+1666 "Nomada pacifica " 
+1482 "Nonartha cyaneum " 
+1026 "Nysius sp. " 
+1440 "Oedemeronia lucidicollis " 
+1441 "Oedemeronia manicata " 
+1442 "Oncomerella venosa " 
+1041 "Onomaus lautus " 
+1017 "ORTHOPTERA1 " 
+1018 "ORTHOPTERA10 " 
+1019 "ORTHOPTERA3 " 
+1020 "ORTHOPTERA6 " 
+1655 "Osmia orientalis " 
+1656 "Osmia taurus " 
+1391 "Oxycetonia jucunda " 
+1504 "Pachyprotasis tanakai " 
+1227 "Paragus jozanus " 
+1228 "Paragus tibialis " 
+1460 "Parastrangalis nymphula " 
+1590 "Paratrechina flavipes " 
+1392 "Paratrichius doentzi " 
+1393 "Paratrichius septemdecimguttatus " 
+1082 "Parnara guttata " 
+1083 "Parnassius glacialis " 
+1140 "Pecticus tenebrifer " 
+1383 "Pelatines striatipennis " 
+1025 "Pentatoma japonica " 
+1147 "Philopota nigroaenea " 
+1187 "PHORIDAE1 " 
+1394 "Phyllopertha irregularis " 
+1461 "Pidonia aegrota " 
+1462 "Pidonia discoidalis " 
+1463 "Pidonia puziloi " 
+1464 "Pidonia signifera " 
+1465 "Pidonia yamato " 
+1084 "Pieris rapae " 
+1229 "Pipiza familiaris " 
+1230 "Pipiza inornata " 
+1188 "PIPUNCULIDAE3 " 
+1418 "Plateros sp. " 
+1585 "PLATYGASTERIDAE1 " 
+1015 "PLECOPTERA10 " 
+1016 "PLECOPTERA2 " 
+1414 "Podabrus temporalis " 
+1395 "Popillia japonica " 
+1591 "Pristomyrmex punger " 
+1584 "PROCTOTRUPIDAE1 " 
+1415 "Prothemus ciusianus " 
+1466 "Pseudaosterna misella " 
+1089 "Psychostrophia melanargia " 
+1121 "PSYCODIDAE1 " 
+1056 "PSYLLIDAE1 " 
+1574 "PTEROMALIDAE10 " 
+1575 "PTEROMALIDAE2 " 
+1576 "PTEROMALIDAE3 " 
+1577 "PTEROMALIDAE6 " 
+1578 "PTEROMALIDAE9 " 
+1076 "PYRALIDAE2 " 
+1077 "PYRALIDAE3 " 
+1078 "PYRALIDAE4 " 
+1079 "PYRALIDAE5 " 
+1080 "PYRALIDAE9 " 
+1434 "PYROCHROIDAE1 " 
+1467 "Pyrrhona laeticolor " 
+1141 "RHAGIONIDAE1 " 
+1231 "Rhingia laevigata " 
+1607 "Rhopalum  latronum " 
+1374 "SARCOPHAGIDAE11 " 
+1375 "SARCOPHAGIDAE13 " 
+1376 "SARCOPHAGIDAE19 " 
+1377 "SARCOPHAGIDAE21 " 
+1378 "SARCOPHAGIDAE23 " 
+1379 "SARCOPHAGIDAE26 " 
+1380 "SARCOPHAGIDAE4 " 
+1381 "SARCOPHAGIDAE5 " 
+1306 "SCATOPHAGIDAE1 " 
+1120 "SCATOPSIDAE1 " 
+1468 "Schwarzerium quadricolle " 
+1107 "SCIARIDAE10 " 
+1108 "SCIARIDAE11 " 
+1109 "SCIARIDAE12 " 
+1110 "SCIARIDAE13 " 
+1111 "SCIARIDAE2 " 
+1112 "SCIARIDAE3 " 
+1113 "SCIARIDAE4 " 
+1114 "SCIARIDAE7 " 
+1115 "SCIARIDAE9 " 
+1396 "Sericania fulgida " 
+1397 "Sericania fuscolineata " 
+1232 "Sericomyia japonica " 
+1233 "Sphegina sp.4 " 
+1234 "Sphaerophoria macrogaster " 
+1235 "Sphaerophoria menthastri " 
+1630 "Sphecodes sp.a " 
+1236 "Sphegina sp.1 " 
+1237 "Sphegina sp.2 " 
+1238 "Sphegina sp.3 " 
+1608 "Sphex maidli " 
+1090 "SPHINGIDAE3 " 
+1469 "Stenocorus caeruleipennis " 
+1594 "Stenodynerus tokyanus tokyanus " 
+1483 "Stenoluperus nipponensis " 
+1470 "Strangalomorpha tenuis " 
+1505 "Strogylogaster lineata " 
+1506 "Strombocerina koebelei " 
+1595 "Symmorphus cliens " 
+1484 "Syreta adamsi " 
+1239 "Syritta pipiens " 
+1240 "Syrphus vitripennis " 
+1143 "Tabanus iyoensis " 
+1337 "TACHINIDAE11 " 
+1338 "TACHINIDAE14 " 
+1339 "TACHINIDAE15 " 
+1340 "TACHINIDAE18 " 
+1341 "TACHINIDAE21 " 
+1342 "TACHINIDAE22 " 
+1343 "TACHINIDAE25 " 
+1344 "TACHINIDAE26 " 
+1345 "TACHINIDAE30 " 
+1346 "TACHINIDAE37 " 
+1347 "TACHINIDAE45 " 
+1348 "TACHINIDAE46 " 
+1349 "TACHINIDAE49 " 
+1350 "TACHINIDAE5 " 
+1351 "TACHINIDAE53 " 
+1352 "TACHINIDAE58 " 
+1353 "TACHINIDAE6 " 
+1354 "TACHINIDAE61 " 
+1355 "TACHINIDAE63 " 
+1356 "TACHINIDAE65 " 
+1357 "TACHINIDAE68 " 
+1358 "TACHINIDAE7 " 
+1359 "TACHINIDAE73 " 
+1360 "TACHINIDAE76 " 
+1361 "TACHINIDAE79 " 
+1362 "TACHINIDAE85 " 
+1363 "TACHINIDAE88 " 
+1364 "TACHINIDAE89 " 
+1365 "TACHINIDAE90 " 
+1366 "TACHINIDAE91 " 
+1386 "Tachinus sp. " 
+1241 "Takaomyia johannis " 
+1242 "Takaomyia sexmaculata " 
+1507 "Taxonus fulvicornis " 
+1243 "Temnostoma fumosa " 
+1508 "Tenthredinidae sp.?1 " 
+1509 "Tenthredo convagennata " 
+1510 "Tenthredo fukaii " 
+1511 "Tenthredo sp. " 
+1252 "TEPHRITIDAE1 " 
+1253 "TEPHRITIDAE12 " 
+1254 "TEPHRITIDAE3 " 
+1255 "TEPHRITIDAE7 " 
+1256 "TEPHRITIDAE9 " 
+1657 "Tetralonia mitsukurii " 
+1658 "Tetralonia nipponens " 
+1045 "TETTIGELLIDAE2 " 
+1122 "TIPULIDAE10 " 
+1123 "TIPULIDAE12 " 
+1124 "TIPULIDAE14 " 
+1125 "TIPULIDAE17 " 
+1126 "TIPULIDAE18 " 
+1127 "TIPULIDAE2 " 
+1128 "TIPULIDAE20 " 
+1129 "TIPULIDAE21 " 
+1130 "TIPULIDAE3 " 
+1131 "TIPULIDAE7 " 
+1132 "TIPULIDAE9 " 
+1069 "TISCHERIIDAE1 " 
+1070 "TISCHERIIDAE2 " 
+1044 "TOMASPIDIDAE1 " 
+1071 "TORTRICIDAE2 " 
+1072 "TORTRICIDAE3 " 
+1073 "TORTRICIDAE4 " 
+1409 "Trachys saundersi " 
+1416 "Tremus cyanipennis " 
+1485 "Tricholochmaea semifulva " 
+1062 "TRICHOPTERA11 " 
+1063 "TRICHOPTERA15 " 
+1064 "TRICHOPTERA6 " 
+1087 "Vanessa indica " 
+1596 "Vespa xanthoptera " 
+1597 "Vespula schrenckii " 
+1598 "Vespula vulgaris " 
+1407 "Vuilletus viridissllis " 
+1443 "Xanthochroa ainu " 
+1444 "Xanthochroa deformis " 
+1445 "Xanthochroa luteipennis " 
+1446 "Xanthochroa waterhousei " 
+1421 "Xerasia variegata " 
+1244 "Xylota coquilletti " 
+1245 "Xylota frontaris " 
+1246 "Xylota simplex " 
+1515 "Zaraea fasciata " 
+1486 "Zeugophora annulata " 
+1075 "ZYGAENIDAE1 " 
+1674 "Cheilosia sp.8 " 
+1675 "LUSIIDAE1 " 
+1676 "Lasioglossum  aff " 
+1677 "Camponotus sp. " 
+1678 "Andrena sp. " 
+1679 "Ceratina sp. " 
+0 "macrophylla" 
+1 "alatus" 
+2 "aemula" 
+3 "hirta" 
+4 "thunbergii" 
+5 "trichocarpa" 
+6 "salicina" 
+7 "alternifolia" 
+8 "pallida" 
+9 "javanica" 
+10 "clethroides" 
+11 "Grayana" 
+12 "paniculata" 
+13 "plicatum" 
+14 "chinensis" 
+15 "brevipedunculata" 
+16 "japonica" 
+17 "pubescens" 
+18 "griffithii" 
+19 "crenata" 
+20 "dentata" 
+21 "kusanoana" 
+22 "vaginata" 
+23 "amurense" 
+24 "gracilistyla" 
+25 "tenuicaulis" 
+26 "lineariloba" 
+27 "controversa" 
+28 "multiflora" 
+29 "hortensis" 
+30 "annuus" 
+31 "kagamontanum" 
+32 "tomentella" 
+33 "senticosa" 
+34 "repens" 
+35 "himalaicum" 
+36 "podocarpum" 
+37 "turbinata" 
+38 "polymorpha" 
+39 "delphiniifolia" 
+40 "bicolor" 
+41 "verecunda" 
+42 "pilosa" 
+43 "acerifolia" 
+44 "platanifolium" 
+45 "japonicum" 
+46 "sessile" 
+47 "noli-tangere" 
+48 "textori" 
+49 "obtusifolium" 
+50 "macranthum" 
+51 "longituba" 
+52 "illecebrosus" 
+53 "glabrescens" 
+54 "divaricata" 
+55 "incisa" 
+56 "parvifolius" 
+57 "micranthum" 
+58 "communis" 
+59 "nepalense" 
+60 "asiatica" 
+61 "palmatus" 
+62 "nikoensis" 
+63 "grandiflorum" 
+64 "flaccida" 
+65 "microphyllus" 
+66 "glehni" 
+67 "dioicus" 
+68 "yomena" 
+69 "grypoceras" 
+70 "japonicus" 
+71 "rufinerve" 
+72 "sieboldianus" 
+73 "aestiva" 
+74 "salicifolia" 
+75 "praecox" 
+76 "divaricatum" 
+77 "orientalis" 
+78 "kousa" 
+79 "filiforme" 
+80 "villosa" 
 
 *Bipartite 679
-146 0 1
-491 1 1
-232 2 1
-232 3 1
-121 4 1
-121 5 1
-140 6 1
-564 4 6
-564 7 1
-564 0 2
-588 2 1
-588 3 1
-365 1 1
-366 3 1
-526 4 2
-526 8 1
-282 4 1
-282 6 1
-282 9 1
-692 10 1
-692 11 1
-540 12 1
-540 13 1
-530 13 1
-685 1 1
-685 14 1
-724 3 1
-724 11 1
-725 15 1
-725 3 1
-725 6 2
-725 16 2
-725 14 1
-726 17 3
-726 18 1
-727 1 1
-727 12 1
-728 19 5
-728 20 1
-729 20 1
-729 5 1
-730 21 1
-730 22 1
-731 23 3
-732 0 11
-732 12 9
-733 17 1
-733 12 2
-734 24 1
-735 2 1
-735 19 2
-735 1 8
-735 3 3
-735 14 2
-735 13 1
-736 1 1
-737 2 1
-737 1 1
-737 22 2
-738 2 1
-738 25 1
-738 1 1
-738 18 1
-739 26 1
-740 14 2
-740 27 1
-741 2 1
-741 19 3
-741 1 1
-741 3 1
-741 28 2
-741 14 1
-742 29 11
-743 29 1
-541 0 9
-541 12 1
-492 6 1
-520 12 1
-120 4 1
-400 2 2
-400 17 3
-400 29 1
-401 8 1
-401 22 1
-402 17 2
-403 3 1
-404 2 1
-405 8 1
-405 1 4
-405 3 1
-405 20 1
-406 19 1
-406 20 1
-407 19 1
-407 17 2
-407 30 2
-408 22 1
-409 2 12
-409 3 2
-409 12 1
-410 2 1
-411 2 1
-411 17 3
-411 4 1
-412 2 1
-412 26 1
-412 1 6
-412 3 1
-412 20 3
-412 24 1
-412 13 2
-413 1 2
-414 2 1
-415 2 106
-415 1 1
-415 3 5
-416 2 2
-416 1 1
-417 24 1
-418 2 1
-418 24 1
-419 2 1
-420 3 1
-421 8 1
-422 2 1
-423 24 1
-424 12 5
-424 23 1
-425 9 1
-426 2 2
-427 2 1
-523 2 1
-523 14 2
-523 13 3
-523 29 3
-523 27 5
-582 13 1
-765 19 2
-765 31 1
-765 8 4
-765 32 3
-765 0 1
-765 12 9
-765 33 1
-765 5 34
-765 9 6
-765 34 2
-765 29 1
-766 19 11
-766 0 3
-766 5 2
-766 9 1
-766 29 1
-580 24 1
-94 2 1
-95 2 1
-96 2 1
-97 2 1
-98 2 1
-99 2 1
-100 3 1
-101 2 1
-102 2 1
-103 2 1
-104 6 1
-105 11 1
-106 12 1
-605 4 1
-606 17 1
-606 12 1
-607 17 1
-589 19 1
-590 2 1
-590 21 1
-504 0 3
-675 8 1
-283 35 1
-283 36 1
-283 16 1
-284 32 1
-284 10 1
-542 12 1
-209 6 2
-210 2 1
-211 2 1
-212 29 1
-591 10 1
-480 4 1
-480 12 1
-480 30 4
-760 37 1
-760 38 1
-760 17 1
-760 39 1
-760 19 1
-760 8 3
-760 19 4
-760 0 13
-760 12 6
-760 40 1
-760 33 1
-760 9 5
-760 41 2
-760 29 6
-761 16 1
-762 42 1
-762 43 1
-762 44 7
-762 45 6
-762 31 29
-762 26 1
-762 19 2
-762 46 1
-762 32 2
-762 0 3
-762 12 1
-762 47 1
-762 48 8
-762 40 1
-762 49 2
-762 33 1
-762 4 1
-762 50 1
-762 51 2
-762 52 1
-762 53 1
-762 16 1
-762 3 1
-762 29 6
-762 54 1
-763 7 1
-763 26 1
-763 32 2
-763 20 1
-763 55 1
-763 56 1
-763 16 2
-763 29 3
-764 37 1
-764 4 1
-764 39 1
-764 7 1
-764 31 19
-764 57 1
-764 58 1
-764 59 1
-764 45 1
-764 0 1
-764 12 1
-764 48 1
-764 40 2
-764 49 4
-764 60 1
-764 55 1
-764 51 1
-764 5 17
-764 52 1
-764 61 1
-764 56 1
-764 62 1
-764 45 1
-764 29 1
-764 54 1
-237 26 4
-237 63 1
-237 55 2
-237 21 2
-237 41 1
-609 5 1
-610 17 1
-611 39 1
-612 17 1
-613 16 1
-614 13 1
-615 5 1
-616 55 1
-617 15 1
-618 2 1
-619 17 1
-620 13 1
-621 20 1
-622 64 1
-623 8 1
-624 23 1
-625 11 1
-626 2 1
-627 3 1
-628 1 1
-629 59 1
-581 2 1
-513 65 1
-462 2 2
-463 12 1
-463 33 1
-464 2 1
-465 13 1
-466 17 1
-466 4 1
-679 2 1
-679 27 1
-377 1 1
-378 1 1
-114 5 1
-516 66 1
-516 12 1
-510 12 1
-195 11 1
-196 4 1
-197 2 2
-198 2 1
-199 24 5
-285 64 1
-178 26 1
-532 13 1
-532 29 1
-531 1 2
-531 29 1
-238 5 2
-239 5 3
-752 41 2
-753 30 3
-754 67 1
-754 26 1
-754 8 3
-754 19 2
-754 5 2
-754 21 2
-754 41 1
-754 29 2
-755 64 5
-755 17 1
-755 66 2
-755 25 1
-755 31 2
-755 26 13
-755 8 3
-755 59 4
-755 68 1
-755 18 2
-755 4 2
-755 55 1
-755 6 1
-755 5 4
-755 65 1
-755 61 1
-755 30 1
-755 69 1
-755 21 3
-755 22 12
-755 41 9
-755 29 1
-755 27 2
-229 24 3
-230 55 1
-231 2 1
-693 4 4
-694 12 1
-694 30 1
-135 0 1
-136 8 1
-136 12 1
-744 9 1
-286 17 3
-286 23 2
-287 2 2
-288 0 1
-289 26 2
-289 70 1
-289 22 1
-290 4 1
-290 11 2
-290 6 1
-291 24 1
-292 2 1
-293 4 2
-293 11 1
-294 2 3
-294 68 1
-294 4 1
-295 64 2
-296 64 2
-296 21 1
-226 8 6
-227 11 1
-228 8 2
-543 4 1
-543 19 1
-379 1 1
-380 3 1
-381 12 1
-382 19 2
-383 3 1
-384 20 1
-385 17 1
-386 2 2
-386 11 1
-387 2 1
-388 2 1
-389 2 1
-390 2 1
-390 3 1
-391 1 1
-392 22 1
-393 12 1
-174 16 1
-235 1 1
-565 41 1
-566 23 1
-567 4 2
-568 12 1
-569 55 1
-570 19 1
-571 24 1
-572 55 2
-297 11 1
-147 2 2
-147 13 2
-147 29 1
-148 20 1
-394 2 6
-394 26 1
-394 1 43
-394 3 1
-394 0 2
-394 12 1
-394 20 3
-394 13 4
-394 29 1
-394 27 2
-395 2 8
-396 2 1
-397 27 1
-398 39 1
-745 4 1
-745 5 1
-475 49 1
-340 10 1
-341 9 1
-342 12 1
-343 23 1
-344 7 1
-501 65 1
-592 13 1
-592 27 1
-544 12 1
-695 10 1
-298 1 1
-583 65 1
-584 12 1
-585 2 1
-586 24 1
-674 55 1
-299 31 1
-515 13 1
-515 29 1
-141 2 1
-142 12 1
-143 2 36
-143 3 1
-144 2 1
-545 13 1
-545 27 2
-546 2 1
-512 19 1
-676 17 1
-370 2 1
-300 0 1
-547 8 1
-547 24 1
-275 64 1
-275 2 1
-276 2 1
-277 9 1
-367 17 1
-368 17 1
-369 3 1
-696 4 2
-697 4 1
-698 4 2
-698 62 1
-699 17 1
-699 4 1
-481 19 6
-481 12 1
-460 17 2
-460 3 1
-460 5 1
-115 2 1
-493 3 1
-494 0 2
-495 0 2
-241 2 1
-242 3 2
-243 2 3
-244 2 3
-245 2 1
-246 2 4
-247 2 2
-248 2 1
-249 6 1
-249 29 3
-250 2 1
-251 2 1
-252 2 1
-253 4 1
-254 2 1
-255 2 1
-256 2 3
-256 1 1
-256 65 1
-256 13 1
-257 2 8
-257 3 1
-257 11 1
-258 2 2
-259 2 1
-260 2 1
-261 71 5
-261 2 2
-261 72 1
-261 61 1
-261 41 1
-262 64 1
-262 2 7
-262 72 1
-262 11 1
-262 21 1
-263 6 1
-264 55 1
-265 2 1
-266 2 2
-266 19 2
-267 24 2
-268 6 1
-269 2 2
-270 2 1
-271 2 2
-272 2 3
-273 2 1
-274 2 1
-593 64 1
-522 2 1
-107 12 1
-371 17 1
-372 64 1
-373 2 1
-374 2 1
-375 19 1
-376 19 1
-301 73 1
-301 17 1
-301 4 1
-301 5 1
-302 2 1
-302 7 1
-302 1 2
-302 3 1
-302 0 3
-302 4 1
-145 0 1
-517 19 2
-517 74 4
-517 55 1
-517 6 6
-517 24 12
-303 2 1
-303 66 2
-303 4 2
-303 39 1
-303 19 2
-303 31 2
-303 19 2
-303 1 1
-303 59 1
-303 3 1
-303 12 4
-303 68 1
-303 33 3
-303 4 13
-303 6 4
-303 16 1
-303 9 3
-303 75 1
-303 13 6
-303 29 2
-303 27 2
-304 66 1
-304 12 1
-304 20 3
-304 33 1
-304 9 1
-304 28 1
-304 30 1
-482 17 1
-482 1 1
-482 0 1
-482 12 1
-482 23 1
-482 13 1
-666 12 1
-181 2 1
-686 30 1
-122 15 2
-122 12 2
-122 23 1
-122 16 1
-122 9 6
-672 1 1
-477 55 19
-477 6 2
-477 24 15
-139 12 1
-305 0 1
-594 29 1
-673 2 1
-680 38 1
-680 4 2
-680 19 2
-680 12 2
-681 16 1
-681 10 1
-681 27 1
-496 62 1
-497 4 4
-497 12 7
-498 2 1
-498 3 1
-498 14 1
-498 13 1
-167 29 1
-428 17 1
-428 2 1
-428 0 1
-428 12 1
-461 12 1
-521 23 1
-159 2 1
-159 27 1
-160 4 1
-161 12 1
-306 66 2
-306 59 1
-306 49 1
-306 4 2
-306 61 1
-595 22 1
-702 19 1
-702 1 1
-703 15 2
-703 17 20
-703 67 1
-703 4 1
-703 16 2
-703 9 7
-703 62 1
-703 13 6
-704 17 1
-630 5 3
-631 2 1
-632 11 1
-633 2 1
-634 2 1
-635 1 1
-636 4 1
-637 2 1
-638 4 1
-639 7 1
-640 4 1
-641 5 1
-642 23 1
-643 3 1
-644 5 1
-645 5 1
-646 39 1
-647 39 1
-648 17 1
-649 0 1
-650 2 1
-651 2 1
-652 17 1
-653 0 1
-654 17 1
-655 0 1
-656 11 1
-657 4 1
-658 2 1
-659 17 1
-660 13 1
-661 2 1
-662 1 1
-663 2 1
-664 1 1
-665 22 1
-548 67 6
-548 0 4
-307 7 1
-308 12 1
-308 16 1
-309 0 1
-549 12 1
-549 29 1
-179 13 1
-524 4 1
-524 10 1
-705 42 1
-705 2 2
-705 8 2
-705 59 1
-705 21 1
-706 19 1
-706 1 8
-706 3 3
-706 5 1
-706 14 1
-706 13 1
-707 19 1
-707 20 1
-708 27 1
-709 19 1
-709 19 1
-710 17 2
-710 76 1
-711 19 1
-711 0 4
-712 59 1
-712 62 1
-713 15 1
-714 2 1
-714 7 4
-714 26 1
-714 19 9
-714 1 1
-714 3 3
-714 0 13
-714 49 1
-714 5 1
-714 13 2
-714 27 1
-715 2 2
-715 4 1
-715 19 9
-715 1 10
-715 59 1
-715 45 1
-715 3 13
-715 0 2
-715 12 10
-715 49 1
-715 16 1
-715 28 1
-715 77 1
-715 14 8
-715 13 2
-715 27 5
-716 0 2
-717 19 1
-717 6 1
-717 29 1
-717 27 1
-718 4 1
-718 19 1
-718 10 1
-719 4 1
-719 12 3
-719 20 3
-719 10 2
-719 5 2
-719 30 1
-719 29 1
-719 27 1
-720 2 2
-720 29 2
-720 27 2
-721 7 1
-721 31 1
-721 72 1
-721 0 6
-721 68 1
-721 5 1
-721 62 1
-721 29 1
-721 78 1
-722 19 1
-682 2 2
-682 12 4
-682 9 1
-682 41 2
-350 2 1
-351 2 1
-352 2 1
-353 2 1
-354 2 1
-355 11 1
-356 1 1
-357 1 1
-358 10 2
-359 2 4
-359 8 1
-359 3 1
-359 11 1
-359 55 1
-550 29 1
-551 13 1
-552 7 1
-552 0 9
-573 2 1
-573 29 3
-596 26 2
-360 3 1
-361 3 1
-362 71 1
-363 12 1
-364 2 1
-278 2 14
-278 3 1
-279 2 1
-503 12 1
-525 27 1
-505 2 2
-310 15 1
-151 2 3
-151 1 4
-151 14 2
-152 14 1
-153 2 1
-153 1 1
-154 2 5
-154 1 1
-154 21 1
-746 40 3
-747 59 1
-747 23 1
-747 9 2
-478 13 1
-311 17 1
-311 66 1
-311 4 2
-312 35 1
-312 17 1
-312 79 1
-312 2 19
-312 19 1
-312 1 5
-312 3 2
-312 20 1
-499 1 2
-499 20 1
-313 0 1
-116 27 1
-117 66 1
-117 1 1
-117 4 1
-117 13 1
-117 29 1
-314 29 1
-315 29 1
-587 2 1
-506 3 1
-316 29 1
-317 0 1
-317 62 1
-318 32 1
-123 2 1
-123 6 1
-124 67 1
-124 0 2
-125 19 1
-126 15 1
-127 8 1
-127 19 1
-128 2 1
-129 2 1
-130 2 1
-130 5 20
-130 14 1
-130 13 1
-130 27 1
-131 19 1
-132 5 1
-133 29 1
-574 5 1
-528 24 3
-529 2 4
-529 19 1
-529 19 3
-529 1 1
-529 3 1
-529 0 1
-529 12 2
-529 6 1
-529 14 7
-529 13 9
-529 27 2
-429 1 1
-184 2 1
-185 2 1
-186 2 1
-187 3 1
-188 2 1
-189 2 1
-190 2 1
-191 1 1
-192 2 1
-193 2 1
-194 2 1
-319 64 1
-319 6 3
-319 24 1
-158 27 1
-150 12 1
-483 19 1
-518 55 1
-519 12 6
-756 17 1
-756 23 1
-757 26 1
-757 3 1
-757 14 1
-758 26 1
-759 21 1
-759 41 1
-575 19 1
-575 80 3
-575 4 1
-575 55 1
-119 19 1
-119 30 1
-533 1 1
-533 20 1
-534 2 1
-534 19 1
-534 1 1
-534 13 3
-534 27 2
-535 2 1
-535 27 1
-134 17 1
-134 4 1
-110 15 1
-110 16 2
-111 18 1
-112 12 1
-113 20 1
-748 26 2
-749 22 2
-749 41 1
-484 19 1
-597 2 1
-320 16 1
-321 26 1
-321 5 1
-553 67 2
-553 4 1
-553 19 2
-553 0 9
-553 12 3
-683 4 1
-485 12 5
-486 4 1
-175 12 2
-175 10 1
-176 29 1
-233 12 1
-476 27 1
-118 12 1
-240 14 1
-240 29 14
-280 4 4
-487 65 1
-487 14 1
-487 13 1
-554 0 1
-555 1 1
-555 14 1
-556 1 1
-557 1 3
-557 14 1
-557 29 3
-558 14 1
-177 20 1
-322 2 2
-323 17 1
-323 59 1
-281 12 1
-511 17 1
-511 4 1
-511 0 1
-511 12 2
-678 12 1
-108 2 2
-108 14 1
-109 11 1
-507 2 13
-507 11 7
-507 14 2
-507 13 4
-507 29 1
-507 27 1
-488 4 1
-488 19 2
-488 10 1
-684 12 2
-677 17 1
-508 2 2
-508 8 1
-508 1 1
-508 29 1
-559 4 2
-182 15 1
-214 10 1
-149 3 1
-149 13 1
-667 12 1
-668 29 1
-669 17 1
-670 12 1
-671 11 1
-169 17 1
-170 4 1
-171 4 1
-172 16 1
-173 2 1
-527 2 1
-560 14 1
-234 0 1
-324 31 1
-324 48 1
-700 17 4
-700 4 3
-700 7 1
-700 1 1
-700 0 1
-700 9 1
-700 62 1
-700 13 1
-467 2 1
-468 9 1
-469 29 1
-470 2 1
-471 0 1
-472 2 1
-473 72 1
-473 9 1
-474 4 1
-399 1 2
-399 14 1
-213 11 1
-561 12 2
-200 27 1
-201 2 2
-202 2 2
-203 2 1
-204 8 1
-205 2 1
-206 10 1
-207 2 1
-208 27 1
-489 1 1
-489 65 1
-490 14 1
-325 0 1
-326 3 1
-327 2 1
-327 19 3
-328 2 1
-328 4 1
-328 19 1
-328 19 2
-328 1 1
-328 12 1
-328 20 3
-328 10 3
-328 23 1
-723 12 1
-723 14 1
-329 4 2
-330 2 1
-331 3 1
-701 10 1
-183 12 1
-183 20 1
-562 13 1
-687 5 1
-576 2 1
-576 1 1
-576 0 1
-563 14 1
-598 29 1
-599 1 1
-599 12 1
-688 1 1
-577 55 9
-332 19 1
-332 23 1
-333 2 1
-333 1 3
-333 13 1
-333 27 1
-236 0 1
-430 75 1
-431 17 1
-431 17 1
-432 23 1
-433 2 1
-434 19 1
-435 2 1
-436 9 1
-437 9 1
-438 16 1
-439 55 1
-440 17 1
-441 17 1
-442 13 1
-443 9 1
-444 2 1
-445 33 1
-446 1 1
-447 27 1
-448 2 1
-449 17 1
-450 2 1
-451 2 1
-452 1 1
-453 2 1
-454 27 1
-455 2 1
-456 2 1
-457 2 1
-457 1 1
-458 2 1
-459 12 1
-479 17 1
-479 26 1
-334 0 1
-335 14 1
-600 5 2
-336 3 1
-601 11 2
-602 29 2
-603 6 2
-604 59 1
-345 15 1
-346 12 1
-347 41 1
-348 10 1
-349 2 1
-750 40 1
-750 5 1
-751 29 1
-138 1 1
-215 11 1
-216 2 1
-217 2 1
-218 2 1
-219 2 1
-220 2 1
-220 29 1
-221 2 1
-222 2 1
-223 2 1
-224 31 1
-225 2 1
-162 27 1
-163 14 1
-137 13 1
-164 7 1
-165 13 1
-166 1 1
-502 17 1
-502 19 1
-509 14 1
-509 13 2
-578 55 3
-155 11 1
-156 12 1
-157 3 2
-180 31 1
-689 15 1
-689 17 1
-689 5 3
-689 16 1
-689 9 1
-689 65 1
-689 13 2
-690 32 1
-691 5 1
-500 27 2
-536 12 1
-537 12 2
-538 12 8
-539 12 2
-514 1 1
-337 0 1
-338 0 1
-339 0 1
-608 27 1
-579 0 1
-579 6 1
-579 41 1
-168 4 1
-767 64 1
-768 19 3
-769 12 1
-770 2 1
-771 2 1
-772 66 1
+1053 0 1
+1398 1 1
+1139 2 1
+1139 3 1
+1028 4 1
+1028 5 1
+1047 6 1
+1471 4 6
+1471 7 1
+1471 0 2
+1495 2 1
+1495 3 1
+1272 1 1
+1273 3 1
+1433 4 2
+1433 8 1
+1189 4 1
+1189 6 1
+1189 9 1
+1599 10 1
+1599 11 1
+1447 12 1
+1447 13 1
+1437 13 1
+1592 1 1
+1592 14 1
+1631 3 1
+1631 11 1
+1632 15 1
+1632 3 1
+1632 6 2
+1632 16 2
+1632 14 1
+1633 17 3
+1633 18 1
+1634 1 1
+1634 12 1
+1635 19 5
+1635 20 1
+1636 20 1
+1636 5 1
+1637 21 1
+1637 22 1
+1638 23 3
+1639 0 11
+1639 12 9
+1640 17 1
+1640 12 2
+1641 24 1
+1642 2 1
+1642 19 2
+1642 1 8
+1642 3 3
+1642 14 2
+1642 13 1
+1643 1 1
+1644 2 1
+1644 1 1
+1644 22 2
+1645 2 1
+1645 25 1
+1645 1 1
+1645 18 1
+1646 26 1
+1647 14 2
+1647 27 1
+1648 2 1
+1648 19 3
+1648 1 1
+1648 3 1
+1648 28 2
+1648 14 1
+1649 29 11
+1650 29 1
+1448 0 9
+1448 12 1
+1399 6 1
+1427 12 1
+1027 4 1
+1307 2 2
+1307 17 3
+1307 29 1
+1308 8 1
+1308 22 1
+1309 17 2
+1310 3 1
+1311 2 1
+1312 8 1
+1312 1 4
+1312 3 1
+1312 20 1
+1313 19 1
+1313 20 1
+1314 19 1
+1314 17 2
+1314 30 2
+1315 22 1
+1316 2 12
+1316 3 2
+1316 12 1
+1317 2 1
+1318 2 1
+1318 17 3
+1318 4 1
+1319 2 1
+1319 26 1
+1319 1 6
+1319 3 1
+1319 20 3
+1319 24 1
+1319 13 2
+1320 1 2
+1321 2 1
+1322 2 106
+1322 1 1
+1322 3 5
+1323 2 2
+1323 1 1
+1324 24 1
+1325 2 1
+1325 24 1
+1326 2 1
+1327 3 1
+1328 8 1
+1329 2 1
+1330 24 1
+1331 12 5
+1331 23 1
+1332 9 1
+1333 2 2
+1334 2 1
+1430 2 1
+1430 14 2
+1430 13 3
+1430 29 3
+1430 27 5
+1489 13 1
+1672 19 2
+1672 31 1
+1672 8 4
+1672 32 3
+1672 0 1
+1672 12 9
+1672 33 1
+1672 5 34
+1672 9 6
+1672 34 2
+1672 29 1
+1673 19 11
+1673 0 3
+1673 5 2
+1673 9 1
+1673 29 1
+1487 24 1
+1001 2 1
+1002 2 1
+1003 2 1
+1004 2 1
+1005 2 1
+1006 2 1
+1007 3 1
+1008 2 1
+1009 2 1
+1010 2 1
+1011 6 1
+1012 11 1
+1013 12 1
+1512 4 1
+1513 17 1
+1513 12 1
+1514 17 1
+1496 19 1
+1497 2 1
+1497 21 1
+1411 0 3
+1582 8 1
+1190 35 1
+1190 36 1
+1190 16 1
+1191 32 1
+1191 10 1
+1449 12 1
+1116 6 2
+1117 2 1
+1118 2 1
+1119 29 1
+1498 10 1
+1387 4 1
+1387 12 1
+1387 30 4
+1667 37 1
+1667 38 1
+1667 17 1
+1667 39 1
+1667 19 1
+1667 8 3
+1667 19 4
+1667 0 13
+1667 12 6
+1667 40 1
+1667 33 1
+1667 9 5
+1667 41 2
+1667 29 6
+1668 16 1
+1669 42 1
+1669 43 1
+1669 44 7
+1669 45 6
+1669 31 29
+1669 26 1
+1669 19 2
+1669 46 1
+1669 32 2
+1669 0 3
+1669 12 1
+1669 47 1
+1669 48 8
+1669 40 1
+1669 49 2
+1669 33 1
+1669 4 1
+1669 50 1
+1669 51 2
+1669 52 1
+1669 53 1
+1669 16 1
+1669 3 1
+1669 29 6
+1669 54 1
+1670 7 1
+1670 26 1
+1670 32 2
+1670 20 1
+1670 55 1
+1670 56 1
+1670 16 2
+1670 29 3
+1671 37 1
+1671 4 1
+1671 39 1
+1671 7 1
+1671 31 19
+1671 57 1
+1671 58 1
+1671 59 1
+1671 45 1
+1671 0 1
+1671 12 1
+1671 48 1
+1671 40 2
+1671 49 4
+1671 60 1
+1671 55 1
+1671 51 1
+1671 5 17
+1671 52 1
+1671 61 1
+1671 56 1
+1671 62 1
+1671 45 1
+1671 29 1
+1671 54 1
+1144 26 4
+1144 63 1
+1144 55 2
+1144 21 2
+1144 41 1
+1516 5 1
+1517 17 1
+1518 39 1
+1519 17 1
+1520 16 1
+1521 13 1
+1522 5 1
+1523 55 1
+1524 15 1
+1525 2 1
+1526 17 1
+1527 13 1
+1528 20 1
+1529 64 1
+1530 8 1
+1531 23 1
+1532 11 1
+1533 2 1
+1534 3 1
+1535 1 1
+1536 59 1
+1488 2 1
+1420 65 1
+1369 2 2
+1370 12 1
+1370 33 1
+1371 2 1
+1372 13 1
+1373 17 1
+1373 4 1
+1586 2 1
+1586 27 1
+1284 1 1
+1285 1 1
+1021 5 1
+1423 66 1
+1423 12 1
+1417 12 1
+1102 11 1
+1103 4 1
+1104 2 2
+1105 2 1
+1106 24 5
+1192 64 1
+1085 26 1
+1439 13 1
+1439 29 1
+1438 1 2
+1438 29 1
+1145 5 2
+1146 5 3
+1659 41 2
+1660 30 3
+1661 67 1
+1661 26 1
+1661 8 3
+1661 19 2
+1661 5 2
+1661 21 2
+1661 41 1
+1661 29 2
+1662 64 5
+1662 17 1
+1662 66 2
+1662 25 1
+1662 31 2
+1662 26 13
+1662 8 3
+1662 59 4
+1662 68 1
+1662 18 2
+1662 4 2
+1662 55 1
+1662 6 1
+1662 5 4
+1662 65 1
+1662 61 1
+1662 30 1
+1662 69 1
+1662 21 3
+1662 22 12
+1662 41 9
+1662 29 1
+1662 27 2
+1136 24 3
+1137 55 1
+1138 2 1
+1600 4 4
+1601 12 1
+1601 30 1
+1042 0 1
+1043 8 1
+1043 12 1
+1651 9 1
+1193 17 3
+1193 23 2
+1194 2 2
+1195 0 1
+1196 26 2
+1196 70 1
+1196 22 1
+1197 4 1
+1197 11 2
+1197 6 1
+1198 24 1
+1199 2 1
+1200 4 2
+1200 11 1
+1201 2 3
+1201 68 1
+1201 4 1
+1202 64 2
+1203 64 2
+1203 21 1
+1133 8 6
+1134 11 1
+1135 8 2
+1450 4 1
+1450 19 1
+1286 1 1
+1287 3 1
+1288 12 1
+1289 19 2
+1290 3 1
+1291 20 1
+1292 17 1
+1293 2 2
+1293 11 1
+1294 2 1
+1295 2 1
+1296 2 1
+1297 2 1
+1297 3 1
+1298 1 1
+1299 22 1
+1300 12 1
+1081 16 1
+1142 1 1
+1472 41 1
+1473 23 1
+1474 4 2
+1475 12 1
+1476 55 1
+1477 19 1
+1478 24 1
+1479 55 2
+1204 11 1
+1054 2 2
+1054 13 2
+1054 29 1
+1055 20 1
+1301 2 6
+1301 26 1
+1301 1 43
+1301 3 1
+1301 0 2
+1301 12 1
+1301 20 3
+1301 13 4
+1301 29 1
+1301 27 2
+1302 2 8
+1303 2 1
+1304 27 1
+1305 39 1
+1652 4 1
+1652 5 1
+1382 49 1
+1247 10 1
+1248 9 1
+1249 12 1
+1250 23 1
+1251 7 1
+1408 65 1
+1499 13 1
+1499 27 1
+1451 12 1
+1602 10 1
+1205 1 1
+1490 65 1
+1491 12 1
+1492 2 1
+1493 24 1
+1581 55 1
+1206 31 1
+1422 13 1
+1422 29 1
+1048 2 1
+1049 12 1
+1050 2 36
+1050 3 1
+1051 2 1
+1452 13 1
+1452 27 2
+1453 2 1
+1419 19 1
+1583 17 1
+1277 2 1
+1207 0 1
+1454 8 1
+1454 24 1
+1182 64 1
+1182 2 1
+1183 2 1
+1184 9 1
+1274 17 1
+1275 17 1
+1276 3 1
+1603 4 2
+1604 4 1
+1605 4 2
+1605 62 1
+1606 17 1
+1606 4 1
+1388 19 6
+1388 12 1
+1367 17 2
+1367 3 1
+1367 5 1
+1022 2 1
+1400 3 1
+1401 0 2
+1402 0 2
+1148 2 1
+1149 3 2
+1150 2 3
+1151 2 3
+1152 2 1
+1153 2 4
+1154 2 2
+1155 2 1
+1156 6 1
+1156 29 3
+1157 2 1
+1158 2 1
+1159 2 1
+1160 4 1
+1161 2 1
+1162 2 1
+1163 2 3
+1163 1 1
+1163 65 1
+1163 13 1
+1164 2 8
+1164 3 1
+1164 11 1
+1165 2 2
+1166 2 1
+1167 2 1
+1168 71 5
+1168 2 2
+1168 72 1
+1168 61 1
+1168 41 1
+1169 64 1
+1169 2 7
+1169 72 1
+1169 11 1
+1169 21 1
+1170 6 1
+1171 55 1
+1172 2 1
+1173 2 2
+1173 19 2
+1174 24 2
+1175 6 1
+1176 2 2
+1177 2 1
+1178 2 2
+1179 2 3
+1180 2 1
+1181 2 1
+1500 64 1
+1429 2 1
+1014 12 1
+1278 17 1
+1279 64 1
+1280 2 1
+1281 2 1
+1282 19 1
+1283 19 1
+1208 73 1
+1208 17 1
+1208 4 1
+1208 5 1
+1209 2 1
+1209 7 1
+1209 1 2
+1209 3 1
+1209 0 3
+1209 4 1
+1052 0 1
+1424 19 2
+1424 74 4
+1424 55 1
+1424 6 6
+1424 24 12
+1210 2 1
+1210 66 2
+1210 4 2
+1210 39 1
+1210 19 2
+1210 31 2
+1210 19 2
+1210 1 1
+1210 59 1
+1210 3 1
+1210 12 4
+1210 68 1
+1210 33 3
+1210 4 13
+1210 6 4
+1210 16 1
+1210 9 3
+1210 75 1
+1210 13 6
+1210 29 2
+1210 27 2
+1211 66 1
+1211 12 1
+1211 20 3
+1211 33 1
+1211 9 1
+1211 28 1
+1211 30 1
+1389 17 1
+1389 1 1
+1389 0 1
+1389 12 1
+1389 23 1
+1389 13 1
+1573 12 1
+1088 2 1
+1593 30 1
+1029 15 2
+1029 12 2
+1029 23 1
+1029 16 1
+1029 9 6
+1579 1 1
+1384 55 19
+1384 6 2
+1384 24 15
+1046 12 1
+1212 0 1
+1501 29 1
+1580 2 1
+1587 38 1
+1587 4 2
+1587 19 2
+1587 12 2
+1588 16 1
+1588 10 1
+1588 27 1
+1403 62 1
+1404 4 4
+1404 12 7
+1405 2 1
+1405 3 1
+1405 14 1
+1405 13 1
+1074 29 1
+1335 17 1
+1335 2 1
+1335 0 1
+1335 12 1
+1368 12 1
+1428 23 1
+1066 2 1
+1066 27 1
+1067 4 1
+1068 12 1
+1213 66 2
+1213 59 1
+1213 49 1
+1213 4 2
+1213 61 1
+1502 22 1
+1609 19 1
+1609 1 1
+1610 15 2
+1610 17 20
+1610 67 1
+1610 4 1
+1610 16 2
+1610 9 7
+1610 62 1
+1610 13 6
+1611 17 1
+1537 5 3
+1538 2 1
+1539 11 1
+1540 2 1
+1541 2 1
+1542 1 1
+1543 4 1
+1544 2 1
+1545 4 1
+1546 7 1
+1547 4 1
+1548 5 1
+1549 23 1
+1550 3 1
+1551 5 1
+1552 5 1
+1553 39 1
+1554 39 1
+1555 17 1
+1556 0 1
+1557 2 1
+1558 2 1
+1559 17 1
+1560 0 1
+1561 17 1
+1562 0 1
+1563 11 1
+1564 4 1
+1565 2 1
+1566 17 1
+1567 13 1
+1568 2 1
+1569 1 1
+1570 2 1
+1571 1 1
+1572 22 1
+1455 67 6
+1455 0 4
+1214 7 1
+1215 12 1
+1215 16 1
+1216 0 1
+1456 12 1
+1456 29 1
+1086 13 1
+1431 4 1
+1431 10 1
+1612 42 1
+1612 2 2
+1612 8 2
+1612 59 1
+1612 21 1
+1613 19 1
+1613 1 8
+1613 3 3
+1613 5 1
+1613 14 1
+1613 13 1
+1614 19 1
+1614 20 1
+1615 27 1
+1616 19 1
+1616 19 1
+1617 17 2
+1617 76 1
+1618 19 1
+1618 0 4
+1619 59 1
+1619 62 1
+1620 15 1
+1621 2 1
+1621 7 4
+1621 26 1
+1621 19 9
+1621 1 1
+1621 3 3
+1621 0 13
+1621 49 1
+1621 5 1
+1621 13 2
+1621 27 1
+1622 2 2
+1622 4 1
+1622 19 9
+1622 1 10
+1622 59 1
+1622 45 1
+1622 3 13
+1622 0 2
+1622 12 10
+1622 49 1
+1622 16 1
+1622 28 1
+1622 77 1
+1622 14 8
+1622 13 2
+1622 27 5
+1623 0 2
+1624 19 1
+1624 6 1
+1624 29 1
+1624 27 1
+1625 4 1
+1625 19 1
+1625 10 1
+1626 4 1
+1626 12 3
+1626 20 3
+1626 10 2
+1626 5 2
+1626 30 1
+1626 29 1
+1626 27 1
+1627 2 2
+1627 29 2
+1627 27 2
+1628 7 1
+1628 31 1
+1628 72 1
+1628 0 6
+1628 68 1
+1628 5 1
+1628 62 1
+1628 29 1
+1628 78 1
+1629 19 1
+1589 2 2
+1589 12 4
+1589 9 1
+1589 41 2
+1257 2 1
+1258 2 1
+1259 2 1
+1260 2 1
+1261 2 1
+1262 11 1
+1263 1 1
+1264 1 1
+1265 10 2
+1266 2 4
+1266 8 1
+1266 3 1
+1266 11 1
+1266 55 1
+1457 29 1
+1458 13 1
+1459 7 1
+1459 0 9
+1480 2 1
+1480 29 3
+1503 26 2
+1267 3 1
+1268 3 1
+1269 71 1
+1270 12 1
+1271 2 1
+1185 2 14
+1185 3 1
+1186 2 1
+1410 12 1
+1432 27 1
+1412 2 2
+1217 15 1
+1058 2 3
+1058 1 4
+1058 14 2
+1059 14 1
+1060 2 1
+1060 1 1
+1061 2 5
+1061 1 1
+1061 21 1
+1653 40 3
+1654 59 1
+1654 23 1
+1654 9 2
+1385 13 1
+1218 17 1
+1218 66 1
+1218 4 2
+1219 35 1
+1219 17 1
+1219 79 1
+1219 2 19
+1219 19 1
+1219 1 5
+1219 3 2
+1219 20 1
+1406 1 2
+1406 20 1
+1220 0 1
+1023 27 1
+1024 66 1
+1024 1 1
+1024 4 1
+1024 13 1
+1024 29 1
+1221 29 1
+1222 29 1
+1494 2 1
+1413 3 1
+1223 29 1
+1224 0 1
+1224 62 1
+1225 32 1
+1030 2 1
+1030 6 1
+1031 67 1
+1031 0 2
+1032 19 1
+1033 15 1
+1034 8 1
+1034 19 1
+1035 2 1
+1036 2 1
+1037 2 1
+1037 5 20
+1037 14 1
+1037 13 1
+1037 27 1
+1038 19 1
+1039 5 1
+1040 29 1
+1481 5 1
+1435 24 3
+1436 2 4
+1436 19 1
+1436 19 3
+1436 1 1
+1436 3 1
+1436 0 1
+1436 12 2
+1436 6 1
+1436 14 7
+1436 13 9
+1436 27 2
+1336 1 1
+1091 2 1
+1092 2 1
+1093 2 1
+1094 3 1
+1095 2 1
+1096 2 1
+1097 2 1
+1098 1 1
+1099 2 1
+1100 2 1
+1101 2 1
+1226 64 1
+1226 6 3
+1226 24 1
+1065 27 1
+1057 12 1
+1390 19 1
+1425 55 1
+1426 12 6
+1663 17 1
+1663 23 1
+1664 26 1
+1664 3 1
+1664 14 1
+1665 26 1
+1666 21 1
+1666 41 1
+1482 19 1
+1482 80 3
+1482 4 1
+1482 55 1
+1026 19 1
+1026 30 1
+1440 1 1
+1440 20 1
+1441 2 1
+1441 19 1
+1441 1 1
+1441 13 3
+1441 27 2
+1442 2 1
+1442 27 1
+1041 17 1
+1041 4 1
+1017 15 1
+1017 16 2
+1018 18 1
+1019 12 1
+1020 20 1
+1655 26 2
+1656 22 2
+1656 41 1
+1391 19 1
+1504 2 1
+1227 16 1
+1228 26 1
+1228 5 1
+1460 67 2
+1460 4 1
+1460 19 2
+1460 0 9
+1460 12 3
+1590 4 1
+1392 12 5
+1393 4 1
+1082 12 2
+1082 10 1
+1083 29 1
+1140 12 1
+1383 27 1
+1025 12 1
+1147 14 1
+1147 29 14
+1187 4 4
+1394 65 1
+1394 14 1
+1394 13 1
+1461 0 1
+1462 1 1
+1462 14 1
+1463 1 1
+1464 1 3
+1464 14 1
+1464 29 3
+1465 14 1
+1084 20 1
+1229 2 2
+1230 17 1
+1230 59 1
+1188 12 1
+1418 17 1
+1418 4 1
+1418 0 1
+1418 12 2
+1585 12 1
+1015 2 2
+1015 14 1
+1016 11 1
+1414 2 13
+1414 11 7
+1414 14 2
+1414 13 4
+1414 29 1
+1414 27 1
+1395 4 1
+1395 19 2
+1395 10 1
+1591 12 2
+1584 17 1
+1415 2 2
+1415 8 1
+1415 1 1
+1415 29 1
+1466 4 2
+1089 15 1
+1121 10 1
+1056 3 1
+1056 13 1
+1574 12 1
+1575 29 1
+1576 17 1
+1577 12 1
+1578 11 1
+1076 17 1
+1077 4 1
+1078 4 1
+1079 16 1
+1080 2 1
+1434 2 1
+1467 14 1
+1141 0 1
+1231 31 1
+1231 48 1
+1607 17 4
+1607 4 3
+1607 7 1
+1607 1 1
+1607 0 1
+1607 9 1
+1607 62 1
+1607 13 1
+1374 2 1
+1375 9 1
+1376 29 1
+1377 2 1
+1378 0 1
+1379 2 1
+1380 72 1
+1380 9 1
+1381 4 1
+1306 1 2
+1306 14 1
+1120 11 1
+1468 12 2
+1107 27 1
+1108 2 2
+1109 2 2
+1110 2 1
+1111 8 1
+1112 2 1
+1113 10 1
+1114 2 1
+1115 27 1
+1396 1 1
+1396 65 1
+1397 14 1
+1232 0 1
+1233 3 1
+1234 2 1
+1234 19 3
+1235 2 1
+1235 4 1
+1235 19 1
+1235 19 2
+1235 1 1
+1235 12 1
+1235 20 3
+1235 10 3
+1235 23 1
+1630 12 1
+1630 14 1
+1236 4 2
+1237 2 1
+1238 3 1
+1608 10 1
+1090 12 1
+1090 20 1
+1469 13 1
+1594 5 1
+1483 2 1
+1483 1 1
+1483 0 1
+1470 14 1
+1505 29 1
+1506 1 1
+1506 12 1
+1595 1 1
+1484 55 9
+1239 19 1
+1239 23 1
+1240 2 1
+1240 1 3
+1240 13 1
+1240 27 1
+1143 0 1
+1337 75 1
+1338 17 1
+1338 17 1
+1339 23 1
+1340 2 1
+1341 19 1
+1342 2 1
+1343 9 1
+1344 9 1
+1345 16 1
+1346 55 1
+1347 17 1
+1348 17 1
+1349 13 1
+1350 9 1
+1351 2 1
+1352 33 1
+1353 1 1
+1354 27 1
+1355 2 1
+1356 17 1
+1357 2 1
+1358 2 1
+1359 1 1
+1360 2 1
+1361 27 1
+1362 2 1
+1363 2 1
+1364 2 1
+1364 1 1
+1365 2 1
+1366 12 1
+1386 17 1
+1386 26 1
+1241 0 1
+1242 14 1
+1507 5 2
+1243 3 1
+1508 11 2
+1509 29 2
+1510 6 2
+1511 59 1
+1252 15 1
+1253 12 1
+1254 41 1
+1255 10 1
+1256 2 1
+1657 40 1
+1657 5 1
+1658 29 1
+1045 1 1
+1122 11 1
+1123 2 1
+1124 2 1
+1125 2 1
+1126 2 1
+1127 2 1
+1127 29 1
+1128 2 1
+1129 2 1
+1130 2 1
+1131 31 1
+1132 2 1
+1069 27 1
+1070 14 1
+1044 13 1
+1071 7 1
+1072 13 1
+1073 1 1
+1409 17 1
+1409 19 1
+1416 14 1
+1416 13 2
+1485 55 3
+1062 11 1
+1063 12 1
+1064 3 2
+1087 31 1
+1596 15 1
+1596 17 1
+1596 5 3
+1596 16 1
+1596 9 1
+1596 65 1
+1596 13 2
+1597 32 1
+1598 5 1
+1407 27 2
+1443 12 1
+1444 12 2
+1445 12 8
+1446 12 2
+1421 1 1
+1244 0 1
+1245 0 1
+1246 0 1
+1515 27 1
+1486 0 1
+1486 6 1
+1486 41 1
+1075 4 1
+1674 64 1
+1675 19 3
+1676 12 1
+1677 2 1
+1678 2 1
+1679 66 1

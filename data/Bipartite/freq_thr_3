@@ -1,305 +1,305 @@
 #N nodes = 96, N features = 42
 
 *Vertices 138
-564"Agelastica coerulea " 
-726"Andrena  ishiharai " 
-728"Andrena  tsukubana " 
-731"Andrena  omogensis " 
-732"Andrena  akitsushimae " 
-735"Andrena  hikosana " 
-741"Andrena  yamamotoi " 
-742"Andrena  halictoides " 
-541"Anoploderomorpha excavata " 
-400"ANTHOMYIIDAE12 " 
-405"ANTHOMYIIDAE21 " 
-409"ANTHOMYIIDAE28 " 
-411"ANTHOMYIIDAE3 " 
-412"ANTHOMYIIDAE31 " 
-415"ANTHOMYIIDAE38 " 
-424"ANTHOMYIIDAE50 " 
-523"Anthromacra viriclissima " 
-765"Apis cerana " 
-766"Apis mellifera " 
-504"Athemellus insulsus " 
-480"Blitopertha orientalis " 
-760"Bombus  hypocrita hypocrita " 
-762"Bombus  diversus diversus " 
-763"Bombus  ardens " 
-764"Bombus  honshuensis " 
-237"Bombylius major " 
-199"CECIDOMYIIDAE6 " 
-239"Cephenius sp. " 
-753"Ceratina flavipes " 
-754"Ceratina japonica " 
-755"Ceratina megastigmata " 
-229"CERATOPOGONIDAE1 " 
-693"Cerceris carinalis " 
-286"Cheilosia omogensis " 
-294"Cheilosia sp.7 " 
-226"CHIRONOMIDAE5 " 
-394"CLUSIIDAE1 " 
-395"CLUSIIDAE2 " 
-143"DELTOCEPHALIDAE4 " 
-481"Ectinohoplia obducta " 
-243"EMPIDIDAE11 " 
-244"EMPIDIDAE13 " 
-246"EMPIDIDAE15 " 
-249"EMPIDIDAE19 " 
-256"EMPIDIDAE25 " 
-257"EMPIDIDAE27 " 
-261"EMPIDIDAE31 " 
-262"EMPIDIDAE32 " 
-272"EMPIDIDAE7 " 
-302"Episyrphus balteatus " 
-517"Epuraea sp. " 
-303"Eristalis cerealis " 
-304"Eristalomya tenax " 
-122"Eurystylus coelestialium " 
-477"Eusphalerum parallelum " 
-497"Gamepenthes versipellis " 
-703"Hylaeus globula " 
-630"ICHNEUMONIDAE1 " 
-548"Idiostrangalia contracta " 
-706"Lasioglossum  sp.2 " 
-711"Lasioglossum  sp.25 " 
-714"Lasioglossum  transpositum " 
-715"Lasioglossum  apristum " 
-719"Lasioglossum  occidens " 
-721"Lasioglossum  sp.3 " 
-682"Lasius niger " 
-359"LAUXANIIDAE9 " 
-552"Leptura ochraceofasciata " 
-573"Linoetis coeruleipennis " 
-278"LONCHOPTERIDAE1 " 
-151"MECOPTERA2 " 
-154"MECOPTERA5 " 
-746"Megachile remota sakagamii " 
-312"Melanostoma scalare " 
-130"MIRIDAE3 " 
-528"Mordellina sp. " 
-529"Mordellistena sp. " 
-319"Neoascia sp. " 
-519"NITIDULIDAE6 " 
-575"Nonartha cyaneum " 
-534"Oedemeronia manicata " 
-553"Parastrangalis nymphula " 
-485"Paratrichius doentzi " 
-240"Philopota nigroaenea " 
-280"PHORIDAE1 " 
-557"Pidonia signifera " 
-507"Podabrus temporalis " 
-700"Rhopalum  latronum " 
-327"Sphaerophoria macrogaster " 
-328"Sphaerophoria menthastri " 
-577"Syreta adamsi " 
-333"Syrphus vitripennis " 
-578"Tricholochmaea semifulva " 
-689"Vespa xanthoptera " 
-538"Xanthochroa luteipennis " 
-768"LUSIIDAE1 " 
-0"thunbergii" 
-1"pubescens" 
-2"crenata" 
-3"amurense" 
-4"macrophylla" 
-5"paniculata" 
-6"alatus" 
-7"hirta" 
-8"hortensis" 
-9"aemula" 
-10"dentata" 
-11"plicatum" 
-12"controversa" 
-13"pallida" 
-14"tomentella" 
-15"trichocarpa" 
-16"javanica" 
-17"annuus" 
-18"platanifolium" 
-19"japonicum" 
-20"kagamontanum" 
-21"textori" 
-22"obtusifolium" 
-23"lineariloba" 
-24"gracilistyla" 
-25"flaccida" 
-26"nepalense" 
-27"kusanoana" 
-28"vaginata" 
-29"verecunda" 
-30"rufinerve" 
-31"salicifolia" 
-32"salicina" 
-33"senticosa" 
-34"incisa" 
-35"dioicus" 
-36"alternifolia" 
-37"chinensis" 
-38"bicolor" 
-39"villosa" 
-40"Grayana" 
-41"clethroides" 
+1471 "Agelastica coerulea " 
+1633 "Andrena  ishiharai " 
+1635 "Andrena  tsukubana " 
+1638 "Andrena  omogensis " 
+1639 "Andrena  akitsushimae " 
+1642 "Andrena  hikosana " 
+1648 "Andrena  yamamotoi " 
+1649 "Andrena  halictoides " 
+1448 "Anoploderomorpha excavata " 
+1307 "ANTHOMYIIDAE12 " 
+1312 "ANTHOMYIIDAE21 " 
+1316 "ANTHOMYIIDAE28 " 
+1318 "ANTHOMYIIDAE3 " 
+1319 "ANTHOMYIIDAE31 " 
+1322 "ANTHOMYIIDAE38 " 
+1331 "ANTHOMYIIDAE50 " 
+1430 "Anthromacra viriclissima " 
+1672 "Apis cerana " 
+1673 "Apis mellifera " 
+1411 "Athemellus insulsus " 
+1387 "Blitopertha orientalis " 
+1667 "Bombus  hypocrita hypocrita " 
+1669 "Bombus  diversus diversus " 
+1670 "Bombus  ardens " 
+1671 "Bombus  honshuensis " 
+1144 "Bombylius major " 
+1106 "CECIDOMYIIDAE6 " 
+1146 "Cephenius sp. " 
+1660 "Ceratina flavipes " 
+1661 "Ceratina japonica " 
+1662 "Ceratina megastigmata " 
+1136 "CERATOPOGONIDAE1 " 
+1600 "Cerceris carinalis " 
+1193 "Cheilosia omogensis " 
+1201 "Cheilosia sp.7 " 
+1133 "CHIRONOMIDAE5 " 
+1301 "CLUSIIDAE1 " 
+1302 "CLUSIIDAE2 " 
+1050 "DELTOCEPHALIDAE4 " 
+1388 "Ectinohoplia obducta " 
+1150 "EMPIDIDAE11 " 
+1151 "EMPIDIDAE13 " 
+1153 "EMPIDIDAE15 " 
+1156 "EMPIDIDAE19 " 
+1163 "EMPIDIDAE25 " 
+1164 "EMPIDIDAE27 " 
+1168 "EMPIDIDAE31 " 
+1169 "EMPIDIDAE32 " 
+1179 "EMPIDIDAE7 " 
+1209 "Episyrphus balteatus " 
+1424 "Epuraea sp. " 
+1210 "Eristalis cerealis " 
+1211 "Eristalomya tenax " 
+1029 "Eurystylus coelestialium " 
+1384 "Eusphalerum parallelum " 
+1404 "Gamepenthes versipellis " 
+1610 "Hylaeus globula " 
+1537 "ICHNEUMONIDAE1 " 
+1455 "Idiostrangalia contracta " 
+1613 "Lasioglossum  sp.2 " 
+1618 "Lasioglossum  sp.25 " 
+1621 "Lasioglossum  transpositum " 
+1622 "Lasioglossum  apristum " 
+1626 "Lasioglossum  occidens " 
+1628 "Lasioglossum  sp.3 " 
+1589 "Lasius niger " 
+1266 "LAUXANIIDAE9 " 
+1459 "Leptura ochraceofasciata " 
+1480 "Linoetis coeruleipennis " 
+1185 "LONCHOPTERIDAE1 " 
+1058 "MECOPTERA2 " 
+1061 "MECOPTERA5 " 
+1653 "Megachile remota sakagamii " 
+1219 "Melanostoma scalare " 
+1037 "MIRIDAE3 " 
+1435 "Mordellina sp. " 
+1436 "Mordellistena sp. " 
+1226 "Neoascia sp. " 
+1426 "NITIDULIDAE6 " 
+1482 "Nonartha cyaneum " 
+1441 "Oedemeronia manicata " 
+1460 "Parastrangalis nymphula " 
+1392 "Paratrichius doentzi " 
+1147 "Philopota nigroaenea " 
+1187 "PHORIDAE1 " 
+1464 "Pidonia signifera " 
+1414 "Podabrus temporalis " 
+1607 "Rhopalum  latronum " 
+1234 "Sphaerophoria macrogaster " 
+1235 "Sphaerophoria menthastri " 
+1484 "Syreta adamsi " 
+1240 "Syrphus vitripennis " 
+1485 "Tricholochmaea semifulva " 
+1596 "Vespa xanthoptera " 
+1445 "Xanthochroa luteipennis " 
+1675 "LUSIIDAE1 " 
+0 "thunbergii" 
+1 "pubescens" 
+2 "crenata" 
+3 "amurense" 
+4 "macrophylla" 
+5 "paniculata" 
+6 "alatus" 
+7 "hirta" 
+8 "hortensis" 
+9 "aemula" 
+10 "dentata" 
+11 "plicatum" 
+12 "controversa" 
+13 "pallida" 
+14 "tomentella" 
+15 "trichocarpa" 
+16 "javanica" 
+17 "annuus" 
+18 "platanifolium" 
+19 "japonicum" 
+20 "kagamontanum" 
+21 "textori" 
+22 "obtusifolium" 
+23 "lineariloba" 
+24 "gracilistyla" 
+25 "flaccida" 
+26 "nepalense" 
+27 "kusanoana" 
+28 "vaginata" 
+29 "verecunda" 
+30 "rufinerve" 
+31 "salicifolia" 
+32 "salicina" 
+33 "senticosa" 
+34 "incisa" 
+35 "dioicus" 
+36 "alternifolia" 
+37 "chinensis" 
+38 "bicolor" 
+39 "villosa" 
+40 "Grayana" 
+41 "clethroides" 
 
 *Bipartite 96
-564 0 6
-726 1 3
-728 2 5
-731 3 3
-732 4 11
-732 5 9
-735 6 8
-735 7 3
-741 2 3
-742 8 11
-541 4 9
-400 1 3
-405 6 4
-409 9 12
-411 1 3
-412 6 6
-412 10 3
-415 9 106
-415 7 5
-424 5 5
-523 11 3
-523 8 3
-523 12 5
-765 13 4
-765 14 3
-765 5 9
-765 15 34
-765 16 6
-766 2 11
-766 4 3
-504 4 3
-480 17 4
-760 13 3
-760 2 4
-760 4 13
-760 5 6
-760 16 5
-760 8 6
-762 18 7
-762 19 6
-762 20 29
-762 4 3
-762 21 8
-762 8 6
-763 8 3
-764 20 19
-764 22 4
-764 15 17
-237 23 4
-199 24 5
-239 15 3
-753 17 3
-754 13 3
-755 25 5
-755 23 13
-755 13 3
-755 26 4
-755 15 4
-755 27 3
-755 28 12
-755 29 9
-229 24 3
-693 0 4
-286 1 3
-294 9 3
-226 13 6
-394 9 6
-394 6 43
-394 10 3
-394 11 4
-395 9 8
-143 9 36
-481 2 6
-243 9 3
-244 9 3
-246 9 4
-249 8 3
-256 9 3
-257 9 8
-261 30 5
-262 9 7
-272 9 3
-302 4 3
-517 31 4
-517 32 6
-517 24 12
-303 5 4
-303 33 3
-303 0 13
-303 32 4
-303 16 3
-303 11 6
-304 10 3
-122 16 6
-477 34 19
-477 24 15
-497 0 4
-497 5 7
-703 1 20
-703 16 7
-703 11 6
-630 15 3
-548 35 6
-548 4 4
-706 6 8
-706 7 3
-711 4 4
-714 36 4
-714 2 9
-714 7 3
-714 4 13
-715 2 9
-715 6 10
-715 7 13
-715 5 10
-715 37 8
-715 12 5
-719 5 3
-719 10 3
-721 4 6
-682 5 4
-359 9 4
-552 4 9
-573 8 3
-278 9 14
-151 9 3
-151 6 4
-154 9 5
-746 38 3
-312 9 19
-312 6 5
-130 15 20
-528 24 3
-529 9 4
-529 2 3
-529 37 7
-529 11 9
-319 32 3
-519 5 6
-575 39 3
-534 11 3
-553 4 9
-553 5 3
-485 5 5
-240 8 14
-280 0 4
-557 6 3
-557 8 3
-507 9 13
-507 40 7
-507 11 4
-700 1 4
-700 0 3
-327 2 3
-328 10 3
-328 41 3
-577 34 9
-333 6 3
-578 34 3
-689 15 3
-538 5 8
-768 2 3
+1471 0 6
+1633 1 3
+1635 2 5
+1638 3 3
+1639 4 11
+1639 5 9
+1642 6 8
+1642 7 3
+1648 2 3
+1649 8 11
+1448 4 9
+1307 1 3
+1312 6 4
+1316 9 12
+1318 1 3
+1319 6 6
+1319 10 3
+1322 9 106
+1322 7 5
+1331 5 5
+1430 11 3
+1430 8 3
+1430 12 5
+1672 13 4
+1672 14 3
+1672 5 9
+1672 15 34
+1672 16 6
+1673 2 11
+1673 4 3
+1411 4 3
+1387 17 4
+1667 13 3
+1667 2 4
+1667 4 13
+1667 5 6
+1667 16 5
+1667 8 6
+1669 18 7
+1669 19 6
+1669 20 29
+1669 4 3
+1669 21 8
+1669 8 6
+1670 8 3
+1671 20 19
+1671 22 4
+1671 15 17
+1144 23 4
+1106 24 5
+1146 15 3
+1660 17 3
+1661 13 3
+1662 25 5
+1662 23 13
+1662 13 3
+1662 26 4
+1662 15 4
+1662 27 3
+1662 28 12
+1662 29 9
+1136 24 3
+1600 0 4
+1193 1 3
+1201 9 3
+1133 13 6
+1301 9 6
+1301 6 43
+1301 10 3
+1301 11 4
+1302 9 8
+1050 9 36
+1388 2 6
+1150 9 3
+1151 9 3
+1153 9 4
+1156 8 3
+1163 9 3
+1164 9 8
+1168 30 5
+1169 9 7
+1179 9 3
+1209 4 3
+1424 31 4
+1424 32 6
+1424 24 12
+1210 5 4
+1210 33 3
+1210 0 13
+1210 32 4
+1210 16 3
+1210 11 6
+1211 10 3
+1029 16 6
+1384 34 19
+1384 24 15
+1404 0 4
+1404 5 7
+1610 1 20
+1610 16 7
+1610 11 6
+1537 15 3
+1455 35 6
+1455 4 4
+1613 6 8
+1613 7 3
+1618 4 4
+1621 36 4
+1621 2 9
+1621 7 3
+1621 4 13
+1622 2 9
+1622 6 10
+1622 7 13
+1622 5 10
+1622 37 8
+1622 12 5
+1626 5 3
+1626 10 3
+1628 4 6
+1589 5 4
+1266 9 4
+1459 4 9
+1480 8 3
+1185 9 14
+1058 9 3
+1058 6 4
+1061 9 5
+1653 38 3
+1219 9 19
+1219 6 5
+1037 15 20
+1435 24 3
+1436 9 4
+1436 2 3
+1436 37 7
+1436 11 9
+1226 32 3
+1426 5 6
+1482 39 3
+1441 11 3
+1460 4 9
+1460 5 3
+1392 5 5
+1147 8 14
+1187 0 4
+1464 6 3
+1464 8 3
+1414 9 13
+1414 40 7
+1414 11 4
+1607 1 4
+1607 0 3
+1234 2 3
+1235 10 3
+1235 41 3
+1484 34 9
+1240 6 3
+1485 34 3
+1596 15 3
+1445 5 8
+1675 2 3

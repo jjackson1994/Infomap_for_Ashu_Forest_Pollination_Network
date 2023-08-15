@@ -1,55 +1,55 @@
 #N nodes = 18, N features = 12
 
 *Vertices 30
-415"ANTHOMYIIDAE38 " 
-765"Apis cerana " 
-760"Bombus  hypocrita hypocrita " 
-762"Bombus  diversus diversus " 
-764"Bombus  honshuensis " 
-755"Ceratina megastigmata " 
-394"CLUSIIDAE1 " 
-143"DELTOCEPHALIDAE4 " 
-303"Eristalis cerealis " 
-477"Eusphalerum parallelum " 
-703"Hylaeus globula " 
-714"Lasioglossum  transpositum " 
-715"Lasioglossum  apristum " 
-278"LONCHOPTERIDAE1 " 
-312"Melanostoma scalare " 
-130"MIRIDAE3 " 
-240"Philopota nigroaenea " 
-507"Podabrus temporalis " 
-0"aemula" 
-1"trichocarpa" 
-2"macrophylla" 
-3"kagamontanum" 
-4"lineariloba" 
-5"alatus" 
-6"thunbergii" 
-7"incisa" 
-8"gracilistyla" 
-9"pubescens" 
-10"hirta" 
-11"hortensis" 
+1322 "ANTHOMYIIDAE38 " 
+1672 "Apis cerana " 
+1667 "Bombus  hypocrita hypocrita " 
+1669 "Bombus  diversus diversus " 
+1671 "Bombus  honshuensis " 
+1662 "Ceratina megastigmata " 
+1301 "CLUSIIDAE1 " 
+1050 "DELTOCEPHALIDAE4 " 
+1210 "Eristalis cerealis " 
+1384 "Eusphalerum parallelum " 
+1610 "Hylaeus globula " 
+1621 "Lasioglossum  transpositum " 
+1622 "Lasioglossum  apristum " 
+1185 "LONCHOPTERIDAE1 " 
+1219 "Melanostoma scalare " 
+1037 "MIRIDAE3 " 
+1147 "Philopota nigroaenea " 
+1414 "Podabrus temporalis " 
+0 "aemula" 
+1 "trichocarpa" 
+2 "macrophylla" 
+3 "kagamontanum" 
+4 "lineariloba" 
+5 "alatus" 
+6 "thunbergii" 
+7 "incisa" 
+8 "gracilistyla" 
+9 "pubescens" 
+10 "hirta" 
+11 "hortensis" 
 
 *Bipartite 18
-415 0 106
-765 1 34
-760 2 13
-762 3 29
-764 3 19
-764 1 17
-755 4 13
-394 5 43
-143 0 36
-303 6 13
-477 7 19
-477 8 15
-703 9 20
-714 2 13
-715 10 13
-278 0 14
-312 0 19
-130 1 20
-240 11 14
-507 0 13
+1322 0 106
+1672 1 34
+1667 2 13
+1669 3 29
+1671 3 19
+1671 1 17
+1662 4 13
+1301 5 43
+1050 0 36
+1210 6 13
+1384 7 19
+1384 8 15
+1610 9 20
+1621 2 13
+1622 10 13
+1185 0 14
+1219 0 19
+1037 1 20
+1147 11 14
+1414 0 13
