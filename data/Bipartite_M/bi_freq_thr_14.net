@@ -1,0 +1,44 @@
+*Vertices 28
+10 "pubescens"
+12 "aemula"
+12 "aemula"
+12 "aemula"
+12 "aemula"
+24 "kagamontanum"
+24 "kagamontanum"
+34 "alatus"
+61 "incisa"
+64 "trichocarpa"
+64 "trichocarpa"
+67 "trichocarpa"
+73 "gracilistyla"
+90 "hortensis"
+1054 "ANTHOMYIIDAE38 (Ant. : Dip. )"
+1069 "Apis cerana (Api. : Hym. )"
+1103 "Bombus (Diversobombus) diversus diversus (Api. : Hym. )"
+1105 "Bombus (Thoracobombus) honshuensis (Api. : Hym. )"
+1105 "Bombus (Thoracobombus) honshuensis (Api. : Hym. )"
+1207 "CLUSIIDAE1 (Clu. : Dip. )"
+1233 "DELTOCEPHALIDAE4 (Del. : Hem. )"
+1313 "Eusphalerum parallelum (Sta. : Col. )"
+1313 "Eusphalerum parallelum (Sta. : Col. )"
+1333 "Hylaeus globula (Col. : Hym. )"
+1417 "LONCHOPTERIDAE1 (Lon. : Dip. )"
+1431 "Melanostoma scalare (Syr. : Dip. )"
+1450 "MIRIDAE3 (Mir. : Hem. )"
+1504 "Philopota nigroaenea (Acr. : Dip. )"
+*Bipartite 1054
+12 1054 106
+64 1069 34
+24 1103 29
+24 1105 19
+64 1105 17
+34 1207 43
+12 1233 36
+61 1313 19
+73 1313 15
+10 1333 20
+12 1417 14
+12 1431 19
+67 1450 20
+90 1504 14
