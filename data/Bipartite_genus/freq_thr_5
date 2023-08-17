@@ -1,0 +1,153 @@
+# 24 main nodes and 50 feature nodes 
+*Vertices 74
+0 "Acer"
+5 "Alangium"
+7 "Anemone"
+8 "Angelica"
+10 "Antenoron"
+11 "Anthriscus"
+13 "Aster"
+20 "Carpesium"
+21 "Castanea"
+24 "Clinopodium"
+27 "Corydalis"
+30 "Deutzia"
+34 "Euonymus"
+35 "Geranium"
+44 "Kalimeris"
+49 "Oxalis"
+50 "Patrinia"
+52 "Persicaria"
+55 "Petasites"
+63 "Rabdosia"
+67 "Rosa"
+68 "Rubus"
+69 "Rubus"
+70 "Rubus"
+1005 "Agelastica coerulea (Chr. : Col. )"
+1019 "Andrena (Calomelissa) tsukubana (And. : Hym. )"
+1023 "Andrena (Hoplandera) akitsushimae (And. : Hym. )"
+1026 "Andrena (Micrandrena) hikosana (And. : Hym. )"
+1033 "Andrena (Stenomelissa) halictoides (And. : Hym. )"
+1035 "Anoploderomorpha excavata (Cer. : Col. )"
+1048 "ANTHOMYIIDAE28 (Ant. : Dip. )"
+1051 "ANTHOMYIIDAE31 (Ant. : Dip. )"
+1054 "ANTHOMYIIDAE38 (Ant. : Dip. )"
+1063 "ANTHOMYIIDAE50 (Ant. : Dip. )"
+1067 "Anthromacra viriclissima (Lag. : Col. )"
+1069 "Apis cerana (Api. : Hym. )"
+1070 "Apis mellifera (Api. : Hym. )"
+1101 "Bombus (Bombus) hypocrita hypocrita (Api. : Hym. )"
+1103 "Bombus (Diversobombus) diversus diversus (Api. : Hym. )"
+1105 "Bombus (Thoracobombus) honshuensis (Api. : Hym. )"
+1145 "CECIDOMYIIDAE6 (Cec. : Dip. )"
+1155 "Ceratina megastigmata (Ant. : Hym. )"
+1175 "CHIRONOMIDAE5 (Chi. : Dip. )"
+1207 "CLUSIIDAE1 (Clu. : Dip. )"
+1208 "CLUSIIDAE2 (Clu. : Dip. )"
+1233 "DELTOCEPHALIDAE4 (Del. : Hem. )"
+1252 "Ectinohoplia obducta (Sca. : Col. )"
+1274 "EMPIDIDAE27 (Emp. : Dip. )"
+1278 "EMPIDIDAE31 (Emp. : Dip. )"
+1279 "EMPIDIDAE32 (Emp. : Dip. )"
+1304 "Epuraea sp. (Nit. : Col. )"
+1305 "Eristalis cerealis (Syr. : Dip. )"
+1311 "Eurystylus coelestialium (Mir. : Hem. )"
+1313 "Eusphalerum parallelum (Sta. : Col. )"
+1321 "Gamepenthes versipellis (Ela. : Col. )"
+1333 "Hylaeus globula (Col. : Hym. )"
+1371 "Idiostrangalia contracta (Cer. : Col. )"
+1379 "Lasioglossum ("Dialictus") sp.2 (Hal. : Hym. )"
+1387 "Lasioglossum (El.) transpositum (Hal. : Hym. )"
+1388 "Lasioglossum (Et.) apristum (Hal. : Hym. )"
+1394 "Lasioglossum (Lasioglossum) sp.3 (Hal. : Hym. )"
+1409 "Leptura ochraceofasciata (Cer. : Col. )"
+1417 "LONCHOPTERIDAE1 (Lon. : Dip. )"
+1426 "MECOPTERA5 (Mec. : Mec. )"
+1431 "Melanostoma scalare (Syr. : Dip. )"
+1450 "MIRIDAE3 (Mir. : Hem. )"
+1456 "Mordellistena sp. (Mor. : Col. )"
+1474 "NITIDULIDAE6 (Nit. : Col. )"
+1495 "Parastrangalis nymphula (Cer. : Col. )"
+1497 "Paratrichius doentzi (Sca. : Col. )"
+1504 "Philopota nigroaenea (Acr. : Dip. )"
+1520 "Podabrus temporalis (Can. : Col. )"
+1583 "Syreta adamsi (Chr. : Col. )"
+1664 "Xanthochroa luteipennis (Oed. : Col. )"
+*Bipartite 1005
+13 1005 6
+27 1019 5
+34 1023 20
+30 1026 8
+69 1033 11
+34 1035 10
+10 1048 12
+30 1051 6
+10 1054 106
+34 1054 5
+34 1063 5
+70 1067 5
+34 1069 10
+50 1069 34
+52 1069 6
+20 1070 11
+34 1101 19
+52 1101 5
+69 1101 6
+5 1103 7
+21 1103 35
+35 1103 9
+69 1103 6
+21 1105 19
+50 1105 18
+55 1145 5
+7 1155 5
+24 1155 16
+68 1155 25
+24 1175 6
+10 1207 6
+30 1207 43
+10 1208 8
+10 1233 36
+20 1252 6
+10 1274 8
+0 1278 5
+10 1279 7
+49 1304 7
+55 1304 12
+34 1305 5
+44 1305 16
+67 1305 6
+52 1311 6
+49 1313 21
+55 1313 15
+34 1321 7
+8 1333 20
+52 1333 7
+67 1333 6
+11 1371 6
+30 1379 8
+27 1387 9
+34 1387 16
+27 1388 9
+30 1388 10
+34 1388 25
+63 1388 8
+70 1388 5
+34 1394 6
+34 1409 9
+10 1417 14
+10 1426 5
+10 1431 19
+30 1431 5
+52 1450 20
+63 1456 7
+67 1456 9
+34 1474 6
+34 1495 12
+34 1497 5
+69 1504 14
+10 1520 13
+49 1520 7
+49 1583 9
+34 1664 8

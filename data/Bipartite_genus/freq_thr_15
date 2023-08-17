@@ -1,0 +1,50 @@
+# 12 main nodes and 16 feature nodes 
+*Vertices 28
+8 "Angelica"
+10 "Antenoron"
+21 "Castanea"
+24 "Clinopodium"
+30 "Deutzia"
+34 "Euonymus"
+44 "Kalimeris"
+49 "Oxalis"
+50 "Patrinia"
+52 "Persicaria"
+55 "Petasites"
+68 "Rubus"
+1023 "Andrena (Hoplandera) akitsushimae (And. : Hym. )"
+1054 "ANTHOMYIIDAE38 (Ant. : Dip. )"
+1069 "Apis cerana (Api. : Hym. )"
+1101 "Bombus (Bombus) hypocrita hypocrita (Api. : Hym. )"
+1103 "Bombus (Diversobombus) diversus diversus (Api. : Hym. )"
+1105 "Bombus (Thoracobombus) honshuensis (Api. : Hym. )"
+1155 "Ceratina megastigmata (Ant. : Hym. )"
+1207 "CLUSIIDAE1 (Clu. : Dip. )"
+1233 "DELTOCEPHALIDAE4 (Del. : Hem. )"
+1305 "Eristalis cerealis (Syr. : Dip. )"
+1313 "Eusphalerum parallelum (Sta. : Col. )"
+1333 "Hylaeus globula (Col. : Hym. )"
+1387 "Lasioglossum (El.) transpositum (Hal. : Hym. )"
+1388 "Lasioglossum (Et.) apristum (Hal. : Hym. )"
+1431 "Melanostoma scalare (Syr. : Dip. )"
+1450 "MIRIDAE3 (Mir. : Hem. )"
+*Bipartite 1023
+34 1023 20
+10 1054 106
+50 1069 34
+34 1101 19
+21 1103 35
+21 1105 19
+50 1105 18
+24 1155 16
+68 1155 25
+30 1207 43
+10 1233 36
+44 1305 16
+49 1313 21
+55 1313 15
+8 1333 20
+34 1387 16
+34 1388 25
+10 1431 19
+52 1450 20
