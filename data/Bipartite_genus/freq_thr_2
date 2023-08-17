@@ -1,0 +1,543 @@
+# 43 main nodes and 180 feature nodes 
+*Vertices 223
+0 "Acer"
+5 "Alangium"
+6 "Ampelopsis"
+7 "Anemone"
+8 "Angelica"
+10 "Antenoron"
+11 "Anthriscus"
+12 "Aruncus"
+13 "Aster"
+18 "Cacalia"
+20 "Carpesium"
+21 "Castanea"
+24 "Clinopodium"
+27 "Corydalis"
+30 "Deutzia"
+31 "Disporum"
+33 "Euonymus"
+34 "Euonymus"
+35 "Geranium"
+36 "Geum"
+38 "Hydrangea"
+39 "Hydrangea"
+40 "Hydrangea"
+41 "Impatiens"
+42 "Impatiens"
+43 "Ixeris"
+44 "Kalimeris"
+46 "Ligustrum"
+49 "Oxalis"
+50 "Patrinia"
+51 "Persicaria"
+52 "Persicaria"
+53 "Persicaria"
+54 "Persicaria"
+55 "Petasites"
+60 "Prunus"
+61 "Prunus"
+63 "Rabdosia"
+65 "Rhus"
+67 "Rosa"
+68 "Rubus"
+69 "Rubus"
+70 "Rubus"
+1005 "Agelastica coerulea (Chr. : Col. )"
+1009 "ALLECULIDAE1 (All. : Col. )"
+1016 "Andrena (Andrena) brevihirtiscopa (And. : Hym. )"
+1017 "Andrena (Andrena) ishiharai (And. : Hym. )"
+1019 "Andrena (Calomelissa) tsukubana (And. : Hym. )"
+1021 "Andrena (Euandrena) stellaria (And. : Hym. )"
+1022 "Andrena (Habromellissa) omogensis (And. : Hym. )"
+1023 "Andrena (Hoplandera) akitsushimae (And. : Hym. )"
+1024 "Andrena (Hoplandera) dentata (And. : Hym. )"
+1026 "Andrena (Micrandrena) hikosana (And. : Hym. )"
+1028 "Andrena (Micrandrena) komachi (And. : Hym. )"
+1031 "Andrena (Simandrena) opacifovea opacifovea (And. : Hym. )"
+1032 "Andrena (Simandrena) yamamotoi (And. : Hym. )"
+1033 "Andrena (Stenomelissa) halictoides (And. : Hym. )"
+1035 "Anoploderomorpha excavata (Cer. : Col. )"
+1039 "ANTHOMYIIDAE12 (Ant. : Dip. )"
+1041 "ANTHOMYIIDAE16 (Ant. : Dip. )"
+1044 "ANTHOMYIIDAE21 (Ant. : Dip. )"
+1046 "ANTHOMYIIDAE25 (Ant. : Dip. )"
+1048 "ANTHOMYIIDAE28 (Ant. : Dip. )"
+1050 "ANTHOMYIIDAE3 (Ant. : Dip. )"
+1051 "ANTHOMYIIDAE31 (Ant. : Dip. )"
+1052 "ANTHOMYIIDAE34 (Ant. : Dip. )"
+1054 "ANTHOMYIIDAE38 (Ant. : Dip. )"
+1055 "ANTHOMYIIDAE4 (Ant. : Dip. )"
+1063 "ANTHOMYIIDAE50 (Ant. : Dip. )"
+1065 "ANTHOMYIIDAE7 (Ant. : Dip. )"
+1067 "Anthromacra viriclissima (Lag. : Col. )"
+1069 "Apis cerana (Api. : Hym. )"
+1070 "Apis mellifera (Api. : Hym. )"
+1090 "Athemellus insulsus (Can. : Col. )"
+1095 "BIBIONIDAE1 (Bib. : Dip. )"
+1100 "Blitopertha orientalis (Sca. : Col. )"
+1101 "Bombus (Bombus) hypocrita hypocrita (Api. : Hym. )"
+1103 "Bombus (Diversobombus) diversus diversus (Api. : Hym. )"
+1104 "Bombus (Pyrobombus) ardens (Api. : Hym. )"
+1105 "Bombus (Thoracobombus) honshuensis (Api. : Hym. )"
+1106 "Bombylius major (Bom. : Dip. )"
+1130 "CALLIPHORIDAE10 (Cal. : Dip. )"
+1143 "CECIDOMYIIDAE4 (Cec. : Dip. )"
+1145 "CECIDOMYIIDAE6 (Cec. : Dip. )"
+1149 "Cephaloon pallensa (Cep. : Col. )"
+1150 "Cephenius nitobei (Bom. : Dip. )"
+1151 "Cephenius sp. (Bom. : Dip. )"
+1152 "Ceratina esakii (Ant. : Hym. )"
+1153 "Ceratina flavipes (Ant. : Hym. )"
+1154 "Ceratina japonica (Ant. : Hym. )"
+1155 "Ceratina megastigmata (Ant. : Hym. )"
+1156 "CERATOPOGONIDAE1 (Cer. : Dip. )"
+1159 "Cerceris carinalis (Sph. : Hym. )"
+1164 "Cheilosia omogensis (Syr. : Dip. )"
+1165 "Cheilosia sp.1 (Syr. : Dip. )"
+1167 "Cheilosia sp.11 (Syr. : Dip. )"
+1168 "Cheilosia sp.12 (Syr. : Dip. )"
+1171 "Cheilosia sp.6 (Syr. : Dip. )"
+1172 "Cheilosia sp.7 (Syr. : Dip. )"
+1173 "Cheilosia sp.9 (Syr. : Dip. )"
+1174 "Cheilosia sp.14 (Syr. : Dip. )"
+1175 "CHIRONOMIDAE5 (Chi. : Dip. )"
+1177 "CHIRONOMIDAE9 (Chi. : Dip. )"
+1182 "CHLOROPIDAE18 (Chl. : Dip. )"
+1186 "CHLOROPIDAE23 (Chl. : Dip. )"
+1198 "CHRYSOMELIDAE20 (Chr. : Col. )"
+1203 "CHRYSOMELIDAE32 (Chr. : Col. )"
+1205 "CIXIIDAE1 (Cix. : Hem. )"
+1207 "CLUSIIDAE1 (Clu. : Dip. )"
+1208 "CLUSIIDAE2 (Clu. : Dip. )"
+1233 "DELTOCEPHALIDAE4 (Del. : Hem. )"
+1235 "Demonax transilis (Cer. : Col. )"
+1248 "Ectemnius (Cameronitus) radiatus (Sph. : Hym. )"
+1250 "Ectemnuis radiatus (Sph. : Hym. )"
+1252 "Ectinohoplia obducta (Sca. : Col. )"
+1253 "Ectophasia sinensis (Pha. : Dip. )"
+1256 "ELATERIDAE3 (Ela. : Col. )"
+1257 "ELATERIDAE8 (Ela. : Col. )"
+1259 "EMPIDIDAE10 (Emp. : Dip. )"
+1260 "EMPIDIDAE11 (Emp. : Dip. )"
+1261 "EMPIDIDAE13 (Emp. : Dip. )"
+1263 "EMPIDIDAE15 (Emp. : Dip. )"
+1264 "EMPIDIDAE16 (Emp. : Dip. )"
+1266 "EMPIDIDAE19 (Emp. : Dip. )"
+1273 "EMPIDIDAE25 (Emp. : Dip. )"
+1274 "EMPIDIDAE27 (Emp. : Dip. )"
+1275 "EMPIDIDAE28 (Emp. : Dip. )"
+1278 "EMPIDIDAE31 (Emp. : Dip. )"
+1279 "EMPIDIDAE32 (Emp. : Dip. )"
+1283 "EMPIDIDAE39 (Emp. : Dip. )"
+1284 "EMPIDIDAE4 (Emp. : Dip. )"
+1286 "EMPIDIDAE45 (Emp. : Dip. )"
+1288 "EMPIDIDAE6 (Emp. : Dip. )"
+1289 "EMPIDIDAE7 (Emp. : Dip. )"
+1301 "Epistotophe shibakawae (Syr. : Dip. )"
+1302 "Episyrphus balteatus (Syr. : Dip. )"
+1304 "Epuraea sp. (Nit. : Col. )"
+1305 "Eristalis cerealis (Syr. : Dip. )"
+1306 "Eristalomya tenax (Syr. : Dip. )"
+1307 "Eucetonia roelofsi (Sca. : Col. )"
+1311 "Eurystylus coelestialium (Mir. : Hem. )"
+1313 "Eusphalerum parallelum (Sta. : Col. )"
+1318 "Formica japonica (For. : Hym. )"
+1321 "Gamepenthes versipellis (Ela. : Col. )"
+1324 "Graphomyia maculata (Mus. : Dip. )"
+1330 "Helophilus virgatus (Syr. : Dip. )"
+1333 "Hylaeus globula (Col. : Hym. )"
+1335 "ICHNEUMONIDAE1 (Ich. : Hym. )"
+1371 "Idiostrangalia contracta (Cer. : Col. )"
+1378 "Lasioglossum ("Dialictus") problematicum (Hal. : Hym. )"
+1379 "Lasioglossum ("Dialictus") sp.2 (Hal. : Hym. )"
+1383 "Lasioglossum (El.) sexstrigatum (Hal. : Hym. )"
+1384 "Lasioglossum (El.) sp.25 (Hal. : Hym. )"
+1387 "Lasioglossum (El.) transpositum (Hal. : Hym. )"
+1388 "Lasioglossum (Et.) apristum (Hal. : Hym. )"
+1389 "Lasioglossum (Et.) baleicum (Hal. : Hym. )"
+1392 "Lasioglossum (Lasioglossum) occidens (Hal. : Hym. )"
+1393 "Lasioglossum (Lasioglossum) proximatum (Hal. : Hym. )"
+1394 "Lasioglossum (Lasioglossum) sp.3 (Hal. : Hym. )"
+1396 "Lasius niger (For. : Hym. )"
+1405 "LAUXANIIDAE5 (Lau. : Dip. )"
+1406 "LAUXANIIDAE9 (Lau. : Dip. )"
+1409 "Leptura ochraceofasciata (Cer. : Col. )"
+1410 "Linoetis coeruleipennis (Chr. : Col. )"
+1411 "Loderus eversmanini obscurus (Ten. : Hym. )"
+1417 "LONCHOPTERIDAE1 (Lon. : Dip. )"
+1421 "Malthodes sulcicollis (Can. : Col. )"
+1423 "MECOPTERA2 (Mec. : Mec. )"
+1426 "MECOPTERA5 (Mec. : Mec. )"
+1427 "Megachile remota sakagamii (Meg. : Hym. )"
+1428 "Megachile tsurugensis (Meg. : Hym. )"
+1430 "Megaspis zonata (Syr. : Dip. )"
+1431 "Melanostoma scalare (Syr. : Dip. )"
+1432 "Melanotus annosus (Ela. : Col. )"
+1444 "MIRIDAE13 (Mir. : Hem. )"
+1450 "MIRIDAE3 (Mir. : Hem. )"
+1455 "Mordellina sp. (Mor. : Col. )"
+1456 "Mordellistena sp. (Mor. : Col. )"
+1469 "Neoascia sp. (Syr. : Dip. )"
+1474 "NITIDULIDAE6 (Nit. : Col. )"
+1478 "Nomada pacifica (Ant. : Hym. )"
+1479 "Nonartha cyaneum (Chr. : Col. )"
+1482 "Oedemeronia manicata (Oed. : Col. )"
+1485 "ORTHOPTERA1 (Ort. : Ort. )"
+1489 "Osmia orientalis (Meg. : Hym. )"
+1490 "Osmia taurus (Meg. : Hym. )"
+1495 "Parastrangalis nymphula (Cer. : Col. )"
+1497 "Paratrichius doentzi (Sca. : Col. )"
+1499 "Parnara guttata (Hes. : Lep. )"
+1504 "Philopota nigroaenea (Acr. : Dip. )"
+1505 "PHORIDAE1 (Pho. : Dip. )"
+1510 "Pidonia signifera (Cer. : Col. )"
+1513 "Pipiza familiaris (Syr. : Dip. )"
+1516 "Plateros sp. (Lyc. : Col. )"
+1518 "PLECOPTERA10 (Ple. : Ple. )"
+1520 "Podabrus temporalis (Can. : Col. )"
+1521 "Popillia japonica (Sca. : Col. )"
+1522 "Pristomyrmex punger (For. : Hym. )"
+1524 "Prothemus ciusianus (Can. : Col. )"
+1525 "Pseudaosterna misella (Cer. : Col. )"
+1543 "Rhopalum (Latrorhopalum) latronum (Sph. : Hym. )"
+1552 "SCATOPHAGIDAE1 (Sca. : Dip. )"
+1554 "Schwarzerium quadricolle (Cer. : Col. )"
+1556 "SCIARIDAE11 (Sci. : Dip. )"
+1557 "SCIARIDAE12 (Sci. : Dip. )"
+1568 "Sphaerophoria macrogaster (Syr. : Dip. )"
+1569 "Sphaerophoria menthastri (Syr. : Dip. )"
+1571 "Sphegina sp.1 (Syr. : Dip. )"
+1583 "Syreta adamsi (Chr. : Col. )"
+1585 "Syrphus vitripennis (Syr. : Dip. )"
+1620 "Taxonus fulvicornis (Ten. : Hym. )"
+1622 "Tenthredinidae sp.?1 (Ten. : Hym. )"
+1623 "Tenthredo convagennata (Ten. : Hym. )"
+1624 "Tenthredo fukaii (Ten. : Hym. )"
+1652 "Tremus cyanipennis (Can. : Col. )"
+1653 "Tricholochmaea semifulva (Chr. : Col. )"
+1656 "TRICHOPTERA6 (Tri. : Tri. )"
+1658 "Vespa xanthoptera (Ves. : Hym. )"
+1661 "Vuilletus viridissllis (Ela. : Col. )"
+1663 "Xanthochroa deformis (Oed. : Col. )"
+1664 "Xanthochroa luteipennis (Oed. : Col. )"
+1665 "Xanthochroa waterhousei (Oed. : Col. )"
+1674 "LUSIIDAE1 (Clu. : Dip. )"
+*Bipartite 1005
+13 1005 6
+34 1005 2
+13 1009 2
+49 1016 2
+51 1016 2
+8 1017 3
+27 1019 5
+68 1021 2
+46 1022 3
+34 1023 20
+34 1024 2
+27 1026 2
+30 1026 8
+34 1026 3
+63 1026 2
+68 1028 2
+63 1031 2
+27 1032 3
+53 1032 2
+69 1033 11
+34 1035 10
+10 1039 2
+44 1039 3
+44 1041 2
+30 1044 4
+44 1046 2
+60 1046 2
+10 1048 12
+34 1048 3
+44 1050 4
+30 1051 6
+36 1051 3
+67 1051 2
+30 1052 2
+10 1054 106
+34 1054 5
+10 1055 2
+34 1063 5
+10 1065 2
+63 1067 2
+67 1067 3
+69 1067 3
+70 1067 5
+20 1069 2
+24 1069 4
+33 1069 3
+34 1069 10
+50 1069 34
+52 1069 6
+65 1069 2
+20 1070 11
+34 1070 3
+50 1070 2
+34 1090 3
+49 1095 2
+60 1100 4
+8 1101 2
+24 1101 3
+27 1101 4
+34 1101 19
+52 1101 5
+68 1101 2
+69 1101 6
+5 1103 7
+21 1103 35
+27 1103 2
+33 1103 2
+34 1103 4
+35 1103 9
+39 1103 2
+44 1103 2
+50 1103 2
+69 1103 6
+33 1104 2
+61 1104 2
+69 1104 3
+21 1105 19
+34 1105 2
+38 1105 2
+39 1105 4
+50 1105 18
+54 1105 3
+24 1106 4
+49 1106 2
+68 1106 3
+10 1130 2
+10 1143 2
+55 1145 5
+30 1149 2
+50 1150 2
+50 1151 3
+68 1152 2
+60 1153 3
+24 1154 4
+27 1154 2
+50 1154 2
+68 1154 3
+69 1154 2
+7 1155 5
+12 1155 2
+21 1155 2
+24 1155 16
+31 1155 4
+42 1155 2
+44 1155 2
+49 1155 2
+50 1155 4
+54 1155 2
+68 1155 25
+70 1155 2
+55 1156 3
+13 1159 4
+8 1164 3
+46 1164 2
+10 1165 2
+24 1167 2
+49 1168 3
+13 1171 2
+10 1172 3
+7 1173 2
+7 1174 2
+24 1175 6
+24 1177 2
+20 1182 2
+10 1186 2
+13 1198 2
+49 1203 2
+10 1205 2
+67 1205 2
+10 1207 6
+30 1207 43
+34 1207 4
+36 1207 3
+67 1207 4
+70 1207 2
+10 1208 8
+10 1233 36
+70 1235 2
+13 1248 2
+13 1250 2
+20 1252 6
+8 1253 2
+34 1256 2
+34 1257 2
+34 1259 2
+10 1260 3
+10 1261 3
+10 1263 4
+10 1264 2
+69 1266 3
+10 1273 3
+10 1274 8
+10 1275 2
+0 1278 5
+10 1278 2
+10 1279 7
+10 1283 2
+20 1283 2
+55 1284 2
+10 1286 2
+10 1288 2
+10 1289 3
+44 1301 3
+30 1302 2
+34 1302 4
+27 1304 2
+41 1304 4
+49 1304 7
+55 1304 12
+12 1305 2
+13 1305 2
+20 1305 2
+21 1305 2
+27 1305 2
+34 1305 5
+44 1305 16
+49 1305 4
+52 1305 3
+67 1305 6
+69 1305 2
+70 1305 2
+36 1306 3
+34 1307 2
+6 1311 2
+34 1311 2
+52 1311 6
+49 1313 21
+55 1313 15
+13 1318 2
+20 1318 2
+34 1318 2
+13 1321 4
+34 1321 7
+34 1324 2
+12 1330 2
+44 1330 2
+6 1333 2
+8 1333 20
+51 1333 2
+52 1333 7
+67 1333 6
+50 1335 3
+11 1371 6
+34 1371 4
+10 1378 2
+24 1378 2
+30 1379 8
+34 1379 3
+8 1383 2
+34 1384 4
+18 1387 4
+27 1387 9
+34 1387 16
+67 1387 2
+10 1388 2
+27 1388 9
+30 1388 10
+34 1388 25
+63 1388 8
+67 1388 2
+70 1388 5
+34 1389 2
+34 1392 3
+36 1392 3
+40 1392 2
+50 1392 2
+10 1393 2
+69 1393 2
+70 1393 2
+34 1394 6
+10 1396 2
+34 1396 4
+68 1396 2
+40 1405 2
+10 1406 4
+49 1406 2
+34 1409 9
+69 1410 3
+24 1411 2
+10 1417 14
+10 1421 2
+10 1423 3
+30 1423 4
+63 1423 2
+10 1426 5
+38 1427 3
+52 1428 2
+44 1430 2
+10 1431 19
+30 1431 5
+34 1431 2
+30 1432 2
+34 1444 2
+52 1450 20
+55 1455 3
+10 1456 4
+27 1456 3
+34 1456 4
+63 1456 7
+67 1456 9
+70 1456 2
+49 1469 3
+34 1474 6
+68 1478 2
+43 1479 3
+67 1482 3
+70 1482 2
+51 1485 2
+24 1489 2
+68 1490 3
+11 1495 2
+27 1495 2
+34 1495 12
+34 1497 5
+34 1499 2
+69 1504 14
+44 1505 4
+30 1510 3
+69 1510 3
+10 1513 2
+34 1516 3
+10 1518 2
+10 1520 13
+49 1520 7
+63 1520 2
+67 1520 4
+20 1521 2
+34 1522 2
+10 1524 2
+13 1525 2
+8 1543 4
+13 1543 3
+30 1552 2
+34 1554 2
+10 1556 2
+10 1557 2
+20 1568 3
+27 1569 2
+36 1569 3
+40 1569 3
+13 1571 2
+49 1583 9
+30 1585 3
+50 1620 2
+49 1622 2
+69 1623 2
+49 1624 2
+67 1652 2
+49 1653 3
+34 1656 2
+50 1658 3
+67 1658 2
+70 1661 2
+34 1663 2
+34 1664 8
+34 1665 2
+27 1674 3
