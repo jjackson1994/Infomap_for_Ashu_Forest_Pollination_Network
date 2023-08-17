@@ -1,69 +1,143 @@
-1470 0 6
-1638 1 11
-1638 2 9
-1641 3 8
-1648 4 11
-1447 1 9
-1315 5 12
-1318 3 6
-1321 5 106
-1671 2 9
-1671 6 34
-1671 7 6
-1672 8 11
-1666 1 13
-1666 2 6
-1666 4 6
-1668 9 7
-1668 10 6
-1668 11 29
-1668 12 8
-1668 4 6
-1670 11 19
-1670 6 17
-1661 13 13
-1661 14 12
-1661 15 9
-1132 16 6
-1300 5 6
-1300 3 43
-1301 5 8
-1049 5 36
-1387 8 6
-1163 5 8
-1168 5 7
-1423 17 6
-1423 18 12
-1209 0 13
-1209 19 6
-1028 7 6
-1383 20 19
-1383 18 15
-1403 2 7
-1609 21 20
-1609 7 7
-1609 19 6
-1454 22 6
-1612 3 8
-1620 8 9
-1620 1 13
-1621 8 9
-1621 3 10
-1621 23 13
-1621 2 10
-1621 24 8
-1627 1 6
-1458 1 9
-1184 5 14
-1218 5 19
-1036 6 20
-1435 24 7
-1435 19 9
-1425 2 6
-1459 1 9
-1146 4 14
-1413 5 13
-1413 25 7
-1483 20 9
-1444 2 8
-1444 2 8
+# 29 main nodes and 43 feature nodes 
+*Vertices 72
+5 "platanifolium"
+9 "pubescens"
+11 "aemula"
+12 "dioicus"
+14 "thunbergii"
+21 "crenata"
+22 "japonicum"
+23 "kagamontanum"
+26 "lineariloba"
+27 "pallida"
+30 "crenata"
+33 "alatus"
+38 "hirta"
+39 "macrophylla"
+40 "paniculata"
+42 "textori"
+54 "thunbergii"
+59 "Grayana"
+60 "incisa"
+61 "salicina"
+63 "trichocarpa"
+65 "javanica"
+66 "trichocarpa"
+72 "gracilistyla"
+80 "chinensis"
+84 "plicatum"
+87 "vaginata"
+88 "verecunda"
+89 "hortensis"
+1005 "Agelastica coerulea (Chr. : Col. )"
+1023 "Andrena (Hoplandera) akitsushimae (And. : Hym. )"
+1026 "Andrena (Micrandrena) hikosana (And. : Hym. )"
+1033 "Andrena (Stenomelissa) halictoides (And. : Hym. )"
+1035 "Anoploderomorpha excavata (Cer. : Col. )"
+1048 "ANTHOMYIIDAE28 (Ant. : Dip. )"
+1051 "ANTHOMYIIDAE31 (Ant. : Dip. )"
+1054 "ANTHOMYIIDAE38 (Ant. : Dip. )"
+1069 "Apis cerana (Api. : Hym. )"
+1070 "Apis mellifera (Api. : Hym. )"
+1101 "Bombus (Bombus) hypocrita hypocrita (Api. : Hym. )"
+1103 "Bombus (Diversobombus) diversus diversus (Api. : Hym. )"
+1105 "Bombus (Thoracobombus) honshuensis (Api. : Hym. )"
+1155 "Ceratina megastigmata (Ant. : Hym. )"
+1175 "CHIRONOMIDAE5 (Chi. : Dip. )"
+1207 "CLUSIIDAE1 (Clu. : Dip. )"
+1208 "CLUSIIDAE2 (Clu. : Dip. )"
+1233 "DELTOCEPHALIDAE4 (Del. : Hem. )"
+1252 "Ectinohoplia obducta (Sca. : Col. )"
+1274 "EMPIDIDAE27 (Emp. : Dip. )"
+1279 "EMPIDIDAE32 (Emp. : Dip. )"
+1304 "Epuraea sp. (Nit. : Col. )"
+1305 "Eristalis cerealis (Syr. : Dip. )"
+1311 "Eurystylus coelestialium (Mir. : Hem. )"
+1313 "Eusphalerum parallelum (Sta. : Col. )"
+1321 "Gamepenthes versipellis (Ela. : Col. )"
+1333 "Hylaeus globula (Col. : Hym. )"
+1371 "Idiostrangalia contracta (Cer. : Col. )"
+1379 "Lasioglossum ("Dialictus") sp.2 (Hal. : Hym. )"
+1387 "Lasioglossum (El.) transpositum (Hal. : Hym. )"
+1388 "Lasioglossum (Et.) apristum (Hal. : Hym. )"
+1394 "Lasioglossum (Lasioglossum) sp.3 (Hal. : Hym. )"
+1409 "Leptura ochraceofasciata (Cer. : Col. )"
+1417 "LONCHOPTERIDAE1 (Lon. : Dip. )"
+1431 "Melanostoma scalare (Syr. : Dip. )"
+1450 "MIRIDAE3 (Mir. : Hem. )"
+1456 "Mordellistena sp. (Mor. : Col. )"
+1474 "NITIDULIDAE6 (Nit. : Col. )"
+1495 "Parastrangalis nymphula (Cer. : Col. )"
+1504 "Philopota nigroaenea (Acr. : Dip. )"
+1520 "Podabrus temporalis (Can. : Col. )"
+1583 "Syreta adamsi (Chr. : Col. )"
+1664 "Xanthochroa luteipennis (Oed. : Col. )"
+*Arcs
+14 1005 6
+39 1023 11
+40 1023 9
+33 1026 8
+89 1033 11
+39 1035 9
+11 1048 12
+33 1051 6
+11 1054 106
+40 1069 9
+63 1069 34
+65 1069 6
+21 1070 11
+39 1101 13
+40 1101 6
+89 1101 6
+5 1103 7
+22 1103 6
+23 1103 29
+42 1103 8
+89 1103 6
+23 1105 19
+63 1105 17
+26 1155 13
+87 1155 12
+88 1155 9
+27 1175 6
+11 1207 6
+33 1207 43
+11 1208 8
+11 1233 36
+21 1252 6
+11 1274 8
+11 1279 7
+61 1304 6
+72 1304 12
+54 1305 13
+84 1305 6
+65 1311 6
+60 1313 19
+72 1313 15
+40 1321 7
+9 1333 20
+65 1333 7
+84 1333 6
+12 1371 6
+33 1379 8
+30 1387 9
+39 1387 13
+30 1388 9
+33 1388 10
+38 1388 13
+40 1388 10
+80 1388 8
+39 1394 6
+39 1409 9
+11 1417 14
+11 1431 19
+66 1450 20
+80 1456 7
+84 1456 9
+40 1474 6
+39 1495 9
+89 1504 14
+11 1520 13
+59 1520 7
+60 1583 9
+40 1664 8

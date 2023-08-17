@@ -1,13 +1,33 @@
-1321 0 106
-1671 1 34
-1668 2 29
-1670 2 19
-1670 1 17
-1300 3 43
-1049 0 36
-1383 4 19
-1383 5 15
-1609 6 20
-1218 0 19
-1036 1 20
-1036 1 20
+# 8 main nodes and 10 feature nodes 
+*Vertices 18
+9 "pubescens"
+11 "aemula"
+23 "kagamontanum"
+33 "alatus"
+60 "incisa"
+63 "trichocarpa"
+66 "trichocarpa"
+72 "gracilistyla"
+1054 "ANTHOMYIIDAE38 (Ant. : Dip. )"
+1069 "Apis cerana (Api. : Hym. )"
+1103 "Bombus (Diversobombus) diversus diversus (Api. : Hym. )"
+1105 "Bombus (Thoracobombus) honshuensis (Api. : Hym. )"
+1207 "CLUSIIDAE1 (Clu. : Dip. )"
+1233 "DELTOCEPHALIDAE4 (Del. : Hem. )"
+1313 "Eusphalerum parallelum (Sta. : Col. )"
+1333 "Hylaeus globula (Col. : Hym. )"
+1431 "Melanostoma scalare (Syr. : Dip. )"
+1450 "MIRIDAE3 (Mir. : Hem. )"
+*Arcs
+11 1054 106
+63 1069 34
+23 1103 29
+23 1105 19
+63 1105 17
+33 1207 43
+11 1233 36
+60 1313 19
+72 1313 15
+9 1333 20
+11 1431 19
+66 1450 20
