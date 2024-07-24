@@ -1,5 +1,7 @@
 ![forest.jpg](images/forest.jpg)
 # Infomap for Ashu Forest Pollination Network
+UNIPD Information Theory and Inference Course Project: [Course Information](https://didattica.unipd.it/off/2022/LM/SC/SC2443/000ZZ/SCQ0093479/N0)  
+  
 In this project we investgate communities structures in the Ashu Forest Pollination Network through using the Map Equation through InfoMap. We investigate this for both Monopartitie and Bipartite network structure's and then investigate the role of extinction. We pooled all the results into a common analysis in order to contextualize the various results. 
 
 
